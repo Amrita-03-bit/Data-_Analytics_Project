@@ -1,0 +1,22 @@
+
+SELECT *
+FROM read_csv_auto('data.csv');
+
+SELECT customer_name, SUM(quantity * price) AS total_spending
+FROM read_csv_auto('data.csv')
+GROUP BY customer_name
+ORDER BY total_spending DESC;
+
+SELECT product ,sum(price*quantity) as total_sales 
+FROM read_csv_auto('data.csv')
+GROUP BY product
+ORDER BY total_sales DESC LIMIT 1;
+
+SELECT product, SUM(quantity) AS total_quantity
+FROM read_csv_auto('data.csv')
+GROUP BY product
+ORDER BY total_quantity ASC;
+ 
+SELECT product ,(price*quantity) AS total_sales
+FROM read_csv_auto('data.csv')
+ORDER BY total_sales DESC LIMIT 3;
