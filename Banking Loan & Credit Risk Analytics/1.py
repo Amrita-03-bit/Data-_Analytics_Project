@@ -17,7 +17,11 @@ connection_url = URL.create(
 
 engine = create_engine(connection_url)
 
-
+select * from branches;
+select * from customers;
+select * from loan_branches;
+select * from loans;
+select * from payments;
 #1. Count the total number of customers.
 
 query="SELECT*FROM customers"
