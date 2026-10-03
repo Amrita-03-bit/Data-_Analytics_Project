@@ -1,5 +1,12 @@
 
 -- @conn MySQL Local
+
+SELECT * FROM customers;
+SELECT * FROM deliveries;
+SELECT * FROM order_items;
+SELECT * FROM orders;
+SELECT * FROM payments;
+SELECT * FROM restaurants;
 -- 1. Count the total number of customers.
 
 SELECT count(*)FROM food_delivery_db.customers;
