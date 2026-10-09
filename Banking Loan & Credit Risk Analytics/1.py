@@ -16,8 +16,12 @@ connection_url = URL.create(
 )
 
 engine = create_engine(connection_url)
-
-
+tables = ["branches","customers","loan_branches","loans","payments"]
+for table in tables:
+    query = f"SELECT * FROM {table};"
+    df = pd.read_sql(query, engine)
+    print(table)
+    print(df)
 #1. Count the total number of customers.
 
 query="SELECT*FROM customers"

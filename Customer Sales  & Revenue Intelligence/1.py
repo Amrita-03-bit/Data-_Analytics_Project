@@ -19,6 +19,13 @@ connection_url = URL.create(
 
 engine = create_engine(connection_url)
 
+tables = ["clients","departments","employee_projects","employees","projects","salaries","tasks"]
+
+for table in tables:
+    query = f"SELECT * FROM {table};"
+    df = pd.read_sql(query, engine)
+    print(table)
+    print(df)
 # Q1 Analyze the number of employees working in each department and present the findings visually.
 
 query="SELECT departments.department_name,employees.employee_id FROM departments INNER JOIN employees ON departments.department_id=employees.department_id;"

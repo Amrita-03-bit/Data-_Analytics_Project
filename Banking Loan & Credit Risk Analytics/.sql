@@ -1,5 +1,9 @@
 -- @conn  Banking Risk MySQL 
-
+select * from branches;
+select * from customers;
+select * from loan_branches;
+select * from loans;
+select * from payments;
 -- 7. Find the earliest loan date.
 
 SELECT loan_date AS earliest_loan_date FROM loans ORDER BY earliest_loan_date ASC LIMIT 1; 
