@@ -6,16 +6,20 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
+
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password = os.getenv("MYSQL_PASSWORD"),
+    password=os.getenv("MYSQL_PASSWORD"),
     database="food_delivery_db"
 )
-tables = ["customers","deliveries","order_items","orders","payments","restaurants"]
+
+tables = ["customers", "deliveries", "order_items", "orders", "payments", "restaurants"]
+
 for table in tables:
     query = f"SELECT * FROM {table};"
-    df = pd.read_sql(query, engine)
+    df = pd.read_sql(query, conn)
 
     print(table)
     print(df)

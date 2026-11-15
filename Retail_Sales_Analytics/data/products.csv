@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_price
+1,Laptop,Electronics,52000
+2,Mobile,Electronics,22000
+3,Tablet,Electronics,18000
+4,Keyboard,Accessories,1200
+5,Mouse,Accessories,650
+6,Monitor,Electronics,12500
+7,Headphones,Accessories,2400
+8,Office Chair,Furniture,7800
+9,Desk,Furniture,9500
+10,Printer,Electronics,14500
+11,Notebook,Stationery,90
+12,Pen Pack,Stationery,150
