@@ -4,7 +4,7 @@
 
 Northwind Traders is a data analytics project focused on analyzing sales, customers, products, orders, employees, and shipping operations.
 
-The project uses SQL, Python, Pandas, NumPy, Matplotlib, and Seaborn to explore business data, identify patterns, evaluate performance, and generate meaningful business insights.
+The project uses SQL, Python, Pandas, Matplotlib to explore business data, identify patterns, evaluate performance, and generate meaningful business insights.
 
 ## 2. Project Objectives
 
@@ -36,10 +36,8 @@ The project uses seven CSV datasets from the Northwind Traders database.
 - **Python** – Data analysis and processing
 - **SQL (MySQL 8.0)** – Database queries and business analysis
 - **Pandas** – Data manipulation and cleaning
-- **NumPy** – Numerical calculations
 - **Matplotlib** – Data visualization
-- **Seaborn** – Statistical visualization
-- **Jupyter Notebook / VS Code** – Development environment
+- **VS Code** – Development environment
 - **Git and GitHub** – Project version control
 
 ## 5. Business Questions
@@ -182,4 +180,4 @@ By analyzing the Northwind Traders dataset, the project aims to transform raw bu
 
 **Project Category:** Data Analytics  
 **Author:** Amrita  
-**Tools:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, MySQL
+**Tools:** Python, SQL, Pandas, Matplotlib, MySQL
