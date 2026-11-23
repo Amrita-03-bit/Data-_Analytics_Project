@@ -1,0 +1,2601 @@
+OrderID,CustomerID,OrderDate,SalesChannel,ShippingMethod,OrderStatus
+O000001,C00096,17-01-2024,Store,Standard,Pending
+O000002,C00411,14-02-2024,Partner,Express,Cancelled
+O000003,C00490,30-03-2025,Partner,Same Day,Shipped
+O000004,C00423,16-05-2023,Web,Standard,Pending
+O000005,C00427,22-07-2025,Partner,Same Day,Cancelled
+O000006,C00186,17-09-2024,Partner,Express,Pending
+O000007,C00134,09-05-2024,Partner,Standard,Cancelled
+O000008,C00452,17-02-2023,Web,Express,Delivered
+O000009,C00013,22-12-2024,Mobile App,Same Day,Delivered
+O000010,C00532,19-06-2024,Web,Express,Shipped
+O000011,C00494,21-12-2023,Partner,Standard,Pending
+O000012,C00012,20-10-2024,Mobile App,Same Day,Cancelled
+O000013,C00508,09-06-2025,Mobile App,Standard,Cancelled
+O000014,C00329,04-09-2023,Store,Express,Pending
+O000015,C00520,17-08-2023,Partner,Express,Shipped
+O000016,C00081,15-04-2024,Partner,Same Day,Cancelled
+O000017,C00091,27-05-2025,Partner,Express,Delivered
+O000018,C00122,24-05-2024,Web,Standard,unknown_status
+O000019,C00423,06-02-2023,Web,Standard,Delivered
+O000020,C00521,29-07-2024,Mobile App,Same Day,Cancelled
+O000021,C00350,08-01-2024,Web,Standard,Cancelled
+O000022,C00340,27-07-2024,Partner,Same Day,Delivered
+O000023,C00464,27-04-2023,Web,Same Day,Shipped
+O000024,C00003,16-12-2023,Store,Same Day,Delivered
+O000025,C00561,18-06-2024,Store,Same Day,Pending
+O000026,C00047,07-07-2025,Mobile App,Express,Shipped
+O000027,C00420,20-04-2023,Store,Same Day,Shipped
+O000028,C00193,04-05-2023,Partner,Standard,Cancelled
+O000029,C00196,03-01-2025,Store,Standard,Cancelled
+O000030,C00048,06-08-2025,Web,Express,Cancelled
+O000031,C00675,26-08-2024,Mobile App,Express,Pending
+O000032,C00544,23-01-2025,Web,Same Day,Cancelled
+O000033,C00600,09-05-2024,Mobile App,Same Day,Shipped
+O000034,C00132,17-04-2023,Partner,Same Day,Delivered
+O000035,C00517,21-06-2025,Partner,Express,Shipped
+O000036,C00281,12-02-2024,Store,Express,Cancelled
+O000037,C00137,22-05-2023,Partner,Same Day,Delivered
+O000038,C00561,31-05-2025,Store,Same Day,Shipped
+O000039,C00206,03-08-2023,Store,Same Day,Delivered
+O000040,C00689,16-05-2023,Mobile App,Same Day,Delivered
+O000041,C00119,18-02-2025,Store,Same Day,Cancelled
+O000042,C00597,07-08-2024,Partner,Same Day,Delivered
+O000043,C00433,07-04-2025,Web,Same Day,Pending
+O000044,C00026,26-01-2024,Mobile App,Standard,Pending
+O000045,C00205,01-10-2023,Mobile App,Express,Delivered
+O000046,C00150,09-05-2025,Web,Same Day,Delivered
+O000047,C00209,10-02-2025,Web,Express,Cancelled
+O000048,C00603,22-09-2024,Mobile App,Same Day,Cancelled
+O000049,C00244,07-06-2024,Store,Same Day,Pending
+O000050,C00391,01-02-2024,Partner,Same Day,Delivered
+O000051,C00566,25-02-2023,Web,Same Day,Delivered
+O000052,C00208,27-09-2024,Partner,Standard,Delivered
+O000053,C00603,13-07-2024,Mobile App,Same Day,Shipped
+O000054,C00302,04-04-2024,Mobile App,Same Day,Pending
+O000055,C00192,12-09-2025,Mobile App,Same Day,Pending
+O000056,C00387,11-02-2023,Partner,Express,Delivered
+O000057,C00134,14-06-2023,Store,Standard,Delivered
+O000058,C00478,27-12-2024,Mobile App,Standard,Shipped
+O000059,C00331,03-09-2024,Web,Same Day,Delivered
+O000060,C00503,19-03-2025,Store,Standard,Delivered
+O000061,C00539,14-08-2023,Mobile App,Same Day,Pending
+O000062,C00518,13-06-2023,Partner,Same Day,Cancelled
+O000063,C00095,24-12-2023,Mobile App,Standard,Delivered
+O000064,C00340,05-01-2024,Store,Standard,Cancelled
+O000065,C00575,23-04-2025,Web,Standard,Delivered
+O000066,C00457,04-09-2023,Mobile App,Standard,Delivered
+O000067,C00391,26-07-2025,Web,Express,Delivered
+O000068,C00554,11-01-2025,Store,Standard,Delivered
+O000069,C00527,02-04-2025,Partner,Express,Pending
+O000070,C00304,08-07-2025,Mobile App,Express,Pending
+O000071,C00099,21-06-2023,Web,Same Day,Pending
+O000072,C00216,17-11-2024,Mobile App,Same Day,Cancelled
+O000073,C00107,30-07-2023,Partner,Same Day,Pending
+O000074,C00158,25-01-2023,Partner,Same Day,Delivered
+O000075,C00039,31-03-2023,Web,Standard,Shipped
+O000076,C00258,25-07-2024,Web,Same Day,Shipped
+O000077,C00265,22-02-2024,Partner,Express,Cancelled
+O000078,C00444,20-11-2023,Web,Express,Pending
+O000079,C00548,07-01-2023,Web,Same Day,Pending
+O000080,C00075,02-01-2024,Web,Express,Delivered
+O000081,C00622,30-03-2023,Store,Express,Cancelled
+O000082,C00405,21-04-2025,Web,Express,Shipped
+O000083,C00547,14-08-2023,Mobile App,Same Day,Cancelled
+O000084,C00559,30-10-2023,Mobile App,Express,Delivered
+O000085,C00012,20-07-2024,Mobile App,Standard,Pending
+O000086,C00006,09-08-2024,Partner,Same Day,Pending
+O000087,C00313,04-08-2023,Store,Standard,Cancelled
+O000088,C00662,21-05-2025,Mobile App,Standard,Shipped
+O000089,C00227,23-09-2024,Store,Standard,Pending
+O000090,C00186,18-11-2024,Web,Same Day,Cancelled
+O000091,C00661,16-07-2024,Web,Express,Pending
+O000092,C00257,11-04-2023,Mobile App,Same Day,Cancelled
+O000093,C00339,01-01-2024,Mobile App,Same Day,Shipped
+O000094,C00103,19-10-2023,Web,Standard,Delivered
+O000095,C00498,06-04-2024,Store,Same Day,Delivered
+O000096,C00599,06-06-2023,Store,Express,Cancelled
+O000097,C00173,05-01-2023,Store,Standard,Shipped
+O000098,C00657,22-03-2024,Store,Express,Shipped
+O000099,C00696,20-01-2025,Store,Express,Cancelled
+O000100,C00457,03-01-2024,Store,Express,unknown_status
+O000101,C00180,23-10-2024,Web,Express,Shipped
+O000102,C00552,21-07-2023,Store,Same Day,Pending
+O000103,C00078,02-07-2025,Web,Same Day,Pending
+O000104,C00596,15-08-2024,Partner,Same Day,Shipped
+O000105,C00038,18-07-2024,Store,Same Day,Cancelled
+O000106,C00670,04-03-2025,Mobile App,Express,Cancelled
+O000107,C00229,01-07-2025,Store,Standard,Cancelled
+O000108,C00514,06-06-2024,Web,Express,Delivered
+O000109,C00515,11-01-2023,Mobile App,Same Day,Shipped
+O000110,C00527,24-05-2023,Partner,Standard,Shipped
+O000111,C00580,29-08-2025,Mobile App,Same Day,Cancelled
+O000112,C00368,11-02-2023,Mobile App,Express,Shipped
+O000113,C00065,28-09-2023,Store,Standard,Pending
+O000114,C00685,31-07-2023,Store,Express,Cancelled
+O000115,C00466,21-06-2025,Web,Standard,Delivered
+O000116,C00106,21-12-2024,Store,Same Day,Delivered
+O000117,C00593,11-07-2024,Mobile App,Express,Cancelled
+O000118,C00375,24-08-2024,Web,Same Day,Delivered
+O000119,C00386,23-09-2025,Mobile App,Same Day,Cancelled
+O000120,C00362,16-04-2025,Store,Express,Cancelled
+O000121,C00619,07-01-2023,Mobile App,Express,Shipped
+O000122,C00236,20-03-2023,Store,Standard,Shipped
+O000123,C00192,11-06-2023,Store,Same Day,Pending
+O000124,C00677,24-08-2023,Partner,Express,Pending
+O000125,C00494,22-11-2024,Partner,Express,Shipped
+O000126,C00605,15-06-2023,Partner,Standard,Shipped
+O000127,C00045,11-05-2023,Mobile App,Standard,Pending
+O000128,C00587,31-05-2023,Web,Standard,Delivered
+O000129,C00185,13-06-2024,Partner,Same Day,Pending
+O000130,C00678,21-04-2025,Store,Standard,Shipped
+O000131,C00460,13-09-2024,Partner,Express,Shipped
+O000132,C00225,30-04-2025,Partner,Same Day,Shipped
+O000133,C00597,20-04-2025,Mobile App,Same Day,Delivered
+O000134,C00172,11-01-2025,Store,Express,Pending
+O000135,C00236,23-01-2024,Partner,Standard,Pending
+O000136,C00017,27-07-2023,Partner,Standard,Pending
+O000137,C00182,02-05-2024,Web,Same Day,Pending
+O000138,C00096,08-05-2024,Mobile App,Same Day,Pending
+O000139,C00695,26-10-2024,Partner,Same Day,Cancelled
+O000140,C00380,14-06-2025,Web,Same Day,Cancelled
+O000141,C00235,18-08-2025,Partner,Express,Delivered
+O000142,C00604,03-04-2025,Web,Express,Shipped
+O000143,C00261,03-05-2024,Mobile App,Standard,Delivered
+O000144,C00613,16-06-2025,Partner,Express,Shipped
+O000145,C00006,27-12-2024,Web,Same Day,Pending
+O000146,C00533,08-01-2023,Partner,Same Day,Shipped
+O000147,C00324,23-02-2024,Store,Standard,Shipped
+O000148,C00437,29-10-2024,Store,Express,Cancelled
+O000149,C00579,10-01-2024,Store,Same Day,Cancelled
+O000150,C00209,28-02-2024,Partner,Standard,Delivered
+O000151,C00573,22-07-2024,Partner,Express,Delivered
+O000152,C00592,19-12-2023,Partner,Same Day,Shipped
+O000153,C00676,02-05-2023,Mobile App,Express,Shipped
+O000154,C00103,08-08-2023,Partner,Express,Pending
+O000155,C00165,03-02-2024,Web,Standard,Shipped
+O000156,C00483,06-08-2025,Partner,Standard,Pending
+O000157,C00270,16-08-2023,Store,Standard,Pending
+O000158,C00394,11-08-2025,Partner,Same Day,Delivered
+O000159,C00612,28-02-2023,Mobile App,Same Day,Cancelled
+O000160,C00450,11-01-2023,Mobile App,Same Day,Delivered
+O000161,C00200,04-02-2023,Mobile App,Same Day,Shipped
+O000162,C00691,06-02-2023,Store,Standard,Pending
+O000163,C00162,30-03-2023,Store,Express,Delivered
+O000164,C00686,09-02-2024,Partner,Same Day,Shipped
+O000165,C00531,16-01-2023,Web,Standard,Delivered
+O000166,C00573,25-07-2025,Store,Express,Delivered
+O000167,C00232,12-09-2024,Mobile App,Express,Cancelled
+O000168,C00589,05-01-2023,Store,Standard,Cancelled
+O000169,C00519,20-04-2023,Web,Same Day,Delivered
+O000170,C00349,27-08-2025,Web,Same Day,Delivered
+O000171,C00551,12-04-2025,Store,Same Day,Cancelled
+O000172,C00387,30-07-2024,Partner,Standard,Delivered
+O000173,C00470,28-11-2024,Partner,Same Day,Pending
+O000174,C00494,30-04-2023,Store,Standard,Cancelled
+O000175,C00649,18-03-2025,Mobile App,Same Day,Shipped
+O000176,C00324,27-02-2024,Store,Same Day,Pending
+O000177,C00270,12-09-2023,Store,Standard,Cancelled
+O000178,C00690,05-02-2025,Store,Standard,Shipped
+O000179,C00488,18-11-2023,Store,Standard,Delivered
+O000180,C00188,27-08-2025,Mobile App,Express,Shipped
+O000181,C00241,23-01-2025,Mobile App,Express,Shipped
+O000182,C00235,27-07-2023,Mobile App,Same Day,Delivered
+O000183,C00160,08-03-2025,Web,Standard,Pending
+O000184,C00693,05-09-2025,Partner,Same Day,Pending
+O000185,C00555,07-09-2025,Web,Express,Delivered
+O000186,C00636,19-11-2023,Partner,Same Day,Delivered
+O000187,C00503,07-07-2023,Store,Express,Shipped
+O000188,C00591,12-05-2023,Web,Same Day,Cancelled
+O000189,C00490,20-08-2025,Web,Same Day,Delivered
+O000190,C00404,31-05-2025,Mobile App,Express,Pending
+O000191,C00531,16-04-2024,Store,Same Day,Pending
+O000192,C00013,21-11-2024,Mobile App,Express,Pending
+O000193,C00334,06-01-2024,Store,Standard,Delivered
+O000194,C00243,03-10-2023,Partner,Same Day,Delivered
+O000195,C00375,08-07-2023,Partner,Express,Shipped
+O000196,C00430,18-12-2024,Store,Express,Cancelled
+O000197,C00287,06-04-2024,Mobile App,Same Day,Shipped
+O000198,C00590,03-12-2024,Mobile App,Standard,Delivered
+O000199,C00242,22-07-2024,Partner,Express,Shipped
+O000200,C00150,30-03-2025,Mobile App,Express,Pending
+O000201,C00181,07-03-2024,Partner,Standard,Delivered
+O000202,,04-11-2023,Store,Same Day,Pending
+O000203,C00408,12-04-2023,Mobile App,Standard,Shipped
+O000204,C00261,02-05-2024,Web,Express,Delivered
+O000205,C00267,05-01-2024,Store,Same Day,Delivered
+O000206,C00353,21-01-2023,Partner,Standard,Delivered
+O000207,C00696,13-09-2025,Mobile App,Same Day,Shipped
+O000208,C00292,30-12-2023,Store,Same Day,Cancelled
+O000209,C00458,29-06-2025,Web,Express,Delivered
+O000210,C00475,08-10-2024,Mobile App,Standard,Delivered
+O000211,C00432,08-10-2024,Partner,Standard,Pending
+O000212,C00166,18-12-2023,Mobile App,Express,Delivered
+O000213,C00669,26-10-2023,Store,Same Day,Cancelled
+O000214,C00278,27-06-2025,Partner,Express,Cancelled
+O000215,C00424,21-06-2023,Mobile App,Standard,Shipped
+O000216,C00241,08-11-2024,Store,Same Day,Pending
+O000217,C00216,20-06-2023,Partner,Standard,Pending
+O000218,C00066,17-08-2025,Partner,Same Day,Pending
+O000219,C00027,28-02-2025,Partner,Same Day,Pending
+O000220,C00107,26-09-2023,Mobile App,Standard,Cancelled
+O000221,C00317,23-08-2023,Mobile App,Same Day,Delivered
+O000222,C00454,03-10-2024,Mobile App,Standard,Shipped
+O000223,C00030,05-02-2023,Store,Express,Cancelled
+O000224,C00479,25-09-2025,Store,Same Day,Cancelled
+O000225,C00139,19-09-2025,Mobile App,Same Day,Cancelled
+O000226,C00647,05-02-2025,Partner,Same Day,Delivered
+O000227,C00356,08-05-2024,Mobile App,Standard,Cancelled
+O000228,C00316,10-01-2024,Partner,Express,Shipped
+O000229,C00311,11-01-2023,Web,Same Day,Shipped
+O000230,C00353,21-10-2023,Partner,Same Day,Pending
+O000231,C00504,27-08-2025,Partner,Express,Pending
+O000232,C00441,28-03-2025,Store,Same Day,Shipped
+O000233,C00008,15-07-2024,Store,Standard,Cancelled
+O000234,C00575,23-03-2024,Partner,Standard,Shipped
+O000235,C00662,04-02-2024,Partner,Standard,Delivered
+O000236,C00082,08-03-2024,Mobile App,Same Day,Delivered
+O000237,C00292,26-10-2024,Store,Express,Shipped
+O000238,C00071,06-07-2023,Mobile App,Express,Pending
+O000239,C00653,11-04-2024,Partner,Express,Cancelled
+O000240,C00193,25-11-2023,Web,Standard,Pending
+O000241,C00548,23-01-2023,Mobile App,Standard,Delivered
+O000242,C00276,09-05-2023,Partner,Same Day,Pending
+O000243,C00239,03-04-2023,Mobile App,Standard,Cancelled
+O000244,C00223,17-12-2023,Partner,Express,Cancelled
+O000245,C00381,19-04-2024,Web,Express,Pending
+O000246,C00150,27-02-2023,Store,Express,Pending
+O000247,C00557,26-04-2024,Mobile App,Standard,Delivered
+O000248,C00391,28-04-2025,Web,Standard,Shipped
+O000249,C00395,28-02-2025,Partner,Standard,Pending
+O000250,C00204,16-04-2024,Web,Same Day,Shipped
+O000251,C00485,03-02-2024,Store,Express,Shipped
+O000252,C00645,15-01-2025,Web,Same Day,Pending
+O000253,C00260,07-05-2024,Store,Standard,Delivered
+O000254,C00054,03-06-2025,Mobile App,Standard,Shipped
+O000255,C00649,20-03-2024,Store,Standard,Shipped
+O000256,C00283,21-08-2024,Web,Express,Shipped
+O000257,C00010,19-09-2025,Web,Same Day,Cancelled
+O000258,C00611,08-06-2023,Store,Standard,Shipped
+O000259,C00162,26-05-2024,Web,Same Day,Delivered
+O000260,C00641,03-03-2023,Web,Express,Shipped
+O000261,C00550,21-03-2025,Web,Standard,Cancelled
+O000262,C00239,21-11-2023,Store,Express,Shipped
+O000263,C00022,06-12-2024,Partner,Express,Shipped
+O000264,C00257,09-07-2025,Web,Express,Cancelled
+O000265,C00573,29-10-2023,Partner,Standard,Shipped
+O000266,C00557,23-12-2023,Store,Same Day,Cancelled
+O000267,C00282,07-06-2025,Mobile App,Standard,Shipped
+O000268,C00461,30-10-2023,Store,Same Day,Delivered
+O000269,C00465,01-01-2023,Partner,Same Day,Shipped
+O000270,C00020,26-09-2024,Store,Same Day,Shipped
+O000271,C00329,08-01-2025,Web,Same Day,Cancelled
+O000272,C00195,20-06-2024,Partner,Same Day,Shipped
+O000273,C00628,17-10-2023,Store,Express,Delivered
+O000274,C00114,09-04-2023,Web,Standard,Shipped
+O000275,C00183,13-06-2025,Web,Standard,Pending
+O000276,C00498,16-07-2023,Web,Standard,Cancelled
+O000277,C00674,16-05-2024,Store,Standard,Delivered
+O000278,C00227,12-09-2024,Web,Standard,Shipped
+O000279,C00672,18-05-2024,Web,Express,Pending
+O000280,C00370,25-07-2024,Partner,Express,Pending
+O000281,C00632,30-09-2023,Web,Same Day,Pending
+O000282,C00312,21-03-2023,Mobile App,Same Day,Pending
+O000283,C00104,12-01-2025,Mobile App,Same Day,Cancelled
+O000284,C00195,17-07-2023,Mobile App,Same Day,Shipped
+O000285,C00572,06-02-2025,Partner,Same Day,Pending
+O000286,C00654,13-08-2024,Store,Same Day,Cancelled
+O000287,C00682,13-03-2024,Web,Standard,Shipped
+O000288,C00564,16-02-2024,Store,Same Day,Shipped
+O000289,C00547,06-09-2024,Partner,Express,Delivered
+O000290,C00564,29-11-2023,Store,Express,Cancelled
+O000291,C00332,15-09-2024,Mobile App,Same Day,Shipped
+O000292,C00385,23-02-2025,Store,Express,Cancelled
+O000293,C00459,09-09-2025,Partner,Standard,Pending
+O000294,C00292,02-09-2024,Web,Same Day,Shipped
+O000295,C00310,07-01-2023,Store,Standard,Shipped
+O000296,C00323,23-01-2023,Store,Same Day,Shipped
+O000297,C00097,08-02-2023,Partner,Express,Shipped
+O000298,C00142,29-09-2023,Store,Same Day,Shipped
+O000299,C00239,20-09-2023,Store,Standard,Cancelled
+O000300,C00583,28-07-2025,Mobile App,Same Day,Pending
+O000301,C00333,22-03-2025,Partner,Standard,Cancelled
+O000302,C00591,19-04-2025,Web,Same Day,Delivered
+O000303,C00039,18-01-2025,Partner,Standard,Pending
+O000304,C00343,23-12-2023,Partner,Express,Pending
+O000305,C00233,04-02-2025,Web,Same Day,Cancelled
+O000306,C00056,09-11-2023,Web,Express,Shipped
+O000307,C00335,29-05-2024,Mobile App,Standard,Pending
+O000308,C00690,19-01-2025,Partner,Express,Pending
+O000309,C00228,18-03-2024,Store,Express,Shipped
+O000310,C00136,11-12-2023,Web,Express,Pending
+O000311,C00562,13-02-2024,Store,Standard,Cancelled
+O000312,C00514,20-03-2024,Mobile App,Standard,Cancelled
+O000313,C00573,22-07-2023,Partner,Express,Shipped
+O000314,C00575,22-09-2024,Mobile App,Standard,Pending
+O000315,C00273,06-03-2025,Partner,Express,Pending
+O000316,C00116,18-11-2024,Partner,Express,Delivered
+O000317,C00357,15-07-2023,Store,Express,Pending
+O000318,C00313,23-06-2023,Store,Same Day,Cancelled
+O000319,C00639,30-05-2023,Partner,Standard,Shipped
+O000320,C00205,02-12-2024,Store,Standard,Pending
+O000321,C00116,27-01-2025,Web,Standard,Shipped
+O000322,C00295,15-01-2023,Store,Same Day,Pending
+O000323,C00313,05-04-2024,Partner,Standard,Delivered
+O000324,C00215,27-01-2025,Mobile App,Standard,Delivered
+O000325,C00562,09-05-2024,Mobile App,Same Day,Pending
+O000326,C00386,19-08-2024,Web,Express,Shipped
+O000327,C00062,18-10-2023,Mobile App,Same Day,Delivered
+O000328,C00055,21-04-2024,Web,Standard,Cancelled
+O000329,C00677,05-10-2023,Store,Standard,Pending
+O000330,C00300,07-06-2025,Partner,Standard,Cancelled
+O000331,C00521,27-09-2025,Web,Express,Cancelled
+O000332,C00612,28-06-2024,Web,Standard,Shipped
+O000333,C00513,16-09-2025,Partner,Same Day,Pending
+O000334,C00041,11-09-2023,Store,Express,Cancelled
+O000335,C00403,01-02-2025,Mobile App,Standard,Delivered
+O000336,C00361,30-12-2023,Store,Standard,Delivered
+O000337,C00064,02-10-2024,Store,Express,Pending
+O000338,C00569,29-08-2025,Store,Standard,Shipped
+O000339,C00350,07-07-2025,Partner,Same Day,Shipped
+O000340,C00090,17-01-2025,Partner,Same Day,Shipped
+O000341,C00428,04-09-2023,Mobile App,Express,Delivered
+O000342,C00620,04-12-2023,Partner,Same Day,Shipped
+O000343,C00212,30-10-2024,Mobile App,Same Day,Shipped
+O000344,C00142,13-11-2023,Mobile App,Express,Shipped
+O000345,C00672,13-08-2025,Mobile App,Express,Pending
+O000346,C00571,29-06-2024,Web,Standard,Delivered
+O000347,C00150,14-01-2025,Web,Express,Cancelled
+O000348,C00422,07-11-2023,Partner,Same Day,Delivered
+O000349,C00156,08-03-2025,Mobile App,Standard,Shipped
+O000350,C00190,27-01-2023,Store,Same Day,Shipped
+O000351,C00611,26-08-2023,Mobile App,Same Day,Pending
+O000352,C00368,23-03-2023,Partner,Standard,Cancelled
+O000353,C00666,18-01-2024,Mobile App,Express,Cancelled
+O000354,C00486,21-05-2023,Mobile App,Standard,Shipped
+O000355,C00034,23-02-2024,Web,Express,Cancelled
+O000356,C00228,30-01-2025,Mobile App,Standard,Pending
+O000357,C00182,07-08-2025,Partner,Same Day,Cancelled
+O000358,C00333,06-06-2025,Partner,Standard,Cancelled
+O000359,C00415,05-03-2025,Web,Same Day,Cancelled
+O000360,C00321,08-02-2024,Web,Same Day,Pending
+O000361,C00463,12-04-2024,Web,Standard,Cancelled
+O000362,C00041,25-07-2024,Partner,Same Day,Pending
+O000363,C00195,26-10-2023,Partner,Express,Delivered
+O000364,C00293,17-04-2024,Mobile App,Express,Delivered
+O000365,C00628,30-07-2025,Web,Same Day,Shipped
+O000366,C00475,29-04-2025,Partner,Standard,Pending
+O000367,C00185,08-03-2025,Mobile App,Express,Cancelled
+O000368,C00332,06-04-2024,Web,Standard,Cancelled
+O000369,C00605,07-07-2025,Mobile App,Express,Pending
+O000370,C00257,28-11-2023,Mobile App,Same Day,Pending
+O000371,C00094,27-04-2023,Partner,Same Day,Delivered
+O000372,C00088,20-06-2024,Partner,Same Day,Shipped
+O000373,C00388,17-07-2024,Partner,Standard,Shipped
+O000374,C00344,02-08-2024,Mobile App,Standard,Shipped
+O000375,C00184,26-02-2025,Web,Express,Delivered
+O000376,C00317,17-01-2025,Partner,Express,Shipped
+O000377,C00121,09-07-2025,Mobile App,Standard,Pending
+O000378,C00638,22-02-2025,Store,Standard,Cancelled
+O000379,C00510,25-05-2025,Partner,Same Day,Pending
+O000380,C00623,22-06-2025,Partner,Standard,Shipped
+O000381,C00603,06-11-2024,Partner,Express,Cancelled
+O000382,C00453,23-03-2023,Web,Standard,Delivered
+O000383,C00635,05-10-2024,Mobile App,Standard,Shipped
+O000384,C00152,26-02-2023,Store,Standard,Shipped
+O000385,C00034,14-11-2024,Store,Express,Pending
+O000386,C00051,22-04-2023,Partner,Standard,Shipped
+O000387,C00689,19-10-2023,Mobile App,Express,Delivered
+O000388,C00037,06-04-2023,Store,Express,Delivered
+O000389,C00389,19-04-2025,Web,Express,Pending
+O000390,C00300,27-04-2024,Mobile App,Standard,Delivered
+O000391,C00338,23-06-2024,Partner,Same Day,Shipped
+O000392,C00215,18-09-2024,Web,Standard,Pending
+O000393,C00496,11-01-2025,Store,Express,Delivered
+O000394,C00266,22-06-2024,Store,Standard,Cancelled
+O000395,C00533,16-01-2025,Partner,Express,Shipped
+O000396,C00625,27-08-2023,Store,Standard,Pending
+O000397,C00122,25-01-2023,Partner,Same Day,Pending
+O000398,C00213,29-03-2025,Partner,Express,Pending
+O000399,C00342,25-12-2023,Mobile App,Standard,Shipped
+O000400,C00289,18-09-2023,Web,Express,Delivered
+O000401,C00519,17-07-2024,Store,Standard,Pending
+O000402,C00342,16-12-2023,Partner,Same Day,Pending
+O000403,C00180,18-07-2023,Store,Express,Cancelled
+O000404,C00486,27-03-2025,Web,Same Day,Shipped
+O000405,C00494,09-06-2023,Partner,Same Day,Delivered
+O000406,C00474,13-03-2025,Partner,Same Day,Pending
+O000407,C00534,03-11-2023,Store,Same Day,Pending
+O000408,C00214,14-08-2024,Store,Express,Pending
+O000409,C00153,15-10-2023,Web,Express,Cancelled
+O000410,C00642,01-07-2024,Mobile App,Same Day,Cancelled
+O000411,C00192,01-09-2024,Web,Express,Delivered
+O000412,C00033,06-10-2023,Partner,Standard,Cancelled
+O000413,C00244,16-01-2024,Partner,Express,Shipped
+O000414,C00538,06-11-2023,Mobile App,Standard,Delivered
+O000415,C00039,07-03-2025,Mobile App,Standard,Cancelled
+O000416,C00519,26-01-2023,Partner,Same Day,Shipped
+O000417,C00195,15-12-2023,Partner,Same Day,Delivered
+O000418,C00336,27-05-2023,Web,Same Day,Shipped
+O000419,C00211,11-01-2025,Web,Express,Cancelled
+O000420,C00535,29-04-2023,Web,Express,Pending
+O000421,C00609,11-06-2025,Web,Express,Cancelled
+O000422,C00048,16-04-2023,Store,Standard,Delivered
+O000423,C00655,02-07-2025,Mobile App,Express,Shipped
+O000424,C00198,21-10-2023,Store,Same Day,Delivered
+O000425,C00452,18-11-2024,Web,Express,Shipped
+O000426,C00162,08-10-2023,Web,Standard,Pending
+O000427,C00212,09-07-2024,Store,Same Day,Delivered
+O000428,C00278,25-05-2023,Store,Same Day,Shipped
+O000429,C00176,14-03-2023,Store,Same Day,Delivered
+O000430,C00554,30-03-2024,Web,Standard,Pending
+O000431,C00483,13-07-2025,Web,Standard,Cancelled
+O000432,C00056,30-03-2023,Partner,Express,Shipped
+O000433,C00611,01-07-2025,Partner,Same Day,Delivered
+O000434,C00320,07-12-2023,Mobile App,Same Day,Pending
+O000435,C00477,04-08-2024,Mobile App,Standard,Cancelled
+O000436,C00100,11-04-2024,Store,Same Day,Cancelled
+O000437,C00482,26-08-2023,Mobile App,Standard,Delivered
+O000438,C00373,06-02-2024,Mobile App,Same Day,Delivered
+O000439,C00333,09-04-2024,Partner,Standard,Pending
+O000440,C00487,26-04-2023,Store,Express,Cancelled
+O000441,C00175,17-10-2023,Store,Same Day,Shipped
+O000442,C00521,16-04-2023,Partner,Same Day,Pending
+O000443,C00334,23-07-2024,Web,Express,Cancelled
+O000444,C00411,27-08-2024,Partner,Standard,Shipped
+O000445,C00562,12-06-2023,Partner,Express,Pending
+O000446,C00349,02-08-2023,Partner,Express,Delivered
+O000447,C00558,11-12-2024,Mobile App,Standard,Pending
+O000448,C00588,06-05-2025,Partner,Standard,Cancelled
+O000449,C00334,22-07-2024,Web,Express,Shipped
+O000450,C00316,05-09-2025,Partner,Standard,Pending
+O000451,C00611,28-02-2025,Partner,Express,Cancelled
+O000452,C00661,07-11-2024,Web,Standard,Shipped
+O000453,C00143,27-06-2025,Web,Standard,Shipped
+O000454,C00464,28-06-2024,Store,Express,Cancelled
+O000455,C00201,30-07-2023,Store,Express,Delivered
+O000456,C00446,05-01-2025,Store,Standard,Pending
+O000457,C00627,06-06-2024,Partner,Standard,Delivered
+O000458,C00064,14-01-2024,Web,Standard,Delivered
+O000459,C00113,31-05-2025,Store,Standard,Shipped
+O000460,C00443,20-12-2024,Partner,Same Day,Delivered
+O000461,C00392,20-02-2024,Partner,Express,Shipped
+O000462,C00679,27-06-2023,Partner,Standard,Shipped
+O000463,C00569,29-01-2024,Store,Express,Shipped
+O000464,C00296,12-06-2025,Mobile App,Standard,Pending
+O000465,C00074,25-10-2024,Web,Standard,Cancelled
+O000466,C00674,23-03-2024,Mobile App,Standard,Shipped
+O000467,C00658,05-04-2025,Partner,Express,Cancelled
+O000468,C00639,04-07-2023,Partner,Same Day,Cancelled
+O000469,C00566,19-04-2025,Partner,Express,Delivered
+O000470,C00232,10-07-2023,Partner,Same Day,Pending
+O000471,C00592,25-05-2024,Mobile App,Same Day,Delivered
+O000472,C00421,06-08-2025,Store,Standard,Pending
+O000473,C00582,09-05-2024,Store,Standard,Cancelled
+O000474,C00082,26-05-2023,Store,Express,Pending
+O000475,C00536,30-06-2025,Web,Standard,Cancelled
+O000476,C00646,29-01-2025,Web,Same Day,Delivered
+O000477,C00628,24-02-2023,Store,Same Day,Pending
+O000478,C00481,09-04-2024,Partner,Same Day,Delivered
+O000479,C00432,28-12-2023,Store,Express,Shipped
+O000480,C00037,12-12-2024,Store,Same Day,Delivered
+O000481,C00063,06-10-2024,Partner,Same Day,Shipped
+O000482,C00587,22-02-2023,Store,Same Day,Pending
+O000483,C00294,11-05-2024,Web,Standard,Pending
+O000484,C00285,16-09-2023,Mobile App,Same Day,Delivered
+O000485,C00282,28-05-2025,Store,Standard,Pending
+O000486,C00619,28-06-2023,Mobile App,Same Day,Cancelled
+O000487,C00379,07-04-2025,Mobile App,Express,Shipped
+O000488,C00497,05-07-2023,Web,Express,Pending
+O000489,C00149,01-09-2024,Mobile App,Express,Cancelled
+O000490,C00393,01-09-2023,Partner,Same Day,Shipped
+O000491,C00216,14-08-2024,Store,Standard,Delivered
+O000492,C00119,23-02-2023,Mobile App,Express,Cancelled
+O000493,C00488,05-11-2023,Partner,Same Day,Shipped
+O000494,C00389,30-11-2024,Partner,Express,Delivered
+O000495,C00149,27-06-2024,Partner,Standard,Delivered
+O000496,C00460,27-01-2024,Store,Same Day,Pending
+O000497,C00100,28-07-2025,Store,Express,Delivered
+O000498,C00344,04-10-2023,Store,Standard,Delivered
+O000499,C00671,21-08-2024,Partner,Express,Shipped
+O000500,C00689,25-08-2024,Mobile App,Same Day,Delivered
+O000501,C00694,07-12-2024,Mobile App,Express,Pending
+O000502,C00689,09-01-2023,Web,Standard,Cancelled
+O000503,C00101,21-06-2024,Web,Same Day,Cancelled
+O000504,C00360,13-08-2023,Store,Express,Shipped
+O000505,C00035,25-01-2023,Web,Standard,Shipped
+O000506,C00614,15-10-2024,Web,Same Day,Pending
+O000507,C00089,26-05-2025,Mobile App,Express,Shipped
+O000508,C00114,13-12-2024,Mobile App,Express,Delivered
+O000509,C00479,07-11-2024,Web,Same Day,Cancelled
+O000510,C00284,26-02-2025,Partner,Same Day,Delivered
+O000511,C00264,15-06-2023,Web,Express,Pending
+O000512,C00392,02-02-2024,Store,Standard,Delivered
+O000513,C00272,02-07-2023,Partner,Standard,Cancelled
+O000514,C00206,16-09-2024,Partner,Standard,Cancelled
+O000515,C00112,28-05-2023,Partner,Standard,Pending
+O000516,C00453,02-01-2025,Store,Standard,Pending
+O000517,C00075,14-03-2023,Store,Express,Pending
+O000518,C00510,02-06-2023,Web,Standard,Cancelled
+O000519,C00273,05-06-2023,Store,Express,Pending
+O000520,C00528,25-12-2024,Partner,Express,Cancelled
+O000521,C00414,14-05-2025,Web,Same Day,Shipped
+O000522,C00004,29-01-2024,Partner,Standard,Delivered
+O000523,C00342,29-11-2024,Store,Express,Pending
+O000524,C00648,08-09-2025,Web,Express,Delivered
+O000525,C00083,11-05-2025,Partner,Express,Shipped
+O000526,C00181,21-07-2024,Web,Express,Shipped
+O000527,C00307,13-12-2024,Partner,Standard,Delivered
+O000528,C00499,28-03-2023,Partner,Same Day,Shipped
+O000529,C00144,06-02-2023,Mobile App,Standard,Shipped
+O000530,C00501,03-02-2024,Web,Same Day,Delivered
+O000531,C00512,30-06-2024,Partner,Standard,Pending
+O000532,C00348,27-02-2023,Store,Same Day,Pending
+O000533,C00416,02-05-2023,Mobile App,Same Day,Cancelled
+O000534,C00695,10-06-2025,Mobile App,Same Day,Shipped
+O000535,C00074,07-02-2023,Mobile App,Express,Pending
+O000536,C00483,17-07-2025,Web,Standard,Shipped
+O000537,C00015,26-06-2023,Web,Express,Pending
+O000538,C00468,17-09-2024,Mobile App,Same Day,Pending
+O000539,C00109,27-04-2023,Partner,Same Day,Shipped
+O000540,C00065,03-04-2025,Mobile App,Express,Delivered
+O000541,C00695,16-02-2024,Store,Standard,Shipped
+O000542,C00330,06-05-2025,Mobile App,Standard,Shipped
+O000543,C00344,06-03-2023,Web,Express,Shipped
+O000544,C00426,22-06-2023,Store,Same Day,Shipped
+O000545,C00450,07-09-2023,Web,Standard,Pending
+O000546,C00648,19-09-2024,Partner,Standard,Pending
+O000547,C00499,24-03-2023,Web,Standard,Shipped
+O000548,C00092,24-12-2024,Store,Express,Cancelled
+O000549,C00130,31-07-2023,Mobile App,Same Day,Delivered
+O000550,C00536,06-04-2024,Partner,Standard,Shipped
+O000551,C00626,09-12-2024,Web,Same Day,Shipped
+O000552,C00512,18-09-2024,Web,Same Day,Delivered
+O000553,C00357,04-03-2024,Web,Same Day,Shipped
+O000554,C00197,01-05-2023,Web,Same Day,Delivered
+O000555,C00553,03-06-2024,Mobile App,Express,Shipped
+O000556,C00284,24-02-2023,Mobile App,Standard,Shipped
+O000557,C00486,24-05-2024,Mobile App,Standard,Pending
+O000558,C00056,22-10-2024,Store,Express,Shipped
+O000559,C00446,15-09-2023,Store,Same Day,Cancelled
+O000560,C00045,17-04-2023,Web,Same Day,Shipped
+O000561,C00162,15-03-2025,Web,Express,Pending
+O000562,C00073,05-07-2025,Mobile App,Same Day,Cancelled
+O000563,C00607,16-08-2024,Store,Express,Shipped
+O000564,C00694,08-07-2025,Store,Standard,Pending
+O000565,C00334,22-08-2023,Web,Standard,Cancelled
+O000566,C00205,20-01-2024,Mobile App,Standard,Cancelled
+O000567,C00600,11-05-2024,Web,Express,Shipped
+O000568,C00222,08-08-2025,Partner,Standard,Cancelled
+O000569,C00383,20-05-2023,Partner,Same Day,Shipped
+O000570,C00648,03-01-2024,Store,Standard,Delivered
+O000571,C00131,02-02-2023,Web,Express,Shipped
+O000572,C00114,22-05-2025,Partner,Express,Cancelled
+O000573,C00176,17-02-2025,Store,Standard,Delivered
+O000574,C00619,10-06-2023,Mobile App,Same Day,Shipped
+O000575,C00089,26-02-2024,Partner,Standard,Cancelled
+O000576,C00474,13-10-2023,Web,Same Day,Cancelled
+O000577,C00253,11-09-2023,Store,Express,Shipped
+O000578,C00606,26-08-2025,Mobile App,Same Day,Pending
+O000579,C00428,15-02-2023,Web,Express,Pending
+O000580,C00436,27-06-2024,Partner,Express,Pending
+O000581,C00464,22-05-2024,Mobile App,Standard,Pending
+O000582,C00417,30-08-2025,Mobile App,Standard,Delivered
+O000583,C00303,02-09-2023,Web,Standard,Cancelled
+O000584,C00686,09-11-2023,Mobile App,Same Day,Cancelled
+O000585,C00585,04-02-2025,Web,Express,Cancelled
+O000586,C00142,14-06-2025,Partner,Standard,Delivered
+O000587,C00642,20-04-2024,Web,Same Day,Pending
+O000588,C00395,03-07-2025,Store,Same Day,Pending
+O000589,C00304,12-03-2024,Store,Same Day,Shipped
+O000590,C00083,27-09-2024,Store,Same Day,Pending
+O000591,C00528,26-08-2025,Store,Standard,Pending
+O000592,C00393,10-01-2024,Partner,Same Day,Pending
+O000593,C00375,11-01-2024,Mobile App,Same Day,Pending
+O000594,C00575,27-12-2024,Mobile App,Standard,Delivered
+O000595,C00245,06-07-2024,Web,Same Day,Cancelled
+O000596,C00595,11-06-2025,Mobile App,Same Day,Shipped
+O000597,C00329,28-12-2023,Store,Same Day,Cancelled
+O000598,C00284,25-02-2023,Web,Express,Delivered
+O000599,C00464,12-05-2024,Web,Express,Delivered
+O000600,C00463,27-09-2024,Store,Same Day,Pending
+O000601,C00193,02-07-2025,Partner,Standard,Pending
+O000602,C00401,08-07-2025,Mobile App,Express,Pending
+O000603,C00112,18-06-2023,Store,Standard,Shipped
+O000604,C00509,04-06-2023,Mobile App,Same Day,Pending
+O000605,C00301,02-03-2024,Mobile App,Express,Delivered
+O000606,C00431,30-03-2024,Web,Express,Shipped
+O000607,C00065,23-01-2023,Mobile App,Same Day,Delivered
+O000608,C00422,15-08-2024,Store,Same Day,Delivered
+O000609,C00498,30-08-2024,Partner,Express,Delivered
+O000610,C00581,16-05-2023,Store,Standard,Delivered
+O000611,C00233,10-05-2024,Store,Express,Pending
+O000612,C00152,28-12-2023,Store,Express,Shipped
+O000613,C00634,04-08-2025,Mobile App,Same Day,Delivered
+O000614,C00187,23-09-2025,Mobile App,Same Day,Shipped
+O000615,C00166,01-09-2023,Web,Standard,Delivered
+O000616,C00589,10-05-2023,Partner,Express,Delivered
+O000617,C00189,30-07-2023,Web,Same Day,Delivered
+O000618,C00353,01-06-2023,Store,Express,Shipped
+O000619,C00547,05-11-2023,Web,Standard,Cancelled
+O000620,C00512,25-02-2025,Mobile App,Express,Delivered
+O000621,C00160,05-01-2023,Store,Same Day,Delivered
+O000622,C00486,06-07-2025,Store,Same Day,Shipped
+O000623,C00579,16-01-2025,Partner,Express,Pending
+O000624,C00491,10-07-2025,Web,Standard,Pending
+O000625,C00316,26-01-2023,Partner,Same Day,Shipped
+O000626,C00457,01-01-2024,Web,Express,Pending
+O000627,C00623,18-10-2024,Mobile App,Same Day,Shipped
+O000628,C00285,20-07-2023,Web,Standard,Cancelled
+O000629,C00694,18-11-2024,Web,Same Day,Cancelled
+O000630,C00200,17-05-2024,Store,Same Day,Pending
+O000631,C00683,05-01-2024,Partner,Standard,Cancelled
+O000632,C00379,31-01-2024,Store,Standard,Delivered
+O000633,C00354,26-12-2023,Store,Express,Pending
+O000634,C00221,15-01-2025,Partner,Same Day,Cancelled
+O000635,C00454,23-10-2023,Mobile App,Same Day,Cancelled
+O000636,C00425,23-05-2023,Web,Standard,Shipped
+O000637,C00311,01-05-2024,Store,Standard,Cancelled
+O000638,C00091,07-01-2023,Partner,Same Day,Delivered
+O000639,C00425,29-06-2023,Partner,Same Day,Shipped
+O000640,C00205,10-07-2023,Partner,Express,Cancelled
+O000641,C00044,22-04-2025,Store,Same Day,Delivered
+O000642,C00506,26-07-2024,Partner,Standard,Pending
+O000643,C00003,07-06-2023,Store,Express,Cancelled
+O000644,C00128,31-10-2024,Store,Express,Shipped
+O000645,C00504,17-07-2025,Mobile App,Standard,Pending
+O000646,C00284,19-05-2024,Web,Same Day,Delivered
+O000647,C00596,07-05-2024,Partner,Express,Cancelled
+O000648,C00123,18-01-2024,Web,Express,Shipped
+O000649,C00596,01-03-2023,Mobile App,Express,Cancelled
+O000650,C00139,01-01-2024,Mobile App,Standard,Delivered
+O000651,C00370,05-03-2024,Store,Standard,Delivered
+O000652,C00299,26-06-2024,Web,Same Day,Shipped
+O000653,C00644,07-07-2023,Web,Same Day,Shipped
+O000654,C00557,27-11-2023,Store,Same Day,Delivered
+O000655,C00278,02-12-2024,Store,Standard,Delivered
+O000656,C00148,14-01-2023,Mobile App,Same Day,Delivered
+O000657,C00382,08-03-2025,Partner,Express,Delivered
+O000658,C00167,15-04-2023,Mobile App,Standard,Shipped
+O000659,C00193,25-03-2025,Web,Express,Cancelled
+O000660,C00079,30-04-2023,Mobile App,Standard,Cancelled
+O000661,C00357,16-11-2023,Store,Standard,Cancelled
+O000662,C00612,19-06-2024,Store,Standard,Delivered
+O000663,C00030,01-02-2025,Web,Standard,Shipped
+O000664,C00146,05-12-2024,Mobile App,Express,Shipped
+O000665,C00215,14-05-2023,Web,Express,Pending
+O000666,C00080,20-01-2023,Partner,Express,Pending
+O000667,C00202,21-04-2023,Web,Same Day,Pending
+O000668,C00481,02-05-2023,Store,Standard,Pending
+O000669,C00309,14-11-2024,Web,Standard,Pending
+O000670,C00617,30-07-2023,Mobile App,Standard,Delivered
+O000671,C00030,03-04-2023,Mobile App,Same Day,Delivered
+O000672,C00594,23-12-2023,Store,Standard,Shipped
+O000673,C00518,06-08-2024,Web,Standard,Pending
+O000674,C00542,11-08-2023,Mobile App,Express,Shipped
+O000675,C00551,05-01-2023,Web,Standard,Cancelled
+O000676,C00376,15-12-2024,Mobile App,Express,Pending
+O000677,C00186,04-05-2025,Store,Express,Cancelled
+O000678,C00220,10-06-2024,Mobile App,Express,Pending
+O000679,C00322,07-05-2023,Partner,Standard,Shipped
+O000680,C00508,19-02-2025,Store,Same Day,Delivered
+O000681,C00571,09-01-2025,Web,Standard,Delivered
+O000682,C00506,29-04-2023,Partner,Express,Cancelled
+O000683,C00615,23-01-2025,Store,Same Day,Cancelled
+O000684,C00232,21-07-2024,Partner,Express,Cancelled
+O000685,C00194,27-05-2025,Web,Express,Delivered
+O000686,C00184,14-01-2023,Partner,Same Day,Pending
+O000687,C00406,24-03-2024,Web,Standard,Shipped
+O000688,C00405,15-02-2024,Web,Same Day,Shipped
+O000689,C00067,08-01-2024,Mobile App,Express,Shipped
+O000690,C00610,14-05-2025,Partner,Standard,Shipped
+O000691,C00435,12-01-2025,Partner,Express,Delivered
+O000692,C00660,23-08-2025,Partner,Express,Cancelled
+O000693,C00683,09-09-2024,Partner,Express,Delivered
+O000694,C00151,25-02-2025,Partner,Standard,Pending
+O000695,C00257,16-05-2024,Partner,Standard,Shipped
+O000696,C00031,12-04-2023,Web,Standard,Cancelled
+O000697,C00695,28-01-2023,Mobile App,Express,Delivered
+O000698,C00157,07-11-2023,Web,Standard,Cancelled
+O000699,C00478,26-07-2023,Store,Same Day,Cancelled
+O000700,C00503,31-05-2024,Store,Same Day,Delivered
+O000701,C00554,13-07-2024,Web,Standard,Cancelled
+O000702,C00122,28-01-2024,Partner,Express,Cancelled
+O000703,C00454,15-04-2024,Web,Standard,Shipped
+O000704,C00571,06-11-2024,Store,Same Day,Shipped
+O000705,C00504,17-03-2024,Mobile App,Express,Cancelled
+O000706,C00500,21-02-2025,Web,Same Day,Cancelled
+O000707,C00676,21-07-2024,Partner,Express,Shipped
+O000708,C00519,27-02-2023,Partner,Express,Cancelled
+O000709,C00606,21-09-2025,Partner,Same Day,Delivered
+O000710,C00292,25-11-2023,Web,Standard,Pending
+O000711,C00132,07-05-2025,Store,Express,Pending
+O000712,C00641,16-12-2023,Partner,Standard,Cancelled
+O000713,C00354,01-01-2024,Partner,Express,Pending
+O000714,C00678,08-09-2023,Mobile App,Standard,Delivered
+O000715,C00607,28-03-2023,Web,Express,Pending
+O000716,C00346,23-06-2023,Web,Same Day,Delivered
+O000717,C00039,16-04-2024,Partner,Same Day,Cancelled
+O000718,C00274,21-01-2023,Partner,Same Day,Pending
+O000719,C00325,22-01-2024,Partner,Express,Pending
+O000720,C00501,13-04-2023,Mobile App,Express,Cancelled
+O000721,C00515,10-04-2025,Store,Standard,Delivered
+O000722,C00373,19-09-2025,Partner,Standard,Cancelled
+O000723,C00651,17-05-2025,Web,Same Day,Shipped
+O000724,C00295,29-09-2023,Web,Express,Cancelled
+O000725,C00232,01-10-2024,Web,Same Day,Pending
+O000726,C00607,11-12-2023,Store,Standard,Cancelled
+O000727,C00438,03-08-2023,Store,Standard,Delivered
+O000728,C00517,03-04-2025,Store,Express,Delivered
+O000729,C00205,29-02-2024,Partner,Express,Cancelled
+O000730,C00688,20-02-2025,Mobile App,Standard,Shipped
+O000731,C00591,26-05-2024,Mobile App,Same Day,Cancelled
+O000732,C00275,17-08-2025,Partner,Same Day,Pending
+O000733,C00535,25-07-2023,Store,Express,Shipped
+O000734,C00247,04-06-2023,Store,Express,Cancelled
+O000735,C00327,30-05-2025,Web,Same Day,Shipped
+O000736,C00423,01-10-2023,Store,Same Day,Shipped
+O000737,C00263,04-12-2024,Mobile App,Express,Shipped
+O000738,C00117,03-06-2023,Mobile App,Standard,Shipped
+O000739,C00318,20-04-2024,Partner,Same Day,Cancelled
+O000740,C00433,24-10-2024,Web,Standard,Shipped
+O000741,C00280,20-05-2023,Web,Express,Delivered
+O000742,C00675,17-07-2024,Mobile App,Same Day,Pending
+O000743,C00498,12-03-2025,Web,Standard,Pending
+O000744,C00322,08-09-2024,Store,Standard,Cancelled
+O000745,C00373,18-11-2024,Web,Express,Shipped
+O000746,C00242,25-04-2023,Web,Same Day,Delivered
+O000747,C00509,24-06-2025,Web,Standard,Pending
+O000748,C00321,04-12-2023,Partner,Same Day,Shipped
+O000749,C00434,12-08-2023,Mobile App,Standard,Shipped
+O000750,C00220,20-09-2025,Store,Express,Cancelled
+O000751,C00261,02-06-2025,Web,Express,Delivered
+O000752,C00116,21-11-2023,Partner,Express,Shipped
+O000753,C00285,19-06-2025,Mobile App,Express,Cancelled
+O000754,C00377,21-04-2025,Store,Standard,Pending
+O000755,C00679,29-03-2025,Web,Same Day,Shipped
+O000756,C00260,19-07-2024,Partner,Express,Delivered
+O000757,C00125,01-07-2024,Mobile App,Express,Cancelled
+O000758,C00009,20-07-2025,Partner,Express,Delivered
+O000759,C00093,16-08-2025,Mobile App,Express,Shipped
+O000760,C00165,26-07-2025,Partner,Same Day,Delivered
+O000761,C00660,21-02-2024,Web,Express,Pending
+O000762,C00504,27-04-2024,Partner,Express,Cancelled
+O000763,C00103,24-04-2025,Mobile App,Same Day,Delivered
+O000764,C00519,09-03-2023,Store,Express,Delivered
+O000765,C00465,12-12-2024,Web,Standard,Shipped
+O000766,C00646,30-03-2024,Mobile App,Standard,Cancelled
+O000767,C00205,05-10-2024,Store,Express,Pending
+O000768,C00114,11-06-2023,Mobile App,Same Day,Shipped
+O000769,C00609,03-12-2024,Partner,Express,Cancelled
+O000770,C00490,13-06-2025,Mobile App,Express,Shipped
+O000771,C00608,26-04-2025,Store,Express,Shipped
+O000772,C00087,29-02-2024,Store,Standard,Cancelled
+O000773,C00387,25-08-2025,Mobile App,Standard,Pending
+O000774,C00572,24-10-2024,Mobile App,Standard,Cancelled
+O000775,C00204,26-09-2023,Mobile App,Standard,Cancelled
+O000776,C00633,15-03-2024,Store,Standard,Pending
+O000777,C00377,24-06-2023,Web,Standard,Cancelled
+O000778,C00465,27-04-2025,Partner,Standard,Shipped
+O000779,C00209,15-07-2023,Store,Express,Cancelled
+O000780,C00392,14-05-2023,Partner,Standard,Shipped
+O000781,C00290,14-01-2025,Mobile App,Express,Shipped
+O000782,C00419,22-03-2025,Mobile App,Standard,Delivered
+O000783,C00269,30-08-2023,Partner,Standard,Delivered
+O000784,C00597,01-12-2024,Partner,Standard,Pending
+O000785,C00481,17-05-2023,Store,Same Day,Cancelled
+O000786,C00218,31-12-2024,Partner,Same Day,Cancelled
+O000787,C00612,20-09-2023,Web,Standard,Pending
+O000788,C00054,07-12-2023,Mobile App,Express,Delivered
+O000789,C00621,19-08-2025,Web,Standard,Delivered
+O000790,C00517,26-09-2024,Partner,Express,Cancelled
+O000791,C00688,15-01-2024,Mobile App,Same Day,Pending
+O000792,C00595,03-07-2023,Store,Standard,Cancelled
+O000793,C00348,17-06-2025,Partner,Standard,Pending
+O000794,C00325,28-12-2024,Partner,Standard,Delivered
+O000795,C00120,17-11-2023,Web,Standard,Cancelled
+O000796,C00288,04-02-2025,Store,Express,Delivered
+O000797,C00270,19-09-2024,Store,Same Day,Delivered
+O000798,C00447,03-07-2025,Mobile App,Express,Cancelled
+O000799,C00155,23-07-2024,Partner,Standard,Shipped
+O000800,C00153,25-02-2023,Mobile App,Standard,Pending
+O000801,C00482,24-09-2023,Mobile App,Same Day,Cancelled
+O000802,C00447,29-04-2023,Partner,Standard,Cancelled
+O000803,C00366,27-12-2024,Partner,Express,Cancelled
+O000804,C00116,16-05-2025,Mobile App,Standard,Delivered
+O000805,C00096,28-07-2023,Store,Standard,Shipped
+O000806,C00521,22-04-2025,Store,Same Day,Shipped
+O000807,C00598,21-09-2025,Web,Same Day,Shipped
+O000808,C00427,31-07-2025,Web,Standard,Cancelled
+O000809,C00694,07-04-2023,Store,Standard,Delivered
+O000810,C00698,27-11-2024,Web,Express,Delivered
+O000811,C00605,09-08-2025,Web,Express,Shipped
+O000812,C00030,25-03-2023,Partner,Same Day,Cancelled
+O000813,C00465,05-10-2024,Store,Same Day,Pending
+O000814,C00338,20-09-2025,Web,Same Day,Cancelled
+O000815,C00333,28-08-2025,Mobile App,Standard,Pending
+O000816,C00660,17-10-2023,Store,Standard,Pending
+O000817,C00561,01-09-2025,Partner,Standard,Cancelled
+O000818,C00262,02-07-2023,Mobile App,Express,Pending
+O000819,C00022,22-05-2025,Mobile App,Standard,Cancelled
+O000820,C00413,19-10-2023,Mobile App,Standard,Delivered
+O000821,C00503,31-03-2025,Partner,Same Day,Delivered
+O000822,C00618,15-05-2023,Store,Same Day,Pending
+O000823,C00377,08-06-2024,Mobile App,Express,Cancelled
+O000824,C00398,02-05-2024,Store,Same Day,Cancelled
+O000825,C00093,13-02-2025,Partner,Express,Shipped
+O000826,C00445,07-10-2024,Partner,Standard,Pending
+O000827,C00526,16-12-2023,Partner,Same Day,Shipped
+O000828,C00664,03-12-2024,Mobile App,Express,Pending
+O000829,C00298,24-04-2024,Partner,Standard,Cancelled
+O000830,C00308,02-06-2023,Mobile App,Same Day,Delivered
+O000831,C00255,19-06-2024,Partner,Express,Pending
+O000832,C00565,20-03-2023,Web,Same Day,Pending
+O000833,C00523,11-03-2024,Partner,Standard,Cancelled
+O000834,C00677,07-01-2025,Store,Express,Delivered
+O000835,C00600,25-03-2023,Web,Standard,Cancelled
+O000836,C00184,16-03-2025,Mobile App,Express,Pending
+O000837,C00086,02-03-2024,Store,Express,Cancelled
+O000838,C00687,05-04-2024,Store,Express,Shipped
+O000839,C00217,09-07-2023,Web,Same Day,Delivered
+O000840,C00690,19-04-2023,Partner,Same Day,Pending
+O000841,C00006,09-02-2024,Web,Standard,Shipped
+O000842,C00672,03-05-2024,Partner,Same Day,Cancelled
+O000843,C00674,15-09-2025,Partner,Express,Delivered
+O000844,C00690,13-09-2025,Partner,Express,Pending
+O000845,C00129,19-05-2023,Web,Standard,Pending
+O000846,C00017,13-12-2024,Mobile App,Standard,Shipped
+O000847,C00493,26-10-2024,Mobile App,Same Day,Shipped
+O000848,C00447,12-05-2025,Mobile App,Standard,Delivered
+O000849,C00475,01-06-2023,Partner,Express,Pending
+O000850,C00120,20-06-2023,Mobile App,Same Day,Cancelled
+O000851,C00497,27-04-2024,Web,Express,Shipped
+O000852,C00207,29-10-2023,Partner,Standard,Delivered
+O000853,C00009,16-04-2023,Partner,Express,Cancelled
+O000854,C00593,02-09-2024,Store,Standard,Cancelled
+O000855,C00410,12-05-2024,Partner,Standard,Pending
+O000856,C00541,20-01-2023,Partner,Same Day,Delivered
+O000857,C00567,07-03-2023,Store,Same Day,Cancelled
+O000858,C00485,30-04-2023,Partner,Same Day,Delivered
+O000859,C00460,15-12-2024,Partner,Standard,Shipped
+O000860,C00295,13-01-2025,Mobile App,Express,Delivered
+O000861,C00449,26-08-2023,Mobile App,Same Day,Delivered
+O000862,C00617,23-05-2025,Partner,Standard,Delivered
+O000863,C00400,09-09-2025,Partner,Same Day,Delivered
+O000864,C00484,29-03-2025,Mobile App,Same Day,Shipped
+O000865,C00290,08-12-2024,Web,Same Day,Cancelled
+O000866,C00133,27-06-2023,Mobile App,Standard,Cancelled
+O000867,C00104,23-03-2025,Partner,Express,Delivered
+O000868,C00241,03-08-2023,Web,Standard,Delivered
+O000869,C00268,01-01-2024,Mobile App,Standard,Pending
+O000870,C00066,12-12-2023,Partner,Standard,Shipped
+O000871,C00124,29-07-2024,Mobile App,Express,Delivered
+O000872,C00349,14-03-2025,Store,Standard,Delivered
+O000873,C00155,23-05-2025,Web,Same Day,Pending
+O000874,C00449,29-03-2025,Partner,Standard,Pending
+O000875,C00626,16-09-2024,Web,Same Day,Pending
+O000876,C00520,18-04-2023,Mobile App,Same Day,Pending
+O000877,C00211,21-07-2025,Store,Standard,Delivered
+O000878,C00453,19-02-2025,Partner,Same Day,Pending
+O000879,C00158,24-10-2024,Store,Express,Shipped
+O000880,C00126,18-05-2025,Mobile App,Express,Cancelled
+O000881,C00007,09-09-2023,Partner,Express,Delivered
+O000882,C00518,25-06-2023,Web,Express,Delivered
+O000883,C00425,05-01-2024,Mobile App,Standard,Cancelled
+O000884,C00234,22-05-2023,Partner,Express,Cancelled
+O000885,C00470,01-09-2025,Store,Standard,Cancelled
+O000886,C00150,27-02-2025,Web,Same Day,Pending
+O000887,C00087,13-12-2023,Store,Express,Shipped
+O000888,C00445,04-03-2023,Partner,Standard,Shipped
+O000889,C00589,01-03-2023,Store,Express,Cancelled
+O000890,C00698,18-12-2024,Store,Same Day,Delivered
+O000891,C00353,09-01-2023,Store,Same Day,Shipped
+O000892,C00414,01-04-2024,Mobile App,Same Day,Cancelled
+O000893,C00354,27-06-2025,Partner,Standard,Delivered
+O000894,C00087,07-02-2023,Store,Express,Shipped
+O000895,C00533,07-07-2024,Store,Standard,Pending
+O000896,C00524,19-07-2024,Store,Same Day,Delivered
+O000897,C00651,13-06-2023,Web,Standard,Delivered
+O000898,C00248,02-05-2025,Store,Same Day,Cancelled
+O000899,C00518,24-04-2023,Web,Express,Delivered
+O000900,C00643,03-06-2024,Store,Standard,Pending
+O000901,C00667,21-08-2025,Web,Express,Delivered
+O000902,C00587,24-01-2025,Web,Express,Delivered
+O000903,C00242,04-04-2025,Mobile App,Express,Delivered
+O000904,C00292,13-11-2024,Mobile App,Same Day,Cancelled
+O000905,C00533,25-01-2025,Mobile App,Standard,Delivered
+O000906,C00529,19-08-2024,Mobile App,Express,Cancelled
+O000907,C00101,31-05-2023,Partner,Express,Pending
+O000908,C00095,05-03-2023,Partner,Standard,Cancelled
+O000909,C00220,01-04-2024,Web,Express,Cancelled
+O000910,C00603,26-07-2024,Partner,Express,Cancelled
+O000911,C00652,09-03-2024,Partner,Same Day,Cancelled
+O000912,C00427,23-04-2025,Mobile App,Standard,Shipped
+O000913,C00497,29-12-2024,Partner,Standard,Pending
+O000914,C00218,11-04-2024,Partner,Standard,Shipped
+O000915,C00573,14-01-2024,Web,Same Day,Cancelled
+O000916,C00113,04-05-2023,Store,Same Day,Delivered
+O000917,C00042,19-06-2024,Mobile App,Standard,Delivered
+O000918,C00313,19-01-2024,Store,Express,Cancelled
+O000919,C00029,21-03-2025,Mobile App,Standard,Cancelled
+O000920,C00050,17-08-2025,Store,Express,Shipped
+O000921,C00188,18-04-2025,Partner,Standard,Pending
+O000922,C00561,24-12-2023,Web,Standard,Cancelled
+O000923,C00493,09-08-2024,Store,Same Day,Cancelled
+O000924,C00346,11-03-2025,Partner,Express,Shipped
+O000925,C00142,31-05-2024,Partner,Express,Cancelled
+O000926,C00153,06-06-2025,Store,Standard,Cancelled
+O000927,C00397,27-08-2023,Partner,Express,Pending
+O000928,C00687,30-06-2025,Partner,Same Day,Delivered
+O000929,C00662,01-04-2023,Mobile App,Same Day,Pending
+O000930,C00586,07-10-2024,Store,Same Day,Pending
+O000931,C00660,26-07-2024,Web,Standard,Pending
+O000932,C00584,18-06-2024,Mobile App,Express,Pending
+O000933,C00124,05-11-2024,Mobile App,Standard,Delivered
+O000934,C00211,09-09-2023,Partner,Standard,Delivered
+O000935,C00412,26-08-2024,Web,Express,Pending
+O000936,C00349,23-03-2024,Mobile App,Express,Pending
+O000937,C00541,21-11-2023,Partner,Express,Pending
+O000938,C00118,12-04-2023,Mobile App,Express,Shipped
+O000939,C00188,19-09-2023,Web,Standard,Delivered
+O000940,C00418,25-11-2024,Mobile App,Standard,Delivered
+O000941,C00186,28-01-2023,Web,Express,Cancelled
+O000942,C00102,24-11-2023,Mobile App,Express,Delivered
+O000943,C00265,20-01-2024,Web,Standard,Shipped
+O000944,C00246,09-02-2025,Mobile App,Express,Cancelled
+O000945,C00118,03-10-2023,Web,Express,Cancelled
+O000946,C00567,21-02-2024,Web,Express,Pending
+O000947,C00418,10-10-2024,Mobile App,Standard,Delivered
+O000948,C00568,13-09-2025,Web,Standard,Shipped
+O000949,C00312,04-08-2024,Partner,Express,Pending
+O000950,C00652,27-05-2024,Mobile App,Standard,Delivered
+O000951,C00554,22-06-2023,Mobile App,Same Day,Cancelled
+O000952,C00569,07-04-2024,Web,Standard,Cancelled
+O000953,C00636,24-10-2023,Mobile App,Standard,Pending
+O000954,C00494,07-10-2023,Store,Same Day,Cancelled
+O000955,C00360,12-05-2025,Mobile App,Same Day,Delivered
+O000956,C00047,15-06-2023,Web,Express,Pending
+O000957,C00405,16-12-2024,Web,Standard,Delivered
+O000958,C00443,04-08-2023,Store,Same Day,Delivered
+O000959,C00651,25-09-2023,Partner,Express,Shipped
+O000960,C00679,26-11-2023,Store,Standard,Cancelled
+O000961,C00614,03-12-2023,Web,Same Day,Shipped
+O000962,C00662,02-08-2025,Web,Same Day,Cancelled
+O000963,C00005,12-07-2025,Web,Same Day,Shipped
+O000964,C00424,23-07-2024,Partner,Express,Pending
+O000965,C00665,28-10-2024,Web,Same Day,Pending
+O000966,C00688,31-03-2024,Web,Express,Cancelled
+O000967,C00616,02-01-2024,Partner,Standard,Pending
+O000968,C00128,18-04-2024,Store,Standard,Cancelled
+O000969,C00010,15-08-2023,Web,Express,Delivered
+O000970,C00197,03-04-2023,Store,Same Day,Shipped
+O000971,C00240,20-05-2024,Store,Standard,Delivered
+O000972,C00505,15-07-2025,Mobile App,Standard,Shipped
+O000973,C00654,10-02-2024,Web,Express,Cancelled
+O000974,C00175,19-07-2024,Mobile App,Same Day,Shipped
+O000975,C00067,25-08-2024,Mobile App,Same Day,Pending
+O000976,C00131,23-09-2023,Mobile App,Same Day,Delivered
+O000977,C00197,18-05-2025,Web,Same Day,Delivered
+O000978,C00698,27-07-2024,Partner,Standard,Cancelled
+O000979,C00657,20-11-2024,Web,Express,Cancelled
+O000980,C00417,08-10-2023,Web,Same Day,Cancelled
+O000981,C00508,06-01-2024,Web,Same Day,Shipped
+O000982,C00049,12-10-2023,Partner,Same Day,Cancelled
+O000983,C00324,06-01-2023,Partner,Standard,Delivered
+O000984,C00084,20-06-2025,Web,Same Day,Shipped
+O000985,C00434,07-09-2025,Web,Standard,Shipped
+O000986,C00169,04-12-2023,Store,Standard,Pending
+O000987,C00029,06-05-2024,Partner,Standard,Delivered
+O000988,C00257,11-09-2023,Web,Express,Shipped
+O000989,C00349,02-05-2025,Web,Express,Shipped
+O000990,C00075,05-03-2025,Partner,Standard,Cancelled
+O000991,C00593,08-05-2023,Web,Standard,Pending
+O000992,C00387,17-11-2023,Web,Standard,Pending
+O000993,C00453,26-02-2023,Store,Same Day,Cancelled
+O000994,C00068,15-04-2023,Web,Same Day,Pending
+O000995,C00302,20-05-2025,Partner,Express,Pending
+O000996,C00633,09-02-2025,Partner,Standard,Pending
+O000997,C00465,29-01-2024,Partner,Express,Pending
+O000998,C00348,28-10-2024,Web,Express,Delivered
+O000999,C00602,17-07-2023,Web,Standard,Pending
+O001000,C00610,31-12-2024,Web,Same Day,Shipped
+O001001,C00587,10-05-2023,Store,Express,Cancelled
+O001002,C00493,12-01-2025,Partner,Standard,Shipped
+O001003,C00141,27-03-2025,Web,Standard,Shipped
+O001004,C00320,21-08-2024,Partner,Same Day,Delivered
+O001005,C00319,20-08-2024,Mobile App,Standard,Cancelled
+O001006,C00317,09-09-2024,Store,Express,Delivered
+O001007,C00009,14-06-2024,Mobile App,Standard,Shipped
+O001008,C00520,18-04-2025,Web,Express,Delivered
+O001009,C00201,26-09-2025,Mobile App,Same Day,Shipped
+O001010,C00071,16-12-2023,Mobile App,Same Day,Cancelled
+O001011,C00479,06-09-2024,Store,Same Day,Delivered
+O001012,C00631,03-11-2023,Partner,Express,Shipped
+O001013,C00108,10-04-2024,Web,Express,Shipped
+O001014,C00004,16-10-2024,Mobile App,Same Day,Shipped
+O001015,C00478,30-09-2024,Mobile App,Standard,Cancelled
+O001016,C00340,06-04-2025,Partner,Standard,Cancelled
+O001017,C00189,25-04-2025,Web,Express,Pending
+O001018,C00076,02-01-2024,Web,Same Day,Pending
+O001019,C00146,25-10-2023,Partner,Standard,Delivered
+O001020,C00045,25-09-2025,Web,Standard,Shipped
+O001021,C00291,28-06-2023,Mobile App,Express,Shipped
+O001022,C00348,17-05-2025,Mobile App,Standard,Shipped
+O001023,C00023,30-06-2023,Store,Standard,Pending
+O001024,C00694,21-05-2023,Partner,Same Day,Pending
+O001025,C00347,16-08-2025,Mobile App,Express,Cancelled
+O001026,C00246,14-01-2024,Store,Same Day,Shipped
+O001027,C00540,27-09-2025,Partner,Same Day,Pending
+O001028,C00122,28-05-2023,Mobile App,Standard,Shipped
+O001029,C00546,23-01-2024,Store,Express,Cancelled
+O001030,C00652,08-09-2023,Web,Same Day,Shipped
+O001031,C00549,29-10-2023,Mobile App,Express,Shipped
+O001032,C00055,06-10-2024,Store,Standard,Cancelled
+O001033,C00215,14-01-2025,Web,Express,Pending
+O001034,C00172,04-06-2024,Partner,Same Day,Delivered
+O001035,C00511,15-06-2024,Partner,Standard,Delivered
+O001036,C00383,22-06-2024,Partner,Same Day,Cancelled
+O001037,C00486,02-10-2023,Partner,Same Day,Pending
+O001038,C00213,13-08-2023,Mobile App,Express,Shipped
+O001039,C00406,12-08-2023,Store,Express,Cancelled
+O001040,C00586,10-06-2023,Store,Express,Pending
+O001041,C00138,08-02-2025,Web,Express,Cancelled
+O001042,C00532,27-12-2023,Mobile App,Same Day,Pending
+O001043,C00477,08-06-2024,Store,Express,Cancelled
+O001044,C00479,18-03-2024,Partner,Express,Cancelled
+O001045,C00325,07-10-2023,Partner,Standard,Shipped
+O001046,C00453,28-08-2023,Store,Same Day,Pending
+O001047,C00368,12-07-2025,Web,Express,Pending
+O001048,C00284,06-08-2025,Mobile App,Standard,Pending
+O001049,C00074,04-01-2024,Web,Same Day,Shipped
+O001050,C00342,21-07-2023,Store,Express,Delivered
+O001051,C00700,15-05-2025,Store,Standard,Shipped
+O001052,C00557,23-07-2025,Store,Standard,Delivered
+O001053,C00289,22-04-2025,Store,Express,Cancelled
+O001054,C00594,14-02-2025,Web,Express,Shipped
+O001055,C00408,22-08-2023,Mobile App,Same Day,Shipped
+O001056,C00486,28-08-2023,Partner,Same Day,Cancelled
+O001057,C00349,21-03-2025,Web,Express,Shipped
+O001058,C00440,27-02-2025,Partner,Standard,Cancelled
+O001059,C00461,23-05-2025,Web,Express,Shipped
+O001060,C00592,13-06-2025,Mobile App,Express,Pending
+O001061,C00512,09-04-2025,Store,Express,Shipped
+O001062,C00430,11-03-2024,Partner,Same Day,Delivered
+O001063,C00334,24-08-2024,Web,Same Day,Pending
+O001064,C00143,07-06-2023,Store,Same Day,Cancelled
+O001065,C00391,29-07-2023,Partner,Standard,Cancelled
+O001066,C00193,01-05-2024,Web,Express,Cancelled
+O001067,C00655,05-07-2025,Store,Standard,Shipped
+O001068,C00107,22-11-2024,Mobile App,Standard,Cancelled
+O001069,C00028,11-07-2023,Mobile App,Standard,Cancelled
+O001070,C00291,30-07-2023,Mobile App,Express,Pending
+O001071,C00466,28-02-2023,Store,Same Day,Pending
+O001072,C00176,01-12-2023,Partner,Express,Shipped
+O001073,C00114,13-05-2023,Partner,Express,Pending
+O001074,C00399,05-09-2025,Mobile App,Standard,Shipped
+O001075,C00318,18-03-2024,Partner,Standard,Delivered
+O001076,C00602,27-07-2023,Partner,Express,Shipped
+O001077,C00008,27-05-2023,Partner,Standard,Cancelled
+O001078,C00620,06-04-2025,Mobile App,Same Day,Delivered
+O001079,C00583,19-06-2025,Partner,Express,Cancelled
+O001080,C00590,10-02-2023,Web,Express,Cancelled
+O001081,C00356,18-12-2024,Store,Express,Shipped
+O001082,C00426,13-09-2023,Mobile App,Same Day,Cancelled
+O001083,C00469,29-01-2024,Mobile App,Same Day,Pending
+O001084,C00403,16-12-2024,Web,Standard,Shipped
+O001085,C00281,22-06-2025,Store,Same Day,Pending
+O001086,C00223,19-07-2025,Partner,Express,Pending
+O001087,C00378,20-03-2023,Web,Same Day,Delivered
+O001088,C00420,06-04-2024,Mobile App,Express,Shipped
+O001089,C00519,15-02-2023,Partner,Standard,Pending
+O001090,C00655,12-12-2024,Partner,Express,Delivered
+O001091,C00409,26-05-2025,Mobile App,Express,Pending
+O001092,C00011,14-09-2023,Web,Same Day,Shipped
+O001093,C00335,17-11-2024,Partner,Express,Cancelled
+O001094,C00070,26-03-2023,Mobile App,Same Day,Cancelled
+O001095,C00144,27-04-2024,Store,Standard,Shipped
+O001096,C00019,13-09-2024,Web,Standard,Delivered
+O001097,C00128,01-07-2024,Partner,Standard,Pending
+O001098,C00688,20-02-2025,Web,Same Day,Delivered
+O001099,C00158,27-03-2024,Store,Standard,Shipped
+O001100,C00036,03-07-2025,Mobile App,Express,Pending
+O001101,C00651,10-04-2025,Web,Express,Delivered
+O001102,C00455,23-02-2023,Web,Standard,Cancelled
+O001103,C00207,09-08-2025,Mobile App,Express,Shipped
+O001104,C00205,04-04-2023,Web,Express,Pending
+O001105,C00015,12-12-2023,Mobile App,Same Day,Pending
+O001106,C00226,08-09-2025,Web,Same Day,Shipped
+O001107,C00172,15-02-2023,Partner,Same Day,Pending
+O001108,C00335,27-11-2023,Mobile App,Same Day,Shipped
+O001109,C00555,09-02-2024,Partner,Standard,Shipped
+O001110,C00219,19-04-2023,Store,Express,Shipped
+O001111,C00016,16-02-2024,Store,Standard,Cancelled
+O001112,C00218,14-04-2024,Mobile App,Standard,Delivered
+O001113,C00666,30-09-2024,Store,Standard,Pending
+O001114,C00224,25-02-2024,Store,Same Day,Cancelled
+O001115,C00105,30-12-2024,Mobile App,Express,Pending
+O001116,C00615,29-11-2023,Partner,Same Day,Shipped
+O001117,C00341,29-06-2023,Store,Same Day,Cancelled
+O001118,C00070,10-12-2023,Web,Same Day,Cancelled
+O001119,C00392,07-06-2024,Mobile App,Same Day,Pending
+O001120,C00239,22-01-2023,Web,Express,Shipped
+O001121,C00439,14-02-2025,Mobile App,Same Day,Pending
+O001122,C00062,21-05-2023,Store,Express,Delivered
+O001123,C00207,05-06-2023,Partner,Standard,Pending
+O001124,C00244,03-08-2025,Partner,Same Day,Delivered
+O001125,C00138,12-10-2023,Store,Same Day,Pending
+O001126,C00534,21-03-2025,Partner,Same Day,Delivered
+O001127,C00025,23-08-2023,Store,Express,Shipped
+O001128,C00211,06-07-2024,Web,Same Day,Shipped
+O001129,C00228,14-09-2024,Partner,Same Day,Delivered
+O001130,C00188,28-03-2024,Web,Standard,Cancelled
+O001131,C00072,03-09-2025,Mobile App,Standard,Shipped
+O001132,C00210,09-05-2023,Web,Standard,Shipped
+O001133,C00242,03-06-2024,Web,Express,Cancelled
+O001134,C00319,18-06-2023,Mobile App,Standard,Cancelled
+O001135,C00181,12-09-2024,Mobile App,Express,Delivered
+O001136,C00591,04-04-2024,Mobile App,Express,Cancelled
+O001137,C00082,31-08-2025,Store,Express,Cancelled
+O001138,C00172,27-04-2024,Partner,Express,Cancelled
+O001139,C00160,19-04-2025,Partner,Standard,Cancelled
+O001140,C00438,24-05-2025,Web,Express,Shipped
+O001141,C00567,14-01-2025,Mobile App,Express,Cancelled
+O001142,C00475,10-11-2023,Partner,Express,Cancelled
+O001143,C00576,12-09-2024,Partner,Standard,Delivered
+O001144,C00140,02-01-2025,Partner,Standard,Shipped
+O001145,C00195,05-01-2023,Web,Same Day,Delivered
+O001146,C00504,19-02-2024,Partner,Express,Delivered
+O001147,C00394,16-05-2024,Store,Same Day,Pending
+O001148,C00419,25-06-2025,Web,Standard,Cancelled
+O001149,C00580,16-06-2023,Mobile App,Express,Delivered
+O001150,C00357,05-06-2024,Partner,Same Day,Delivered
+O001151,C00060,28-10-2024,Partner,Express,Shipped
+O001152,C00249,04-05-2024,Web,Express,Pending
+O001153,C00682,22-10-2024,Mobile App,Express,Cancelled
+O001154,C00698,31-05-2023,Store,Standard,Shipped
+O001155,C00013,30-04-2023,Web,Same Day,Cancelled
+O001156,C00408,24-12-2024,Web,Same Day,Shipped
+O001157,C00434,19-06-2023,Partner,Express,Delivered
+O001158,C00513,17-09-2025,Partner,Same Day,Delivered
+O001159,C00422,09-02-2025,Web,Standard,Delivered
+O001160,C00147,03-10-2023,Mobile App,Same Day,Cancelled
+O001161,C00316,07-01-2023,Mobile App,Express,Pending
+O001162,C00100,13-03-2023,Partner,Same Day,Cancelled
+O001163,C00671,23-10-2023,Partner,Standard,Shipped
+O001164,C00384,10-07-2023,Mobile App,Standard,Cancelled
+O001165,C00187,29-05-2024,Web,Express,Shipped
+O001166,C00191,25-07-2023,Web,Same Day,Shipped
+O001167,C00197,23-09-2023,Partner,Express,Pending
+O001168,C00652,20-06-2023,Web,Express,Pending
+O001169,C00387,08-05-2023,Store,Standard,Delivered
+O001170,C00031,22-08-2024,Mobile App,Express,Cancelled
+O001171,C00689,17-02-2025,Web,Standard,Pending
+O001172,C00273,08-02-2025,Web,Same Day,Pending
+O001173,C00100,05-08-2023,Web,Express,Delivered
+O001174,C00498,29-04-2024,Store,Same Day,Cancelled
+O001175,C00345,15-01-2024,Store,Express,Shipped
+O001176,C00370,12-11-2024,Partner,Express,Pending
+O001177,C00365,13-06-2025,Store,Standard,Pending
+O001178,C00468,10-06-2025,Partner,Same Day,Shipped
+O001179,C00027,08-09-2024,Web,Same Day,Delivered
+O001180,C00255,13-01-2024,Partner,Same Day,Cancelled
+O001181,C00528,28-02-2024,Mobile App,Standard,Delivered
+O001182,C00018,10-10-2024,Store,Standard,Delivered
+O001183,C00695,30-03-2024,Mobile App,Same Day,Cancelled
+O001184,C00410,26-01-2025,Web,Express,Cancelled
+O001185,C00488,05-11-2024,Web,Same Day,Cancelled
+O001186,C00301,13-09-2024,Mobile App,Same Day,Shipped
+O001187,C00533,16-06-2025,Web,Standard,Cancelled
+O001188,C00090,05-11-2023,Partner,Standard,Cancelled
+O001189,C00119,08-05-2024,Mobile App,Standard,Shipped
+O001190,C00175,10-02-2025,Web,Standard,Cancelled
+O001191,C00030,14-06-2023,Store,Express,Delivered
+O001192,C00226,06-01-2025,Store,Same Day,Cancelled
+O001193,C00687,07-05-2023,Mobile App,Same Day,Cancelled
+O001194,C00093,25-03-2025,Store,Standard,Pending
+O001195,C00660,18-12-2023,Partner,Same Day,Cancelled
+O001196,C00670,19-10-2024,Partner,Standard,Shipped
+O001197,C00266,29-04-2023,Store,Standard,Pending
+O001198,C00092,15-12-2023,Mobile App,Same Day,Pending
+O001199,C00587,12-01-2024,Mobile App,Express,Cancelled
+O001200,C00591,24-01-2025,Web,Express,Pending
+O001201,C00605,02-07-2024,Mobile App,Express,Cancelled
+O001202,C00328,28-02-2025,Store,Same Day,Shipped
+O001203,C00533,10-11-2024,Mobile App,Standard,Cancelled
+O001204,C00010,05-07-2024,Partner,Express,Shipped
+O001205,C00304,07-05-2025,Mobile App,Express,Cancelled
+O001206,C00151,07-09-2024,Store,Standard,Pending
+O001207,C00614,24-11-2023,Store,Same Day,Pending
+O001208,C00281,18-05-2025,Partner,Same Day,Shipped
+O001209,C00507,26-10-2023,Partner,Standard,Delivered
+O001210,C00157,27-04-2025,Mobile App,Same Day,Shipped
+O001211,C00054,03-08-2025,Mobile App,Express,Cancelled
+O001212,C00307,14-04-2025,Mobile App,Standard,Cancelled
+O001213,C00346,08-03-2024,Partner,Express,Cancelled
+O001214,C00401,15-03-2023,Store,Express,Shipped
+O001215,C00562,08-02-2024,Web,Standard,Delivered
+O001216,C00595,05-06-2025,Web,Same Day,Delivered
+O001217,C00469,01-11-2024,Mobile App,Same Day,Shipped
+O001218,C00453,13-12-2024,Partner,Express,Shipped
+O001219,C00215,12-08-2023,Mobile App,Same Day,Pending
+O001220,C00371,13-01-2025,Web,Same Day,Shipped
+O001221,C00386,31-08-2025,Partner,Same Day,Shipped
+O001222,C00058,09-04-2023,Store,Express,Shipped
+O001223,C00054,01-05-2023,Store,Same Day,Cancelled
+O001224,C00153,04-10-2024,Partner,Standard,Pending
+O001225,C00122,04-09-2023,Partner,Express,Delivered
+O001226,C00611,04-09-2025,Mobile App,Same Day,Cancelled
+O001227,C00687,05-11-2024,Web,Express,Cancelled
+O001228,C00282,09-10-2024,Partner,Express,Pending
+O001229,C00123,30-04-2023,Web,Standard,Cancelled
+O001230,C00657,15-11-2024,Mobile App,Standard,Cancelled
+O001231,C00281,11-12-2024,Web,Same Day,Shipped
+O001232,C00394,10-05-2024,Partner,Express,Shipped
+O001233,C00102,30-11-2023,Web,Same Day,Shipped
+O001234,C00416,12-04-2025,Web,Express,Cancelled
+O001235,C00066,15-06-2024,Web,Standard,Pending
+O001236,C00186,01-06-2025,Mobile App,Standard,Cancelled
+O001237,C00322,06-05-2023,Web,Standard,Shipped
+O001238,C00669,15-06-2023,Web,Same Day,Delivered
+O001239,C00036,28-03-2023,Web,Same Day,Delivered
+O001240,C00373,16-09-2025,Mobile App,Express,Pending
+O001241,C00255,04-11-2023,Web,Same Day,Delivered
+O001242,C00675,30-06-2024,Partner,Standard,Cancelled
+O001243,C00321,19-06-2024,Store,Same Day,Shipped
+O001244,C00102,09-11-2024,Web,Standard,Pending
+O001245,C00193,26-05-2023,Store,Standard,Shipped
+O001246,C00617,19-07-2024,Mobile App,Same Day,Delivered
+O001247,C00285,12-05-2023,Partner,Standard,Delivered
+O001248,C00267,26-01-2024,Mobile App,Express,Cancelled
+O001249,C00086,25-08-2025,Store,Same Day,Cancelled
+O001250,C00147,02-07-2024,Mobile App,Standard,Delivered
+O001251,C00649,14-12-2024,Mobile App,Same Day,Delivered
+O001252,C00578,04-11-2024,Mobile App,Express,Shipped
+O001253,C00324,17-03-2025,Partner,Express,Pending
+O001254,C00619,11-09-2023,Web,Express,Pending
+O001255,C00545,23-04-2023,Partner,Standard,Delivered
+O001256,C00656,02-04-2023,Store,Express,Delivered
+O001257,C00150,08-06-2025,Mobile App,Express,Pending
+O001258,C00101,22-01-2024,Mobile App,Express,Pending
+O001259,C00127,29-06-2023,Store,Same Day,Cancelled
+O001260,C00098,25-06-2024,Store,Same Day,Delivered
+O001261,C00565,05-10-2023,Web,Standard,Shipped
+O001262,C00326,27-08-2025,Partner,Standard,Delivered
+O001263,C00695,18-09-2025,Partner,Express,Shipped
+O001264,C00266,10-01-2023,Mobile App,Same Day,Shipped
+O001265,C00147,23-01-2024,Store,Standard,Delivered
+O001266,C00256,25-11-2024,Partner,Same Day,Cancelled
+O001267,C00188,25-03-2024,Store,Express,Delivered
+O001268,C00283,02-09-2025,Partner,Same Day,Shipped
+O001269,C00313,12-10-2024,Web,Express,Cancelled
+O001270,C00321,15-05-2025,Web,Same Day,Pending
+O001271,C00079,17-01-2025,Mobile App,Standard,Shipped
+O001272,C00590,28-02-2023,Web,Same Day,Delivered
+O001273,C00568,09-08-2025,Partner,Standard,Cancelled
+O001274,C00694,04-06-2024,Mobile App,Express,Cancelled
+O001275,C00528,02-12-2024,Web,Express,Pending
+O001276,C00632,14-07-2023,Web,Same Day,Cancelled
+O001277,C00548,06-02-2025,Store,Standard,Pending
+O001278,C00622,04-04-2024,Mobile App,Same Day,Shipped
+O001279,C00180,18-03-2023,Store,Standard,Delivered
+O001280,C00053,08-03-2024,Partner,Express,Shipped
+O001281,C00383,20-09-2025,Web,Express,Shipped
+O001282,C00553,21-05-2025,Web,Express,Delivered
+O001283,C00495,28-10-2023,Store,Standard,Pending
+O001284,C00647,05-08-2024,Partner,Standard,Delivered
+O001285,C00659,11-06-2024,Web,Express,Cancelled
+O001286,C00059,31-12-2023,Web,Same Day,Cancelled
+O001287,C00337,02-11-2023,Store,Standard,Pending
+O001288,C00359,30-06-2025,Mobile App,Express,Delivered
+O001289,C00010,14-04-2023,Partner,Express,Shipped
+O001290,C00087,25-06-2024,Mobile App,Express,Pending
+O001291,C00500,08-01-2023,Mobile App,Same Day,Delivered
+O001292,C00232,26-04-2024,Partner,Express,Delivered
+O001293,C00374,14-03-2024,Mobile App,Same Day,Delivered
+O001294,C00112,25-03-2024,Partner,Standard,Shipped
+O001295,C00363,04-02-2025,Partner,Standard,Delivered
+O001296,C00204,24-04-2023,Mobile App,Express,Pending
+O001297,C00137,09-02-2024,Partner,Same Day,Delivered
+O001298,C00033,14-06-2023,Mobile App,Express,Delivered
+O001299,C00122,07-03-2024,Partner,Same Day,Cancelled
+O001300,C00699,01-01-2025,Mobile App,Express,Cancelled
+O001301,C00514,13-01-2025,Partner,Standard,Pending
+O001302,C00111,22-03-2025,Web,Standard,Shipped
+O001303,C00353,27-05-2024,Web,Same Day,Shipped
+O001304,C00054,25-11-2024,Store,Express,Pending
+O001305,C00445,06-05-2024,Store,Express,Cancelled
+O001306,C00085,18-02-2025,Partner,Standard,Shipped
+O001307,C00524,11-07-2023,Mobile App,Express,Pending
+O001308,C00270,18-12-2024,Mobile App,Same Day,Cancelled
+O001309,C00204,30-04-2024,Web,Same Day,Shipped
+O001310,C00194,25-05-2025,Mobile App,Standard,Pending
+O001311,C00136,15-02-2024,Web,Express,Shipped
+O001312,C00150,12-03-2024,Web,Same Day,Shipped
+O001313,C00094,04-06-2025,Web,Express,Cancelled
+O001314,C00538,10-11-2023,Mobile App,Standard,Delivered
+O001315,C00437,05-05-2024,Web,Same Day,Cancelled
+O001316,C00660,22-02-2023,Store,Standard,Delivered
+O001317,C00373,15-10-2023,Store,Same Day,Cancelled
+O001318,C00253,24-11-2023,Web,Standard,Pending
+O001319,C00001,23-02-2023,Store,Standard,Delivered
+O001320,C00484,14-10-2023,Web,Express,Shipped
+O001321,C00259,29-08-2025,Partner,Express,Delivered
+O001322,C00312,25-04-2023,Web,Same Day,Pending
+O001323,C00700,19-07-2024,Mobile App,Express,Delivered
+O001324,C00371,30-01-2025,Store,Standard,Delivered
+O001325,C00216,21-08-2024,Partner,Standard,Pending
+O001326,C00134,06-10-2024,Web,Standard,Shipped
+O001327,C00198,22-12-2024,Partner,Standard,Pending
+O001328,C00560,25-09-2024,Store,Express,Cancelled
+O001329,C00207,30-06-2024,Mobile App,Standard,Shipped
+O001330,C00197,04-03-2024,Store,Same Day,Delivered
+O001331,C00375,04-04-2024,Web,Express,Pending
+O001332,C00495,05-03-2024,Web,Standard,Delivered
+O001333,C00133,24-10-2023,Web,Same Day,Pending
+O001334,C00195,28-01-2025,Partner,Express,Pending
+O001335,C00170,24-03-2024,Partner,Same Day,Cancelled
+O001336,C00411,13-09-2024,Store,Standard,Shipped
+O001337,C00004,13-06-2023,Mobile App,Same Day,Pending
+O001338,C00526,11-04-2024,Store,Express,Shipped
+O001339,C00304,26-12-2024,Store,Same Day,Pending
+O001340,C00176,18-08-2023,Web,Same Day,Shipped
+O001341,C00299,10-02-2023,Mobile App,Express,Shipped
+O001342,C00277,13-06-2025,Web,Same Day,Shipped
+O001343,C00216,01-07-2024,Web,Standard,Delivered
+O001344,C00648,11-09-2024,Store,Express,Pending
+O001345,C00563,28-09-2023,Mobile App,Express,Delivered
+O001346,C00333,28-02-2023,Web,Express,Shipped
+O001347,C00287,30-06-2023,Store,Standard,Pending
+O001348,C00392,26-08-2025,Store,Same Day,Shipped
+O001349,C00453,14-08-2023,Store,Express,Shipped
+O001350,C00596,06-10-2024,Partner,Standard,Cancelled
+O001351,C00238,17-01-2025,Partner,Express,Shipped
+O001352,C00491,06-04-2023,Partner,Standard,Cancelled
+O001353,C00190,15-04-2025,Mobile App,Standard,Cancelled
+O001354,C00185,25-10-2024,Store,Standard,Delivered
+O001355,C00167,25-06-2025,Mobile App,Express,Shipped
+O001356,C00072,27-05-2023,Web,Express,Shipped
+O001357,C00466,19-07-2025,Partner,Standard,Shipped
+O001358,C00013,09-09-2024,Web,Express,Cancelled
+O001359,C00022,23-04-2023,Web,Same Day,Pending
+O001360,C00136,12-09-2023,Web,Express,Shipped
+O001361,C00643,06-09-2024,Web,Standard,Pending
+O001362,C00556,23-01-2025,Store,Same Day,Pending
+O001363,C00208,23-05-2023,Partner,Same Day,Cancelled
+O001364,C00168,11-11-2023,Store,Express,Shipped
+O001365,C00250,27-02-2023,Store,Same Day,Pending
+O001366,C00022,24-04-2025,Web,Standard,Delivered
+O001367,C00106,07-06-2024,Partner,Standard,Pending
+O001368,C00230,25-01-2023,Mobile App,Express,Cancelled
+O001369,C00151,28-12-2023,Store,Standard,Cancelled
+O001370,C00116,18-05-2024,Mobile App,Standard,Shipped
+O001371,C00105,06-09-2025,Store,Express,Pending
+O001372,C00631,08-12-2023,Web,Express,Pending
+O001373,C00045,11-09-2024,Mobile App,Standard,Cancelled
+O001374,C00544,09-12-2023,Mobile App,Same Day,Cancelled
+O001375,C00154,03-07-2025,Store,Same Day,Delivered
+O001376,C00357,15-06-2025,Web,Express,Cancelled
+O001377,C00678,13-01-2024,Store,Same Day,Pending
+O001378,C00003,01-06-2025,Mobile App,Same Day,Shipped
+O001379,C00328,01-06-2023,Partner,Express,Cancelled
+O001380,C00069,26-04-2023,Partner,Same Day,Delivered
+O001381,C00149,03-04-2023,Store,Standard,Shipped
+O001382,C00395,28-12-2023,Store,Express,Cancelled
+O001383,C00493,11-12-2024,Partner,Same Day,Delivered
+O001384,C00142,01-04-2025,Mobile App,Express,Cancelled
+O001385,C00563,24-05-2024,Partner,Same Day,Shipped
+O001386,C00394,27-03-2023,Partner,Same Day,Shipped
+O001387,C00090,29-08-2023,Store,Standard,Shipped
+O001388,C00018,07-01-2024,Partner,Standard,Pending
+O001389,C00062,22-07-2025,Store,Express,Shipped
+O001390,C00302,16-04-2024,Mobile App,Same Day,Cancelled
+O001391,C00249,04-08-2023,Mobile App,Standard,Shipped
+O001392,C00121,12-09-2025,Mobile App,Express,Pending
+O001393,C00435,16-01-2024,Web,Same Day,Pending
+O001394,C00679,18-08-2024,Web,Express,Shipped
+O001395,C00031,31-05-2023,Store,Standard,Pending
+O001396,C00251,20-03-2023,Web,Same Day,Cancelled
+O001397,C00154,22-02-2025,Mobile App,Express,Shipped
+O001398,C00541,16-12-2024,Store,Express,Cancelled
+O001399,C00346,30-03-2024,Web,Express,Pending
+O001400,C00160,03-03-2023,Web,Same Day,Shipped
+O001401,C00516,14-06-2023,Web,Express,Cancelled
+O001402,C00697,28-08-2025,Partner,Same Day,Delivered
+O001403,C00586,28-05-2024,Store,Same Day,Shipped
+O001404,C00434,11-08-2025,Mobile App,Express,Pending
+O001405,C00535,22-01-2024,Mobile App,Same Day,Shipped
+O001406,C00411,25-09-2024,Web,Standard,Cancelled
+O001407,C00189,22-04-2025,Web,Same Day,Cancelled
+O001408,C00489,17-11-2023,Partner,Express,Shipped
+O001409,C00056,02-04-2025,Store,Same Day,Cancelled
+O001410,C00200,04-10-2023,Web,Standard,Pending
+O001411,C00372,09-09-2024,Store,Standard,Shipped
+O001412,C00289,16-06-2023,Web,Standard,Shipped
+O001413,C00612,12-01-2023,Store,Standard,Shipped
+O001414,C00654,09-08-2025,Web,Standard,Delivered
+O001415,C00088,27-09-2025,Web,Same Day,Cancelled
+O001416,C00047,19-02-2023,Store,Standard,Delivered
+O001417,C00009,01-01-2024,Store,Express,Shipped
+O001418,C00323,08-02-2025,Partner,Same Day,Delivered
+O001419,C00133,20-12-2024,Web,Express,Cancelled
+O001420,C00516,14-04-2023,Mobile App,Standard,Cancelled
+O001421,C00489,23-08-2024,Web,Express,Shipped
+O001422,C00156,29-11-2024,Partner,Standard,Pending
+O001423,C00238,24-06-2025,Mobile App,Same Day,Shipped
+O001424,C00165,13-09-2025,Store,Express,Shipped
+O001425,C00348,25-10-2023,Store,Same Day,Cancelled
+O001426,C00041,01-07-2025,Partner,Standard,Shipped
+O001427,C00626,13-09-2024,Web,Standard,Cancelled
+O001428,C00100,04-04-2025,Web,Standard,Delivered
+O001429,C00561,07-06-2025,Web,Express,Pending
+O001430,C00466,18-11-2023,Mobile App,Express,Shipped
+O001431,C00070,14-10-2023,Store,Express,Pending
+O001432,C00073,03-07-2023,Partner,Express,Cancelled
+O001433,C00263,20-02-2025,Partner,Same Day,Shipped
+O001434,C00127,22-09-2025,Partner,Standard,Delivered
+O001435,C00294,15-02-2024,Partner,Same Day,Shipped
+O001436,C00452,11-01-2024,Store,Express,Pending
+O001437,C00699,28-02-2024,Partner,Express,Pending
+O001438,C00636,27-09-2025,Web,Same Day,Shipped
+O001439,C00575,09-01-2023,Mobile App,Standard,Delivered
+O001440,C00385,12-06-2023,Partner,Standard,Shipped
+O001441,C00398,14-06-2025,Partner,Same Day,Pending
+O001442,C00358,22-04-2024,Partner,Same Day,Cancelled
+O001443,C00112,29-03-2023,Mobile App,Same Day,Pending
+O001444,C00407,25-02-2025,Partner,Standard,Cancelled
+O001445,C00337,08-03-2023,Store,Express,Cancelled
+O001446,C00218,20-12-2024,Partner,Standard,Delivered
+O001447,C00466,09-02-2023,Mobile App,Express,Shipped
+O001448,C00656,07-08-2023,Store,Same Day,Pending
+O001449,C00616,03-03-2025,Partner,Standard,Delivered
+O001450,C00441,29-04-2024,Mobile App,Standard,Shipped
+O001451,C00024,02-09-2025,Partner,Express,Delivered
+O001452,C00651,30-06-2023,Web,Standard,Pending
+O001453,C00281,19-02-2024,Web,Express,Cancelled
+O001454,C00430,21-06-2024,Mobile App,Same Day,Delivered
+O001455,C00189,30-04-2025,Web,Standard,Cancelled
+O001456,C00351,13-09-2025,Store,Standard,Shipped
+O001457,C00358,22-08-2025,Partner,Express,Cancelled
+O001458,C00549,06-12-2024,Mobile App,Same Day,Cancelled
+O001459,C00364,23-07-2025,Partner,Standard,Shipped
+O001460,C00080,10-01-2025,Mobile App,Express,Delivered
+O001461,C00015,04-06-2023,Partner,Standard,Cancelled
+O001462,C00325,27-04-2023,Partner,Express,Pending
+O001463,C00462,23-08-2025,Mobile App,Same Day,Cancelled
+O001464,C00655,19-09-2025,Web,Standard,Shipped
+O001465,C00193,06-03-2024,Mobile App,Same Day,Cancelled
+O001466,C00222,23-12-2023,Mobile App,Standard,Pending
+O001467,C00380,13-04-2025,Store,Standard,Delivered
+O001468,C00315,29-05-2024,Web,Same Day,Cancelled
+O001469,C00665,11-04-2024,Partner,Express,Delivered
+O001470,C00361,28-04-2025,Partner,Same Day,Delivered
+O001471,C00117,06-08-2025,Mobile App,Express,Cancelled
+O001472,C00383,01-07-2023,Mobile App,Same Day,Cancelled
+O001473,C00391,19-10-2023,Partner,Same Day,Delivered
+O001474,C00636,18-08-2025,Web,Standard,Pending
+O001475,C00092,27-10-2024,Web,Same Day,Cancelled
+O001476,C00107,23-05-2024,Web,Same Day,Cancelled
+O001477,C00516,18-08-2024,Web,Same Day,Delivered
+O001478,C00431,05-08-2023,Mobile App,Express,Cancelled
+O001479,C00118,20-07-2023,Partner,Standard,Delivered
+O001480,C00476,27-02-2024,Partner,Standard,Delivered
+O001481,C00230,03-06-2024,Store,Express,Delivered
+O001482,C00315,08-05-2025,Partner,Same Day,Shipped
+O001483,C00005,10-07-2025,Partner,Standard,Pending
+O001484,C00027,07-06-2023,Store,Same Day,Delivered
+O001485,C00344,24-06-2023,Partner,Standard,Cancelled
+O001486,C00198,23-09-2024,Partner,Standard,Cancelled
+O001487,C00132,19-08-2025,Partner,Same Day,Shipped
+O001488,C00413,14-07-2025,Store,Same Day,Shipped
+O001489,C00448,25-08-2023,Web,Same Day,Shipped
+O001490,C00517,02-05-2023,Partner,Same Day,Delivered
+O001491,C00567,12-06-2023,Store,Standard,Pending
+O001492,C00096,27-01-2023,Partner,Standard,Shipped
+O001493,C00029,24-09-2024,Web,Same Day,Cancelled
+O001494,C00026,30-01-2025,Mobile App,Express,Delivered
+O001495,C00192,03-09-2023,Mobile App,Express,Shipped
+O001496,C00549,10-05-2025,Mobile App,Same Day,Cancelled
+O001497,C00267,06-11-2024,Web,Express,Pending
+O001498,C00148,04-10-2024,Web,Same Day,Pending
+O001499,C00114,15-04-2024,Web,Standard,Shipped
+O001500,C00290,26-09-2023,Mobile App,Standard,Pending
+O001501,C00507,14-05-2025,Store,Standard,Cancelled
+O001502,C00104,17-05-2024,Web,Express,Pending
+O001503,C00499,09-09-2025,Web,Standard,Cancelled
+O001504,C00385,30-06-2025,Store,Same Day,Cancelled
+O001505,C00165,04-07-2023,Store,Standard,Shipped
+O001506,C00676,03-08-2024,Web,Standard,Delivered
+O001507,C00356,10-05-2024,Web,Standard,Delivered
+O001508,C00125,17-07-2023,Web,Same Day,Pending
+O001509,C00531,08-06-2024,Mobile App,Standard,Delivered
+O001510,C00118,09-07-2025,Mobile App,Standard,Delivered
+O001511,C00142,14-08-2023,Web,Same Day,Shipped
+O001512,C00275,08-10-2023,Partner,Standard,Pending
+O001513,C00357,26-12-2024,Store,Express,Cancelled
+O001514,C00447,08-06-2024,Partner,Standard,Delivered
+O001515,C00178,22-07-2023,Store,Express,Pending
+O001516,C00598,23-03-2025,Store,Standard,Shipped
+O001517,C00500,19-03-2024,Partner,Express,Delivered
+O001518,C00327,29-09-2024,Web,Same Day,Cancelled
+O001519,C00440,24-07-2023,Store,Express,Pending
+O001520,C00461,21-06-2023,Web,Same Day,Delivered
+O001521,C00601,24-02-2024,Store,Same Day,Delivered
+O001522,C00408,31-01-2023,Web,Standard,Delivered
+O001523,C00440,20-03-2025,Mobile App,Express,Shipped
+O001524,C00075,09-08-2023,Store,Express,Shipped
+O001525,C00322,06-05-2023,Web,Express,Pending
+O001526,C00337,07-08-2023,Partner,Same Day,Delivered
+O001527,C00239,29-07-2024,Web,Express,Delivered
+O001528,C00617,06-08-2023,Mobile App,Standard,Delivered
+O001529,C00623,26-08-2025,Web,Same Day,Cancelled
+O001530,C00699,13-02-2025,Partner,Express,Delivered
+O001531,C00203,21-07-2023,Web,Express,Cancelled
+O001532,C00048,09-10-2023,Partner,Standard,Pending
+O001533,C00464,25-06-2023,Store,Same Day,Cancelled
+O001534,C00243,13-08-2024,Web,Express,Pending
+O001535,C00660,13-03-2025,Web,Express,Delivered
+O001536,C00135,11-05-2025,Partner,Standard,Pending
+O001537,C00346,22-10-2024,Web,Standard,Cancelled
+O001538,C00098,29-04-2025,Partner,Same Day,Delivered
+O001539,C00282,21-11-2023,Store,Express,Pending
+O001540,C00570,04-03-2025,Store,Express,Pending
+O001541,C00403,02-11-2023,Partner,Express,Pending
+O001542,C00383,18-08-2025,Web,Standard,Shipped
+O001543,C00049,25-04-2025,Web,Standard,Pending
+O001544,C00331,01-06-2025,Partner,Standard,Shipped
+O001545,C00091,15-07-2023,Store,Same Day,Pending
+O001546,C00054,23-09-2023,Web,Standard,Pending
+O001547,C00312,18-03-2023,Store,Express,Cancelled
+O001548,C00277,16-12-2024,Mobile App,Standard,Cancelled
+O001549,C00123,10-05-2023,Store,Standard,Cancelled
+O001550,C00653,02-04-2024,Web,Same Day,Shipped
+O001551,C00592,04-05-2024,Partner,Express,Delivered
+O001552,C00495,20-08-2023,Web,Express,Delivered
+O001553,C00085,28-12-2023,Mobile App,Same Day,Shipped
+O001554,C00080,18-03-2023,Partner,Standard,Shipped
+O001555,C00014,17-11-2024,Mobile App,Express,Cancelled
+O001556,C00193,14-05-2024,Web,Express,Shipped
+O001557,C00605,18-02-2025,Store,Express,Cancelled
+O001558,C00672,07-06-2023,Web,Standard,Shipped
+O001559,C00373,30-01-2024,Partner,Same Day,Shipped
+O001560,C00410,12-07-2023,Web,Express,Cancelled
+O001561,C00169,03-12-2024,Store,Same Day,Pending
+O001562,C00151,17-04-2024,Web,Same Day,Pending
+O001563,C00247,17-01-2023,Partner,Standard,Delivered
+O001564,C00030,02-05-2024,Partner,Express,Delivered
+O001565,C00122,07-08-2025,Web,Express,Cancelled
+O001566,C00218,04-06-2023,Partner,Same Day,Cancelled
+O001567,C00521,08-12-2023,Web,Express,Delivered
+O001568,C00379,11-04-2023,Web,Same Day,Cancelled
+O001569,C00433,18-07-2023,Store,Standard,Cancelled
+O001570,C00181,31-08-2024,Store,Same Day,Cancelled
+O001571,C00532,19-03-2024,Web,Same Day,Pending
+O001572,C00662,12-09-2023,Web,Standard,Pending
+O001573,C00055,05-07-2025,Web,Same Day,Delivered
+O001574,C00245,09-03-2023,Web,Express,Shipped
+O001575,C00636,17-12-2024,Partner,Express,Cancelled
+O001576,C00104,14-08-2023,Store,Express,Shipped
+O001577,C00176,15-03-2025,Mobile App,Express,Delivered
+O001578,C00611,22-10-2023,Web,Standard,Shipped
+O001579,C00516,18-07-2025,Partner,Same Day,Delivered
+O001580,C00245,24-06-2023,Store,Same Day,Pending
+O001581,C00171,11-07-2023,Store,Express,Shipped
+O001582,C00014,13-11-2024,Partner,Express,Delivered
+O001583,C00022,01-07-2023,Store,Standard,Shipped
+O001584,C00696,17-02-2025,Web,Same Day,Delivered
+O001585,C00486,20-08-2024,Web,Express,Shipped
+O001586,C00484,23-04-2023,Web,Standard,Delivered
+O001587,C00234,21-06-2024,Mobile App,Standard,Pending
+O001588,C00103,08-11-2023,Store,Express,Cancelled
+O001589,C00360,12-07-2024,Store,Same Day,Cancelled
+O001590,C00260,09-01-2024,Partner,Standard,Delivered
+O001591,C00309,28-12-2024,Store,Same Day,Cancelled
+O001592,C00116,04-10-2023,Web,Standard,Cancelled
+O001593,C00226,06-11-2024,Mobile App,Express,Cancelled
+O001594,C00032,08-09-2023,Partner,Express,Shipped
+O001595,C00092,18-07-2023,Partner,Same Day,Pending
+O001596,C00281,17-06-2025,Partner,Same Day,Shipped
+O001597,C00272,21-07-2025,Store,Express,Cancelled
+O001598,C00604,03-03-2024,Store,Express,Shipped
+O001599,C00043,16-08-2024,Store,Same Day,Pending
+O001600,C00444,25-03-2025,Partner,Same Day,Delivered
+O001601,C00296,23-04-2023,Web,Express,Shipped
+O001602,C00478,28-11-2024,Mobile App,Same Day,Delivered
+O001603,C00639,25-07-2024,Mobile App,Express,Cancelled
+O001604,C00296,08-03-2023,Store,Standard,Cancelled
+O001605,C00042,11-08-2023,Store,Same Day,Pending
+O001606,C00055,15-05-2024,Store,Standard,Cancelled
+O001607,C00361,07-11-2024,Web,Standard,Delivered
+O001608,C00142,25-12-2023,Store,Same Day,Shipped
+O001609,C00089,31-12-2024,Store,Standard,Shipped
+O001610,C00443,22-08-2024,Web,Express,Shipped
+O001611,C00033,29-04-2024,Store,Standard,Cancelled
+O001612,C00433,13-02-2024,Web,Express,Delivered
+O001613,C00612,15-11-2023,Mobile App,Same Day,Cancelled
+O001614,C00696,15-06-2025,Store,Same Day,Shipped
+O001615,C00700,25-02-2025,Mobile App,Express,Shipped
+O001616,C00427,21-07-2024,Mobile App,Express,Delivered
+O001617,C00088,01-11-2023,Partner,Same Day,Shipped
+O001618,C00385,12-03-2025,Partner,Standard,Shipped
+O001619,C00540,28-03-2024,Store,Same Day,Delivered
+O001620,C00480,29-12-2023,Partner,Express,Cancelled
+O001621,C00421,17-04-2024,Web,Same Day,Pending
+O001622,C00432,01-04-2023,Mobile App,Same Day,Delivered
+O001623,C00249,17-08-2024,Store,Standard,Delivered
+O001624,C00055,12-02-2025,Partner,Standard,Cancelled
+O001625,C00687,07-01-2023,Partner,Same Day,Cancelled
+O001626,C00056,28-03-2023,Web,Express,Pending
+O001627,C00342,31-08-2024,Web,Express,Cancelled
+O001628,C00340,04-06-2025,Web,Standard,Pending
+O001629,C00210,12-06-2024,Mobile App,Same Day,Cancelled
+O001630,C00140,17-08-2023,Mobile App,Express,Delivered
+O001631,C00007,04-04-2025,Partner,Same Day,Shipped
+O001632,C00118,10-03-2023,Web,Standard,Pending
+O001633,C00533,10-04-2023,Mobile App,Standard,Pending
+O001634,C00486,26-01-2023,Partner,Express,Pending
+O001635,C00125,04-11-2023,Partner,Express,Shipped
+O001636,C00241,11-05-2025,Store,Same Day,Cancelled
+O001637,C00674,23-09-2024,Web,Express,Shipped
+O001638,C00652,23-01-2023,Mobile App,Standard,Shipped
+O001639,C00175,07-06-2024,Mobile App,Express,Cancelled
+O001640,C00297,24-10-2023,Web,Same Day,Cancelled
+O001641,C00377,14-11-2024,Store,Express,Cancelled
+O001642,C00110,20-04-2024,Partner,Express,Shipped
+O001643,C00029,18-10-2023,Partner,Standard,Cancelled
+O001644,C00012,17-08-2024,Store,Standard,Cancelled
+O001645,C00044,18-07-2025,Store,Standard,Cancelled
+O001646,C00470,11-10-2023,Web,Standard,Delivered
+O001647,C00513,26-05-2025,Mobile App,Express,Cancelled
+O001648,C00526,06-03-2023,Mobile App,Same Day,Shipped
+O001649,C00361,02-11-2024,Store,Express,Shipped
+O001650,C00286,14-03-2025,Store,Express,Pending
+O001651,C00661,10-05-2024,Partner,Express,Shipped
+O001652,C00590,26-12-2024,Store,Standard,Delivered
+O001653,C00603,05-09-2025,Store,Same Day,Cancelled
+O001654,C00070,16-02-2023,Web,Same Day,Shipped
+O001655,C00238,09-04-2023,Web,Express,Cancelled
+O001656,C00332,17-02-2025,Mobile App,Same Day,Shipped
+O001657,C00108,10-07-2025,Mobile App,Same Day,Cancelled
+O001658,C00431,02-08-2025,Web,Standard,Delivered
+O001659,C00118,08-02-2023,Web,Express,Delivered
+O001660,C00622,08-10-2024,Web,Standard,Delivered
+O001661,C00111,16-12-2024,Partner,Express,Shipped
+O001662,C00653,10-08-2024,Mobile App,Standard,Delivered
+O001663,C00503,24-03-2024,Store,Standard,Shipped
+O001664,C00166,20-03-2024,Mobile App,Standard,Pending
+O001665,C00645,09-09-2025,Web,Standard,Pending
+O001666,C00144,03-07-2025,Web,Express,Cancelled
+O001667,C00582,13-07-2024,Web,Express,Shipped
+O001668,C00699,17-01-2025,Partner,Standard,Shipped
+O001669,C00585,27-04-2025,Partner,Same Day,Delivered
+O001670,C00366,25-09-2024,Mobile App,Standard,Cancelled
+O001671,C00438,02-10-2024,Partner,Standard,Pending
+O001672,C00131,12-03-2025,Store,Standard,Pending
+O001673,C00511,25-08-2023,Web,Same Day,Delivered
+O001674,C00024,18-08-2023,Store,Express,Cancelled
+O001675,C00367,11-03-2023,Mobile App,Express,Pending
+O001676,C00548,12-08-2024,Mobile App,Same Day,Delivered
+O001677,C00409,25-09-2024,Web,Same Day,Pending
+O001678,C00597,27-04-2024,Store,Same Day,Pending
+O001679,C00034,13-12-2023,Partner,Express,Shipped
+O001680,C00343,28-06-2025,Web,Standard,Shipped
+O001681,C00561,16-04-2025,Store,Same Day,Pending
+O001682,C00242,20-05-2024,Web,Same Day,Pending
+O001683,C00355,14-03-2023,Partner,Same Day,Pending
+O001684,C00565,05-05-2024,Mobile App,Express,Pending
+O001685,C00107,06-02-2023,Partner,Same Day,Shipped
+O001686,C00666,25-12-2023,Partner,Express,Delivered
+O001687,C00234,22-01-2023,Web,Standard,Shipped
+O001688,C00548,14-09-2024,Partner,Same Day,Pending
+O001689,C00566,08-05-2024,Web,Express,Cancelled
+O001690,C00129,16-03-2024,Partner,Same Day,Shipped
+O001691,C00119,24-03-2024,Web,Same Day,Delivered
+O001692,C00361,18-07-2023,Store,Express,Pending
+O001693,C00244,26-08-2023,Web,Same Day,Pending
+O001694,C00233,27-02-2024,Web,Standard,Shipped
+O001695,C00059,20-03-2023,Web,Standard,Cancelled
+O001696,C00185,17-10-2023,Web,Express,Delivered
+O001697,C00617,01-11-2024,Mobile App,Express,Shipped
+O001698,C00621,12-02-2024,Partner,Same Day,Pending
+O001699,C00673,20-03-2023,Web,Express,Shipped
+O001700,C00507,23-12-2024,Store,Standard,Cancelled
+O001701,C00310,22-08-2025,Store,Same Day,Delivered
+O001702,C00670,08-09-2023,Store,Express,Pending
+O001703,C00056,21-12-2023,Partner,Same Day,Cancelled
+O001704,C00287,22-03-2023,Mobile App,Standard,Shipped
+O001705,C00313,29-01-2025,Mobile App,Standard,Delivered
+O001706,C00146,06-02-2023,Mobile App,Same Day,Cancelled
+O001707,C00666,21-02-2025,Partner,Standard,Pending
+O001708,C00511,06-05-2025,Web,Express,Delivered
+O001709,C00603,29-01-2024,Store,Standard,Pending
+O001710,C00286,25-05-2025,Partner,Express,Pending
+O001711,C00392,29-01-2024,Partner,Standard,Shipped
+O001712,C00211,24-01-2024,Mobile App,Same Day,Cancelled
+O001713,C00546,23-02-2023,Store,Standard,Delivered
+O001714,C00027,20-07-2025,Store,Express,Shipped
+O001715,C00029,16-12-2023,Partner,Express,Pending
+O001716,C00112,20-07-2024,Partner,Same Day,Delivered
+O001717,C00548,19-04-2024,Partner,Same Day,Delivered
+O001718,C00167,10-09-2025,Partner,Express,Shipped
+O001719,C00136,18-07-2025,Web,Express,Delivered
+O001720,C00088,13-09-2023,Store,Express,Cancelled
+O001721,C00040,22-09-2024,Store,Express,Delivered
+O001722,C00676,14-09-2023,Web,Standard,Delivered
+O001723,C00583,07-11-2024,Store,Express,Shipped
+O001724,C00455,18-04-2024,Web,Express,Pending
+O001725,C00478,07-02-2023,Store,Express,Shipped
+O001726,C00419,01-03-2023,Web,Express,Delivered
+O001727,C00066,27-03-2024,Mobile App,Express,Delivered
+O001728,C00266,08-06-2025,Partner,Standard,Shipped
+O001729,C00646,28-06-2023,Mobile App,Same Day,Pending
+O001730,C00239,28-04-2023,Web,Standard,Cancelled
+O001731,C00594,21-11-2023,Web,Same Day,Shipped
+O001732,C00063,01-09-2025,Store,Express,Pending
+O001733,C00695,15-05-2025,Store,Same Day,Pending
+O001734,C00615,29-08-2023,Store,Standard,Pending
+O001735,C00520,30-03-2024,Web,Same Day,Pending
+O001736,C00243,28-07-2023,Store,Same Day,Delivered
+O001737,C00698,01-03-2024,Web,Same Day,Cancelled
+O001738,C00290,27-05-2023,Web,Express,Delivered
+O001739,C00344,25-09-2025,Partner,Same Day,Delivered
+O001740,C00482,23-08-2025,Store,Same Day,Pending
+O001741,C00165,13-01-2024,Web,Express,Shipped
+O001742,C00606,27-01-2023,Web,Same Day,Shipped
+O001743,C00321,07-06-2024,Store,Standard,Cancelled
+O001744,C00597,03-02-2023,Mobile App,Express,Pending
+O001745,C00080,08-09-2025,Mobile App,Same Day,Cancelled
+O001746,C00552,20-01-2025,Web,Same Day,Pending
+O001747,C00622,28-04-2024,Partner,Express,Delivered
+O001748,C00200,06-05-2025,Store,Standard,Delivered
+O001749,C00249,29-03-2025,Store,Standard,Cancelled
+O001750,C00323,05-02-2025,Web,Same Day,Shipped
+O001751,C00456,20-01-2025,Partner,Express,Pending
+O001752,C00361,27-07-2024,Web,Express,Cancelled
+O001753,C00620,24-08-2023,Partner,Express,Shipped
+O001754,C00584,27-04-2025,Mobile App,Same Day,Shipped
+O001755,C00418,21-11-2024,Mobile App,Same Day,Delivered
+O001756,C00294,16-12-2023,Store,Standard,Pending
+O001757,C00419,07-03-2024,Mobile App,Same Day,Cancelled
+O001758,C00648,21-06-2025,Mobile App,Standard,Cancelled
+O001759,C00016,20-06-2023,Web,Express,Delivered
+O001760,C00568,29-12-2024,Partner,Same Day,Pending
+O001761,C00130,09-06-2025,Web,Express,Pending
+O001762,C00171,16-03-2023,Mobile App,Same Day,Cancelled
+O001763,C00433,29-12-2023,Mobile App,Express,Shipped
+O001764,C00301,02-05-2023,Store,Express,Pending
+O001765,C00047,17-03-2023,Store,Express,Cancelled
+O001766,C00646,05-04-2024,Partner,Express,Cancelled
+O001767,C00138,21-01-2025,Mobile App,Same Day,Pending
+O001768,C00156,06-07-2025,Web,Same Day,Delivered
+O001769,C00691,26-10-2024,Partner,Express,Delivered
+O001770,C00450,30-06-2023,Store,Standard,Shipped
+O001771,C00305,20-05-2024,Store,Standard,Cancelled
+O001772,C00293,27-11-2023,Partner,Express,Shipped
+O001773,C00147,12-02-2023,Mobile App,Express,Delivered
+O001774,C00589,19-06-2025,Store,Standard,Delivered
+O001775,C00292,19-06-2023,Web,Express,Delivered
+O001776,C00499,25-03-2024,Mobile App,Standard,Delivered
+O001777,C00266,12-09-2024,Web,Standard,Delivered
+O001778,C00145,09-04-2023,Mobile App,Same Day,Shipped
+O001779,C00029,04-09-2024,Web,Same Day,Shipped
+O001780,C00007,15-05-2024,Web,Express,Shipped
+O001781,C00289,22-08-2025,Partner,Same Day,Cancelled
+O001782,C00534,10-05-2023,Partner,Express,Pending
+O001783,C00123,31-03-2024,Partner,Express,Delivered
+O001784,C00089,04-06-2025,Mobile App,Express,Pending
+O001785,C00363,02-04-2025,Web,Same Day,Shipped
+O001786,C00077,01-12-2023,Mobile App,Same Day,Delivered
+O001787,C00283,09-04-2024,Web,Same Day,Delivered
+O001788,C00040,19-03-2024,Web,Same Day,Delivered
+O001789,C00195,11-05-2025,Web,Same Day,Pending
+O001790,C00252,21-05-2023,Partner,Standard,Shipped
+O001791,C00272,26-04-2024,Mobile App,Express,Shipped
+O001792,C00509,17-10-2023,Mobile App,Standard,Pending
+O001793,C00529,27-05-2025,Mobile App,Standard,Cancelled
+O001794,C00069,17-05-2024,Mobile App,Same Day,Shipped
+O001795,C00040,04-03-2024,Store,Same Day,Cancelled
+O001796,C00647,20-08-2024,Mobile App,Same Day,Delivered
+O001797,C00496,27-06-2024,Mobile App,Express,Shipped
+O001798,C00300,15-11-2024,Partner,Express,Cancelled
+O001799,C00613,01-01-2024,Partner,Express,Pending
+O001800,C00225,26-04-2023,Store,Express,Cancelled
+O001801,C00334,11-09-2023,Partner,Standard,Shipped
+O001802,C00476,06-09-2025,Store,Same Day,Pending
+O001803,C00356,14-12-2024,Partner,Same Day,Shipped
+O001804,C00496,10-05-2025,Partner,Same Day,Cancelled
+O001805,C00241,30-01-2023,Store,Express,Shipped
+O001806,C00419,04-03-2023,Store,Express,Delivered
+O001807,C00422,05-02-2024,Partner,Express,Cancelled
+O001808,C00267,23-07-2025,Web,Express,Cancelled
+O001809,C00225,14-12-2023,Web,Express,Cancelled
+O001810,C00420,15-08-2023,Mobile App,Same Day,Shipped
+O001811,C00641,23-04-2023,Store,Standard,Pending
+O001812,C00022,01-04-2025,Partner,Standard,Delivered
+O001813,C00362,24-02-2025,Web,Same Day,Pending
+O001814,C00532,04-08-2023,Store,Same Day,Shipped
+O001815,C00161,08-05-2025,Partner,Same Day,Shipped
+O001816,C00298,31-03-2025,Mobile App,Express,Delivered
+O001817,C00424,09-08-2023,Mobile App,Standard,Pending
+O001818,C00021,12-02-2025,Web,Same Day,Cancelled
+O001819,C00497,13-02-2023,Mobile App,Express,Delivered
+O001820,C00025,24-08-2023,Mobile App,Standard,Delivered
+O001821,C00127,12-04-2025,Partner,Same Day,Cancelled
+O001822,C00135,17-04-2025,Store,Standard,Pending
+O001823,C00076,31-05-2024,Partner,Standard,Pending
+O001824,C00555,11-09-2024,Mobile App,Standard,Cancelled
+O001825,C00199,01-05-2025,Store,Express,Cancelled
+O001826,C00525,31-01-2025,Web,Express,Delivered
+O001827,C00470,27-07-2023,Web,Express,Cancelled
+O001828,C00386,26-10-2023,Partner,Standard,Shipped
+O001829,C00417,28-07-2024,Store,Express,Delivered
+O001830,C00547,02-06-2024,Mobile App,Express,Pending
+O001831,C00509,15-01-2025,Partner,Express,Pending
+O001832,C00464,18-08-2023,Web,Express,Shipped
+O001833,C00458,14-01-2024,Partner,Same Day,Pending
+O001834,C00659,15-11-2023,Store,Standard,Pending
+O001835,C00098,28-07-2024,Mobile App,Standard,Cancelled
+O001836,C00608,13-09-2023,Web,Standard,Cancelled
+O001837,C00632,08-05-2025,Partner,Same Day,Shipped
+O001838,C00061,24-02-2025,Partner,Express,Cancelled
+O001839,C00319,28-01-2025,Store,Standard,Pending
+O001840,C00330,06-12-2024,Partner,Standard,Delivered
+O001841,C00215,12-02-2025,Partner,Same Day,Cancelled
+O001842,C00321,09-09-2025,Mobile App,Express,Cancelled
+O001843,C00495,10-06-2024,Web,Standard,Cancelled
+O001844,C00080,20-01-2024,Mobile App,Standard,Shipped
+O001845,C00533,05-02-2025,Web,Standard,Shipped
+O001846,C00449,09-06-2025,Web,Standard,Cancelled
+O001847,C00508,24-06-2023,Partner,Standard,Cancelled
+O001848,C00409,10-01-2023,Store,Standard,Cancelled
+O001849,C00302,07-01-2025,Store,Same Day,Delivered
+O001850,C00630,29-06-2025,Store,Same Day,Shipped
+O001851,C00145,25-10-2023,Mobile App,Same Day,Delivered
+O001852,C00532,11-09-2024,Store,Express,Cancelled
+O001853,C00216,16-08-2025,Store,Same Day,Shipped
+O001854,C00169,20-06-2024,Partner,Standard,Delivered
+O001855,C00427,03-07-2023,Mobile App,Express,Pending
+O001856,C00006,16-11-2023,Mobile App,Standard,Pending
+O001857,C00551,14-04-2024,Store,Standard,Pending
+O001858,C00640,24-04-2024,Mobile App,Standard,Delivered
+O001859,C00652,26-07-2024,Mobile App,Express,Pending
+O001860,C00198,09-10-2023,Store,Express,Delivered
+O001861,C00377,01-10-2024,Partner,Express,Shipped
+O001862,C00080,29-08-2024,Mobile App,Standard,Shipped
+O001863,C00287,02-07-2023,Store,Same Day,Pending
+O001864,C00130,27-03-2025,Partner,Express,Delivered
+O001865,C00631,15-11-2024,Partner,Standard,Shipped
+O001866,C00003,13-03-2025,Mobile App,Standard,Pending
+O001867,C00630,31-05-2023,Mobile App,Standard,Cancelled
+O001868,C00001,28-11-2023,Web,Standard,Shipped
+O001869,C00524,06-04-2025,Partner,Express,Cancelled
+O001870,C00335,06-11-2023,Web,Standard,Cancelled
+O001871,C00387,03-03-2025,Partner,Same Day,Cancelled
+O001872,C00364,16-11-2023,Store,Same Day,Pending
+O001873,C00620,12-05-2025,Mobile App,Standard,Delivered
+O001874,C00147,10-05-2025,Partner,Same Day,Cancelled
+O001875,C00502,12-12-2024,Store,Same Day,Pending
+O001876,C00572,10-07-2025,Partner,Same Day,Delivered
+O001877,C00183,26-01-2023,Store,Express,Delivered
+O001878,C00435,07-08-2023,Mobile App,Express,Delivered
+O001879,C00184,13-08-2025,Web,Standard,Cancelled
+O001880,C00370,22-06-2024,Mobile App,Standard,Delivered
+O001881,C00337,07-04-2023,Store,Express,Pending
+O001882,C00622,07-10-2023,Web,Same Day,Delivered
+O001883,C00658,05-05-2024,Partner,Standard,Delivered
+O001884,C00281,02-10-2024,Web,Same Day,Pending
+O001885,C00483,14-09-2024,Partner,Express,Shipped
+O001886,C00485,06-02-2025,Web,Standard,Delivered
+O001887,C00030,19-09-2024,Mobile App,Same Day,Shipped
+O001888,C00135,26-03-2023,Partner,Standard,Pending
+O001889,C00455,14-10-2024,Web,Express,Pending
+O001890,C00558,12-10-2023,Mobile App,Same Day,Pending
+O001891,C00341,07-05-2025,Store,Same Day,Shipped
+O001892,C00601,09-01-2025,Store,Same Day,Pending
+O001893,C00681,17-02-2024,Partner,Same Day,Pending
+O001894,C00067,17-07-2023,Mobile App,Same Day,Delivered
+O001895,C00086,26-06-2023,Partner,Standard,Delivered
+O001896,C00624,23-07-2023,Partner,Standard,Pending
+O001897,C00319,08-10-2023,Store,Standard,Delivered
+O001898,C00478,04-08-2024,Web,Same Day,Cancelled
+O001899,C00091,30-04-2023,Web,Standard,Pending
+O001900,C00191,22-11-2023,Web,Standard,Pending
+O001901,C00223,15-10-2024,Store,Express,Pending
+O001902,C00253,12-11-2023,Mobile App,Same Day,Shipped
+O001903,C00318,24-02-2023,Partner,Same Day,Delivered
+O001904,C00183,13-10-2023,Mobile App,Same Day,Delivered
+O001905,C00424,20-08-2023,Mobile App,Express,Shipped
+O001906,C00182,30-10-2023,Store,Same Day,Cancelled
+O001907,C00271,05-04-2023,Partner,Express,Delivered
+O001908,C00358,01-03-2025,Partner,Same Day,Shipped
+O001909,C00038,30-08-2025,Partner,Standard,Shipped
+O001910,C00445,22-12-2023,Store,Standard,Delivered
+O001911,C00516,18-07-2024,Store,Standard,Shipped
+O001912,C00265,12-08-2023,Partner,Express,Pending
+O001913,C00119,13-06-2024,Mobile App,Express,Shipped
+O001914,C00479,23-08-2024,Store,Express,Cancelled
+O001915,C00675,25-08-2024,Web,Express,Pending
+O001916,C00645,03-01-2024,Web,Standard,Cancelled
+O001917,C00487,09-12-2023,Store,Same Day,Pending
+O001918,C00192,24-07-2025,Store,Express,Shipped
+O001919,C00479,13-07-2024,Mobile App,Standard,Cancelled
+O001920,C00632,12-04-2024,Partner,Same Day,Cancelled
+O001921,C00485,04-05-2025,Mobile App,Express,Delivered
+O001922,C00616,12-12-2023,Partner,Same Day,Cancelled
+O001923,C00308,11-02-2023,Mobile App,Same Day,Pending
+O001924,C00432,12-03-2024,Store,Same Day,Cancelled
+O001925,C00608,30-01-2023,Mobile App,Same Day,Shipped
+O001926,C00308,26-06-2025,Mobile App,Same Day,Shipped
+O001927,C00134,10-11-2024,Store,Standard,Pending
+O001928,C00317,22-03-2025,Mobile App,Express,Cancelled
+O001929,C00406,19-06-2023,Partner,Standard,Shipped
+O001930,C00206,23-06-2025,Mobile App,Express,Delivered
+O001931,C00083,09-07-2023,Mobile App,Standard,Cancelled
+O001932,C00093,11-01-2025,Mobile App,Standard,Delivered
+O001933,C00006,03-05-2024,Mobile App,Express,Pending
+O001934,C00483,17-07-2024,Partner,Same Day,Shipped
+O001935,C00484,15-11-2024,Partner,Express,Shipped
+O001936,C00099,01-02-2024,Mobile App,Express,Shipped
+O001937,C00410,02-03-2025,Store,Express,Cancelled
+O001938,C00612,08-02-2024,Web,Express,Cancelled
+O001939,C00686,28-01-2025,Web,Standard,Shipped
+O001940,C00241,13-01-2024,Store,Express,Pending
+O001941,C00626,05-09-2024,Partner,Standard,Shipped
+O001942,C00142,26-05-2024,Mobile App,Standard,Shipped
+O001943,C00310,21-03-2024,Web,Express,Cancelled
+O001944,C00670,04-07-2023,Partner,Standard,Delivered
+O001945,C00319,01-02-2024,Partner,Standard,Delivered
+O001946,C00432,03-07-2023,Mobile App,Express,Pending
+O001947,C00477,05-04-2025,Web,Express,Pending
+O001948,C00672,02-06-2025,Partner,Standard,Shipped
+O001949,C00327,12-05-2023,Partner,Same Day,Cancelled
+O001950,C00012,12-05-2024,Partner,Express,Pending
+O001951,C00311,11-03-2024,Store,Same Day,Pending
+O001952,C00619,06-04-2025,Partner,Same Day,Delivered
+O001953,C00485,30-12-2024,Store,Same Day,Delivered
+O001954,C00115,15-03-2025,Mobile App,Express,Cancelled
+O001955,C00691,23-03-2023,Mobile App,Standard,Delivered
+O001956,C00605,22-09-2023,Mobile App,Same Day,Cancelled
+O001957,C00446,19-02-2023,Partner,Express,Pending
+O001958,C00125,07-06-2025,Partner,Express,Delivered
+O001959,C00052,29-06-2025,Store,Express,Cancelled
+O001960,C00346,22-11-2024,Store,Standard,Delivered
+O001961,C00184,28-10-2023,Store,Express,Pending
+O001962,C00458,29-11-2023,Store,Same Day,Pending
+O001963,C00611,25-04-2023,Store,Same Day,Pending
+O001964,C00545,26-01-2025,Partner,Standard,Shipped
+O001965,C00087,01-07-2024,Web,Standard,Shipped
+O001966,C00649,20-05-2024,Partner,Express,Delivered
+O001967,C00470,06-12-2024,Mobile App,Same Day,Cancelled
+O001968,C00042,20-03-2023,Store,Express,Pending
+O001969,C00151,15-09-2024,Web,Express,Pending
+O001970,C00346,07-08-2025,Store,Express,Cancelled
+O001971,C00023,08-07-2023,Store,Same Day,Pending
+O001972,C00444,15-09-2025,Web,Standard,Delivered
+O001973,C00311,22-09-2024,Mobile App,Same Day,Pending
+O001974,C00384,10-08-2024,Partner,Standard,Cancelled
+O001975,C00282,03-02-2025,Mobile App,Express,Pending
+O001976,C00620,13-02-2024,Mobile App,Same Day,Delivered
+O001977,C00280,06-01-2023,Partner,Standard,Pending
+O001978,C00425,03-11-2024,Mobile App,Express,Delivered
+O001979,C00474,05-09-2024,Store,Standard,Shipped
+O001980,C00231,19-01-2023,Store,Standard,Pending
+O001981,C00627,22-10-2023,Partner,Same Day,Cancelled
+O001982,C00651,01-09-2024,Store,Same Day,Cancelled
+O001983,C00488,10-08-2025,Web,Express,Delivered
+O001984,C00328,21-12-2023,Partner,Standard,Cancelled
+O001985,C00511,04-08-2023,Mobile App,Same Day,Cancelled
+O001986,C00262,17-02-2024,Web,Same Day,Pending
+O001987,C00647,13-05-2024,Store,Standard,Shipped
+O001988,C00543,14-01-2024,Store,Express,Delivered
+O001989,C00463,21-11-2024,Partner,Standard,Shipped
+O001990,C00640,21-08-2024,Mobile App,Same Day,Delivered
+O001991,C00579,17-03-2024,Partner,Standard,Delivered
+O001992,C00570,31-01-2025,Partner,Standard,Cancelled
+O001993,C00551,15-05-2023,Partner,Same Day,Pending
+O001994,C00100,10-02-2024,Mobile App,Standard,Pending
+O001995,C00585,24-10-2023,Mobile App,Standard,Cancelled
+O001996,C00564,23-02-2024,Store,Standard,Cancelled
+O001997,C00614,13-10-2023,Store,Express,Pending
+O001998,C00681,24-06-2025,Store,Same Day,Cancelled
+O001999,C00231,29-05-2025,Partner,Express,Cancelled
+O002000,C00294,25-04-2025,Partner,Standard,Shipped
+O002001,C00410,23-10-2023,Web,Same Day,Delivered
+O002002,C00476,02-11-2024,Mobile App,Same Day,Pending
+O002003,C00393,17-08-2024,Partner,Express,Cancelled
+O002004,C00194,13-10-2024,Web,Same Day,Shipped
+O002005,C00142,16-09-2024,Web,Same Day,Cancelled
+O002006,C00024,29-11-2023,Mobile App,Standard,Cancelled
+O002007,C00094,01-09-2025,Store,Standard,Cancelled
+O002008,C00566,07-06-2024,Mobile App,Standard,Cancelled
+O002009,C00378,10-01-2025,Mobile App,Standard,Cancelled
+O002010,C00205,27-11-2023,Mobile App,Express,Pending
+O002011,C00032,31-07-2023,Partner,Express,Shipped
+O002012,C00618,30-03-2024,Mobile App,Standard,Cancelled
+O002013,C00513,18-10-2024,Web,Same Day,Delivered
+O002014,C00164,08-09-2023,Partner,Same Day,Pending
+O002015,C00008,05-02-2025,Web,Same Day,Cancelled
+O002016,C00533,26-04-2024,Partner,Standard,Cancelled
+O002017,C00267,23-06-2025,Web,Same Day,Pending
+O002018,C00450,07-05-2024,Web,Express,Cancelled
+O002019,C00041,08-01-2024,Partner,Same Day,Cancelled
+O002020,C00439,17-03-2025,Web,Standard,Shipped
+O002021,C00269,15-02-2025,Web,Same Day,Shipped
+O002022,C00376,27-02-2024,Store,Standard,Shipped
+O002023,C00495,04-08-2023,Store,Standard,Delivered
+O002024,C00658,11-12-2024,Web,Express,Cancelled
+O002025,C00251,14-02-2025,Store,Express,Delivered
+O002026,C00456,05-12-2023,Partner,Same Day,Delivered
+O002027,C00582,09-10-2023,Web,Standard,Shipped
+O002028,C00535,23-10-2023,Web,Standard,Delivered
+O002029,C00578,07-01-2024,Store,Express,Shipped
+O002030,C00582,11-10-2024,Store,Express,Cancelled
+O002031,C00690,29-10-2023,Mobile App,Same Day,Shipped
+O002032,C00151,14-09-2024,Store,Express,Delivered
+O002033,C00653,22-08-2023,Web,Standard,Delivered
+O002034,C00152,21-08-2024,Web,Express,Delivered
+O002035,C00521,02-02-2025,Partner,Express,Shipped
+O002036,C00353,21-10-2024,Mobile App,Same Day,Delivered
+O002037,C00536,19-01-2024,Partner,Express,Shipped
+O002038,C00538,08-05-2024,Mobile App,Express,Cancelled
+O002039,C00015,15-11-2024,Web,Express,Shipped
+O002040,C00317,31-07-2023,Mobile App,Standard,Delivered
+O002041,C00624,07-03-2025,Web,Same Day,Shipped
+O002042,C00366,25-05-2024,Partner,Same Day,Pending
+O002043,C00537,08-07-2025,Mobile App,Same Day,Shipped
+O002044,C00373,11-11-2024,Web,Express,Pending
+O002045,C00338,03-06-2024,Web,Express,Pending
+O002046,C00058,02-04-2024,Mobile App,Standard,Delivered
+O002047,C00188,07-12-2024,Mobile App,Standard,Cancelled
+O002048,C00182,11-02-2023,Store,Same Day,Delivered
+O002049,C00094,30-01-2025,Mobile App,Same Day,Pending
+O002050,C00136,19-06-2024,Store,Standard,Shipped
+O002051,C00234,07-09-2023,Partner,Express,Pending
+O002052,C00550,21-06-2025,Web,Express,Pending
+O002053,C00202,04-05-2024,Web,Express,Pending
+O002054,C00488,22-07-2023,Web,Same Day,Shipped
+O002055,C00613,13-05-2024,Store,Same Day,Pending
+O002056,C00596,16-03-2024,Web,Same Day,Cancelled
+O002057,C00659,19-07-2023,Partner,Standard,Delivered
+O002058,C00417,07-09-2024,Store,Express,Shipped
+O002059,C00337,03-06-2024,Partner,Same Day,Delivered
+O002060,C00661,03-11-2023,Store,Same Day,Shipped
+O002061,C00350,09-10-2023,Store,Same Day,Cancelled
+O002062,C00115,27-09-2025,Mobile App,Express,Pending
+O002063,C00327,03-07-2025,Partner,Express,Shipped
+O002064,C00184,09-03-2023,Partner,Same Day,Delivered
+O002065,C00097,05-08-2025,Partner,Express,Shipped
+O002066,C00199,08-03-2025,Web,Standard,Shipped
+O002067,C00315,28-05-2024,Store,Express,Cancelled
+O002068,C00106,02-12-2024,Store,Same Day,Shipped
+O002069,C00585,19-11-2024,Mobile App,Express,Shipped
+O002070,C00197,23-02-2025,Partner,Standard,Shipped
+O002071,C00625,09-11-2024,Mobile App,Express,Cancelled
+O002072,C00670,01-09-2024,Partner,Same Day,Delivered
+O002073,C00235,13-08-2025,Store,Express,Delivered
+O002074,C00380,29-05-2023,Store,Express,Delivered
+O002075,C00323,05-04-2024,Store,Express,Cancelled
+O002076,C00428,06-01-2023,Partner,Standard,Cancelled
+O002077,C00363,23-10-2024,Mobile App,Express,Delivered
+O002078,C00020,18-04-2025,Mobile App,Standard,Delivered
+O002079,C00302,02-05-2025,Store,Standard,Delivered
+O002080,C00438,20-03-2025,Partner,Express,Shipped
+O002081,C00221,24-09-2024,Partner,Express,Pending
+O002082,C00077,06-09-2023,Mobile App,Express,Cancelled
+O002083,C00608,26-04-2024,Web,Same Day,Cancelled
+O002084,C00499,13-09-2023,Store,Same Day,Cancelled
+O002085,C00061,14-04-2023,Web,Same Day,Delivered
+O002086,C00283,04-07-2024,Store,Express,Delivered
+O002087,C00114,28-04-2024,Mobile App,Same Day,Pending
+O002088,C00333,27-09-2025,Partner,Standard,Shipped
+O002089,C00604,03-11-2023,Mobile App,Same Day,Pending
+O002090,C00449,09-09-2023,Store,Same Day,Delivered
+O002091,C00571,27-06-2024,Store,Same Day,Pending
+O002092,C00144,01-03-2025,Web,Same Day,Delivered
+O002093,C00370,15-07-2025,Partner,Same Day,Shipped
+O002094,C00189,25-11-2023,Partner,Standard,Cancelled
+O002095,C00371,08-12-2023,Mobile App,Same Day,Delivered
+O002096,C00262,10-09-2024,Web,Standard,Pending
+O002097,C00658,25-02-2024,Partner,Express,Cancelled
+O002098,C00050,01-05-2025,Web,Same Day,Delivered
+O002099,C00017,02-08-2024,Partner,Standard,Delivered
+O002100,C00552,18-05-2024,Store,Same Day,Delivered
+O002101,C00650,10-03-2023,Web,Same Day,Pending
+O002102,C00572,10-03-2025,Web,Same Day,Shipped
+O002103,C00526,16-05-2025,Web,Same Day,Cancelled
+O002104,C00625,27-10-2024,Mobile App,Standard,Cancelled
+O002105,C00284,21-04-2024,Partner,Same Day,Shipped
+O002106,C00667,05-12-2023,Web,Standard,Delivered
+O002107,C00465,24-06-2024,Partner,Standard,Cancelled
+O002108,C00589,28-10-2023,Web,Same Day,Cancelled
+O002109,C00020,09-01-2023,Mobile App,Express,Cancelled
+O002110,C00155,23-09-2023,Mobile App,Same Day,Delivered
+O002111,C00546,13-04-2024,Mobile App,Same Day,Delivered
+O002112,C00591,06-06-2023,Mobile App,Standard,Shipped
+O002113,C00316,05-07-2023,Web,Standard,Pending
+O002114,C00131,07-07-2024,Store,Standard,Delivered
+O002115,C00323,08-08-2025,Mobile App,Same Day,Shipped
+O002116,C00207,07-11-2023,Mobile App,Express,Delivered
+O002117,C00239,16-08-2025,Mobile App,Express,Pending
+O002118,C00141,17-06-2025,Partner,Standard,Cancelled
+O002119,C00027,30-03-2024,Mobile App,Express,Pending
+O002120,C00458,25-03-2024,Partner,Standard,Shipped
+O002121,C00390,27-08-2024,Web,Standard,Shipped
+O002122,C00519,24-07-2025,Web,Standard,Shipped
+O002123,C00124,21-08-2025,Partner,Same Day,Delivered
+O002124,C00325,01-03-2024,Mobile App,Standard,Pending
+O002125,C00520,04-01-2024,Partner,Express,Pending
+O002126,C00468,17-01-2023,Web,Express,Cancelled
+O002127,C00410,11-09-2025,Web,Express,Delivered
+O002128,C00318,06-05-2025,Web,Express,Delivered
+O002129,C00235,19-12-2024,Web,Same Day,Cancelled
+O002130,C00483,17-01-2023,Store,Same Day,Delivered
+O002131,C00047,25-05-2023,Mobile App,Standard,Pending
+O002132,C00132,15-06-2024,Mobile App,Standard,Cancelled
+O002133,C00040,04-03-2023,Mobile App,Same Day,Delivered
+O002134,C00381,24-09-2024,Partner,Standard,Cancelled
+O002135,C00177,28-06-2023,Mobile App,Same Day,Shipped
+O002136,C00374,19-06-2025,Web,Standard,Pending
+O002137,C00510,28-07-2023,Store,Express,Delivered
+O002138,C00272,28-09-2024,Store,Standard,Pending
+O002139,C00340,30-01-2023,Partner,Standard,Shipped
+O002140,C00418,17-02-2023,Partner,Same Day,Shipped
+O002141,C00162,13-04-2023,Web,Express,Shipped
+O002142,C00095,05-03-2024,Web,Standard,Cancelled
+O002143,C00476,01-03-2024,Partner,Standard,Pending
+O002144,C00319,02-05-2024,Partner,Express,Shipped
+O002145,C00331,03-11-2024,Store,Same Day,Pending
+O002146,C00490,19-05-2024,Mobile App,Standard,Shipped
+O002147,C00528,13-05-2023,Mobile App,Standard,Pending
+O002148,C00098,04-01-2025,Partner,Express,Pending
+O002149,C00256,20-08-2023,Store,Standard,Delivered
+O002150,C00337,28-12-2024,Partner,Same Day,Delivered
+O002151,C00135,02-12-2023,Partner,Express,Shipped
+O002152,C00594,24-01-2025,Web,Same Day,Cancelled
+O002153,C00648,19-02-2023,Mobile App,Standard,Pending
+O002154,C00147,11-10-2024,Web,Standard,Shipped
+O002155,C00407,27-11-2023,Web,Same Day,Cancelled
+O002156,C00496,28-05-2025,Store,Standard,Cancelled
+O002157,C00463,08-08-2023,Partner,Same Day,Delivered
+O002158,C00559,26-03-2024,Web,Same Day,Delivered
+O002159,C00672,25-02-2025,Store,Express,Shipped
+O002160,C00262,16-12-2023,Partner,Same Day,Cancelled
+O002161,C00680,09-04-2023,Store,Same Day,Delivered
+O002162,C00065,11-03-2025,Store,Express,Pending
+O002163,C00557,10-05-2023,Web,Standard,Cancelled
+O002164,C00114,04-05-2023,Store,Standard,Delivered
+O002165,C00315,08-04-2024,Partner,Same Day,Pending
+O002166,C00517,06-07-2023,Partner,Same Day,Shipped
+O002167,C00146,10-05-2025,Mobile App,Standard,Shipped
+O002168,C00363,22-06-2024,Mobile App,Same Day,Pending
+O002169,C00546,07-01-2024,Mobile App,Same Day,Shipped
+O002170,C00384,12-06-2023,Web,Same Day,Shipped
+O002171,C00651,11-10-2024,Mobile App,Same Day,Shipped
+O002172,C00554,22-08-2025,Partner,Standard,Delivered
+O002173,C00051,09-09-2025,Partner,Express,Cancelled
+O002174,C00535,22-09-2025,Partner,Express,Cancelled
+O002175,C00330,20-05-2023,Store,Standard,Pending
+O002176,C00258,26-12-2024,Store,Standard,Pending
+O002177,C00061,12-02-2025,Partner,Standard,Shipped
+O002178,C00493,22-04-2025,Mobile App,Standard,Cancelled
+O002179,C00164,23-10-2024,Partner,Express,Shipped
+O002180,C00255,04-05-2025,Store,Standard,Shipped
+O002181,C00283,24-05-2023,Partner,Standard,Shipped
+O002182,C00211,30-03-2024,Mobile App,Same Day,Delivered
+O002183,C00336,12-01-2023,Web,Same Day,Delivered
+O002184,C00537,16-04-2023,Partner,Standard,Cancelled
+O002185,C00306,21-04-2025,Web,Same Day,Cancelled
+O002186,C00158,14-03-2023,Store,Express,Pending
+O002187,C00391,08-05-2025,Store,Standard,Cancelled
+O002188,C00437,22-08-2024,Mobile App,Same Day,Cancelled
+O002189,C00299,19-08-2023,Web,Standard,Delivered
+O002190,C00248,09-06-2025,Partner,Same Day,Cancelled
+O002191,C00432,28-02-2023,Web,Express,Delivered
+O002192,C00258,17-10-2024,Store,Express,Delivered
+O002193,C00366,27-03-2023,Web,Standard,Cancelled
+O002194,C00249,22-08-2024,Partner,Standard,Cancelled
+O002195,C00682,30-09-2023,Web,Same Day,Cancelled
+O002196,C00575,13-09-2024,Partner,Same Day,Cancelled
+O002197,C00044,08-09-2024,Web,Same Day,Pending
+O002198,C00590,08-04-2023,Web,Standard,Delivered
+O002199,C00595,19-11-2024,Partner,Express,Pending
+O002200,C00356,24-10-2024,Partner,Express,Pending
+O002201,C00409,12-04-2025,Partner,Same Day,Pending
+O002202,C00222,03-08-2024,Mobile App,Standard,Delivered
+O002203,C00102,27-10-2023,Partner,Standard,Cancelled
+O002204,C00260,03-01-2024,Store,Express,Shipped
+O002205,C00284,01-04-2024,Web,Express,Cancelled
+O002206,C00651,27-09-2023,Mobile App,Standard,Delivered
+O002207,C00411,10-02-2025,Store,Standard,Cancelled
+O002208,C00092,08-12-2023,Store,Same Day,Shipped
+O002209,C00325,28-04-2025,Store,Standard,Pending
+O002210,C00655,20-02-2024,Store,Same Day,Cancelled
+O002211,C00655,10-07-2023,Partner,Standard,Delivered
+O002212,C00498,26-12-2023,Store,Express,Delivered
+O002213,C00164,09-09-2025,Mobile App,Express,Pending
+O002214,C00115,14-07-2023,Store,Same Day,Delivered
+O002215,C00574,05-07-2024,Mobile App,Express,Pending
+O002216,C00204,06-04-2023,Web,Same Day,Cancelled
+O002217,C00270,30-05-2023,Store,Same Day,Delivered
+O002218,C00407,17-05-2023,Partner,Standard,Delivered
+O002219,C00629,06-08-2024,Web,Express,Shipped
+O002220,C00454,25-04-2025,Web,Standard,Shipped
+O002221,C00684,08-10-2023,Web,Express,Shipped
+O002222,C00225,09-09-2023,Mobile App,Express,Shipped
+O002223,C00149,13-01-2023,Store,Standard,Pending
+O002224,C00627,09-05-2024,Partner,Express,Shipped
+O002225,C00423,10-07-2023,Partner,Same Day,Cancelled
+O002226,C00268,24-12-2024,Store,Express,Cancelled
+O002227,C00380,09-01-2024,Mobile App,Express,Delivered
+O002228,C00079,08-09-2025,Mobile App,Express,Shipped
+O002229,C00552,15-08-2024,Mobile App,Standard,Cancelled
+O002230,C00549,18-11-2023,Web,Same Day,Shipped
+O002231,C00357,04-01-2025,Mobile App,Express,Delivered
+O002232,C00589,06-05-2025,Web,Express,Cancelled
+O002233,C00510,28-08-2024,Partner,Standard,Shipped
+O002234,C00023,27-07-2024,Partner,Same Day,Pending
+O002235,C00356,03-05-2024,Mobile App,Standard,Delivered
+O002236,C00067,04-09-2025,Store,Same Day,Delivered
+O002237,C00029,31-12-2024,Partner,Express,Shipped
+O002238,C00406,09-08-2023,Partner,Express,Delivered
+O002239,C00339,27-08-2023,Partner,Standard,Delivered
+O002240,C00007,21-09-2025,Web,Same Day,Delivered
+O002241,C00602,03-05-2023,Web,Same Day,Pending
+O002242,C00543,28-02-2024,Mobile App,Same Day,Shipped
+O002243,C00255,07-09-2024,Mobile App,Standard,Pending
+O002244,C00665,09-08-2025,Partner,Same Day,Pending
+O002245,C00340,02-04-2023,Web,Express,Cancelled
+O002246,C00418,26-01-2024,Partner,Standard,Delivered
+O002247,C00188,09-04-2023,Store,Express,Shipped
+O002248,C00441,19-06-2025,Store,Express,Pending
+O002249,C00189,24-09-2023,Partner,Standard,Shipped
+O002250,C00360,24-10-2024,Web,Express,Cancelled
+O002251,C00097,20-06-2024,Store,Standard,Pending
+O002252,C00571,02-03-2023,Store,Standard,Shipped
+O002253,C00002,13-09-2025,Web,Standard,Delivered
+O002254,C00394,10-11-2023,Web,Same Day,Delivered
+O002255,C00072,05-09-2025,Mobile App,Standard,Cancelled
+O002256,C00187,02-07-2024,Mobile App,Express,Pending
+O002257,C00700,23-07-2025,Mobile App,Same Day,Delivered
+O002258,C00588,01-07-2023,Partner,Same Day,Shipped
+O002259,C00520,02-06-2023,Partner,Standard,Pending
+O002260,C00551,28-06-2025,Web,Express,Delivered
+O002261,C00111,24-12-2023,Mobile App,Same Day,Shipped
+O002262,C00103,24-05-2024,Mobile App,Same Day,Shipped
+O002263,C00628,31-07-2025,Store,Express,Cancelled
+O002264,C00459,24-08-2025,Web,Same Day,Pending
+O002265,C00347,10-09-2023,Store,Standard,Shipped
+O002266,C00503,12-07-2023,Partner,Standard,Delivered
+O002267,C00061,27-07-2025,Partner,Same Day,Pending
+O002268,C00533,04-04-2023,Store,Same Day,Cancelled
+O002269,C00560,20-10-2024,Mobile App,Express,Delivered
+O002270,C00139,03-04-2024,Mobile App,Express,Cancelled
+O002271,C00414,21-03-2024,Partner,Standard,Cancelled
+O002272,C00025,18-05-2024,Web,Express,Cancelled
+O002273,C00625,03-02-2024,Store,Express,Delivered
+O002274,C00057,24-06-2024,Web,Standard,Pending
+O002275,C00315,02-07-2025,Mobile App,Same Day,Delivered
+O002276,C00050,01-07-2024,Web,Standard,Delivered
+O002277,C00395,12-07-2023,Store,Same Day,Pending
+O002278,C00445,26-01-2025,Mobile App,Same Day,Delivered
+O002279,C00698,16-12-2024,Web,Standard,Pending
+O002280,C00469,30-08-2025,Mobile App,Standard,Delivered
+O002281,C00075,01-01-2025,Mobile App,Express,Shipped
+O002282,C00585,17-10-2024,Web,Standard,Cancelled
+O002283,C00211,10-07-2025,Web,Express,Pending
+O002284,C00247,06-11-2024,Store,Standard,Cancelled
+O002285,C00234,16-01-2024,Partner,Standard,Shipped
+O002286,C00146,05-09-2024,Mobile App,Same Day,Delivered
+O002287,C00433,27-11-2024,Store,Standard,Delivered
+O002288,C00420,07-12-2024,Web,Express,Cancelled
+O002289,C00387,12-10-2023,Mobile App,Express,Delivered
+O002290,C00615,11-01-2023,Partner,Standard,Cancelled
+O002291,C00132,09-11-2024,Mobile App,Standard,Pending
+O002292,C00119,12-06-2023,Partner,Standard,Shipped
+O002293,C00550,02-12-2023,Mobile App,Same Day,Delivered
+O002294,C00698,02-01-2025,Partner,Express,Delivered
+O002295,C00292,26-05-2025,Store,Standard,Pending
+O002296,C00405,22-04-2025,Mobile App,Standard,Cancelled
+O002297,C00206,11-05-2023,Web,Express,Cancelled
+O002298,C00112,25-04-2023,Mobile App,Standard,Cancelled
+O002299,C00189,27-03-2023,Web,Standard,Cancelled
+O002300,C00631,15-01-2024,Partner,Same Day,Shipped
+O002301,C00453,03-09-2024,Web,Same Day,Shipped
+O002302,C00216,12-01-2025,Store,Standard,Pending
+O002303,C00157,16-12-2023,Store,Standard,Delivered
+O002304,C00474,25-07-2023,Web,Express,Cancelled
+O002305,C00157,27-08-2025,Store,Same Day,Pending
+O002306,C00231,08-07-2023,Mobile App,Express,Cancelled
+O002307,C00026,11-06-2025,Partner,Standard,Shipped
+O002308,C00617,25-06-2024,Store,Same Day,Shipped
+O002309,C00147,14-07-2024,Store,Standard,Pending
+O002310,C00067,24-02-2024,Web,Same Day,Shipped
+O002311,C00330,15-01-2024,Web,Standard,Pending
+O002312,C00240,07-01-2023,Partner,Standard,Pending
+O002313,C00397,26-02-2025,Web,Standard,Pending
+O002314,C00578,12-07-2024,Web,Standard,Cancelled
+O002315,C00586,22-10-2024,Partner,Express,Cancelled
+O002316,C00461,21-07-2025,Mobile App,Same Day,Cancelled
+O002317,C00628,14-09-2023,Store,Same Day,Cancelled
+O002318,C00491,30-07-2025,Mobile App,Express,Delivered
+O002319,C00230,28-05-2023,Store,Same Day,Shipped
+O002320,C00398,21-09-2023,Mobile App,Express,Pending
+O002321,C00443,04-04-2025,Store,Standard,Pending
+O002322,C00471,25-02-2024,Mobile App,Express,Shipped
+O002323,C00642,28-12-2023,Mobile App,Express,Cancelled
+O002324,C00428,16-04-2024,Partner,Express,Cancelled
+O002325,C00475,08-01-2024,Store,Express,Cancelled
+O002326,C00137,10-01-2025,Mobile App,Standard,Shipped
+O002327,C00196,05-08-2024,Mobile App,Same Day,Delivered
+O002328,C00475,15-07-2024,Partner,Express,Delivered
+O002329,C00219,07-02-2024,Mobile App,Express,Pending
+O002330,C00556,29-10-2024,Partner,Express,Cancelled
+O002331,C00053,24-07-2023,Mobile App,Express,Shipped
+O002332,C00676,29-01-2024,Partner,Standard,Cancelled
+O002333,C00025,11-12-2024,Mobile App,Express,Shipped
+O002334,C00280,02-02-2025,Mobile App,Same Day,Cancelled
+O002335,C00589,11-03-2025,Mobile App,Standard,Cancelled
+O002336,C00325,24-04-2024,Mobile App,Same Day,Shipped
+O002337,C00499,20-11-2023,Web,Same Day,Pending
+O002338,C00067,29-03-2023,Web,Standard,Pending
+O002339,C00340,23-05-2025,Web,Express,Delivered
+O002340,C00208,31-01-2025,Mobile App,Standard,Delivered
+O002341,C00068,07-01-2024,Store,Same Day,Cancelled
+O002342,C00487,13-12-2023,Mobile App,Express,Delivered
+O002343,C00104,01-04-2025,Mobile App,Standard,Shipped
+O002344,C00426,02-05-2023,Partner,Standard,Cancelled
+O002345,C00288,07-12-2024,Mobile App,Standard,Shipped
+O002346,C00456,10-04-2023,Web,Standard,Cancelled
+O002347,C00485,24-01-2024,Partner,Standard,Pending
+O002348,C00601,05-12-2024,Store,Express,Shipped
+O002349,C00459,04-07-2025,Web,Express,Delivered
+O002350,C00348,29-03-2023,Store,Standard,Shipped
+O002351,C00139,01-10-2024,Store,Same Day,Cancelled
+O002352,C00154,24-04-2023,Mobile App,Same Day,Delivered
+O002353,C00300,29-12-2024,Web,Express,Cancelled
+O002354,C00017,28-09-2024,Partner,Standard,Delivered
+O002355,C00259,16-07-2023,Store,Same Day,Pending
+O002356,C00502,23-11-2023,Mobile App,Standard,Shipped
+O002357,C00314,27-09-2023,Partner,Express,Delivered
+O002358,C00042,07-10-2023,Partner,Same Day,Pending
+O002359,C00341,18-07-2024,Web,Standard,Pending
+O002360,C00588,20-01-2023,Store,Express,Shipped
+O002361,C00482,25-01-2024,Partner,Standard,Delivered
+O002362,C00385,10-12-2023,Store,Same Day,Cancelled
+O002363,C00417,25-12-2024,Store,Standard,Delivered
+O002364,C00268,19-07-2024,Mobile App,Express,Delivered
+O002365,C00274,27-03-2023,Partner,Same Day,Pending
+O002366,C00683,24-07-2025,Store,Same Day,Pending
+O002367,C00024,10-04-2025,Mobile App,Standard,Shipped
+O002368,C00077,01-07-2023,Store,Standard,Shipped
+O002369,C00586,31-03-2025,Mobile App,Standard,Pending
+O002370,C00010,10-01-2025,Web,Same Day,Delivered
+O002371,C00633,14-03-2023,Mobile App,Same Day,Cancelled
+O002372,C00647,13-06-2025,Store,Same Day,Pending
+O002373,C00628,05-05-2023,Web,Same Day,Shipped
+O002374,C00205,29-07-2025,Web,Standard,Pending
+O002375,C00094,04-01-2023,Partner,Same Day,Shipped
+O002376,C00216,21-02-2023,Web,Express,Delivered
+O002377,C00641,26-06-2024,Mobile App,Express,Shipped
+O002378,C00508,11-09-2024,Mobile App,Express,Delivered
+O002379,C00693,29-08-2024,Web,Express,Shipped
+O002380,C00520,07-01-2023,Web,Standard,Shipped
+O002381,C00270,28-05-2023,Mobile App,Same Day,Pending
+O002382,C00078,12-07-2023,Mobile App,Express,Shipped
+O002383,C00167,09-02-2024,Store,Same Day,Cancelled
+O002384,C00519,17-10-2024,Store,Standard,Cancelled
+O002385,C00257,24-04-2025,Store,Same Day,Shipped
+O002386,C00544,08-01-2023,Store,Express,Shipped
+O002387,C00067,05-03-2023,Web,Express,Delivered
+O002388,C00062,26-09-2024,Partner,Standard,Cancelled
+O002389,C00013,27-09-2025,Web,Express,Delivered
+O002390,C00698,12-09-2024,Web,Same Day,Delivered
+O002391,C00327,06-04-2024,Store,Same Day,Cancelled
+O002392,C00380,26-05-2024,Store,Express,Delivered
+O002393,C00560,01-02-2025,Mobile App,Standard,Shipped
+O002394,C00044,08-12-2024,Store,Express,Cancelled
+O002395,C00473,29-11-2023,Partner,Express,Cancelled
+O002396,C00464,06-06-2023,Mobile App,Same Day,Cancelled
+O002397,C00430,30-08-2025,Web,Standard,Delivered
+O002398,C00391,10-06-2025,Mobile App,Express,Delivered
+O002399,C00015,20-03-2024,Mobile App,Standard,Shipped
+O002400,C00223,08-04-2023,Web,Express,Cancelled
+O002401,C00154,05-10-2023,Store,Standard,Pending
+O002402,C00510,06-02-2024,Mobile App,Express,Delivered
+O002403,C00234,14-07-2023,Partner,Same Day,Cancelled
+O002404,C00444,21-03-2024,Mobile App,Express,Pending
+O002405,C00362,11-09-2025,Web,Standard,Delivered
+O002406,C00489,14-09-2024,Store,Standard,Shipped
+O002407,C00532,23-08-2025,Partner,Standard,Cancelled
+O002408,C00503,14-01-2023,Store,Same Day,Shipped
+O002409,C00347,07-10-2024,Store,Same Day,Cancelled
+O002410,C00627,05-05-2023,Mobile App,Same Day,Delivered
+O002411,C00350,12-01-2025,Store,Same Day,Shipped
+O002412,C00379,01-08-2024,Partner,Standard,Pending
+O002413,C00458,14-01-2024,Partner,Standard,Shipped
+O002414,C00335,05-12-2024,Mobile App,Express,Cancelled
+O002415,C00288,22-07-2024,Store,Same Day,Delivered
+O002416,C00200,12-07-2025,Mobile App,Express,Shipped
+O002417,C00608,16-09-2024,Mobile App,Standard,Cancelled
+O002418,C00577,26-04-2024,Web,Express,Pending
+O002419,C00394,07-02-2025,Mobile App,Same Day,Delivered
+O002420,C00084,25-06-2024,Partner,Express,Delivered
+O002421,C00069,05-04-2024,Partner,Standard,Delivered
+O002422,C00147,08-01-2024,Web,Express,Shipped
+O002423,C00229,10-10-2024,Web,Express,Delivered
+O002424,C00636,09-05-2024,Mobile App,Express,Delivered
+O002425,C00497,18-11-2023,Mobile App,Same Day,Shipped
+O002426,C00612,11-09-2024,Web,Express,Pending
+O002427,C00200,20-06-2024,Store,Standard,Cancelled
+O002428,C00434,18-12-2024,Web,Express,Delivered
+O002429,C00210,28-05-2023,Store,Standard,Pending
+O002430,C00668,21-10-2024,Partner,Standard,Delivered
+O002431,C00477,05-03-2025,Mobile App,Express,Cancelled
+O002432,C00569,10-06-2023,Partner,Express,Pending
+O002433,C00281,11-04-2024,Store,Standard,Cancelled
+O002434,C00292,16-06-2023,Mobile App,Express,Pending
+O002435,C00127,23-02-2023,Store,Same Day,Cancelled
+O002436,C00378,26-05-2023,Store,Same Day,Cancelled
+O002437,C00564,27-01-2023,Partner,Same Day,Delivered
+O002438,C00406,02-07-2023,Store,Same Day,Pending
+O002439,C00660,17-10-2023,Store,Same Day,Pending
+O002440,C00524,27-02-2023,Mobile App,Express,Pending
+O002441,C00070,24-05-2023,Mobile App,Standard,Shipped
+O002442,C00241,05-04-2023,Store,Express,Delivered
+O002443,C00084,27-02-2024,Store,Standard,Cancelled
+O002444,C00411,12-07-2024,Web,Same Day,Cancelled
+O002445,C00658,19-03-2025,Partner,Same Day,Shipped
+O002446,C00562,22-04-2025,Web,Standard,Cancelled
+O002447,C00163,29-04-2023,Store,Standard,Shipped
+O002448,C00058,22-10-2024,Web,Standard,Shipped
+O002449,C00491,13-02-2023,Web,Standard,Shipped
+O002450,C00157,04-09-2025,Mobile App,Same Day,Delivered
+O002451,C00331,01-02-2024,Partner,Standard,Delivered
+O002452,C00505,25-01-2023,Partner,Same Day,Pending
+O002453,C00042,24-07-2023,Web,Standard,Shipped
+O002454,C00597,18-05-2024,Web,Express,Pending
+O002455,C00596,21-06-2025,Store,Same Day,Shipped
+O002456,C00407,06-08-2023,Mobile App,Same Day,Pending
+O002457,C00643,01-02-2025,Store,Express,Delivered
+O002458,C00524,02-02-2024,Mobile App,Standard,Delivered
+O002459,C00343,20-07-2023,Store,Express,Cancelled
+O002460,C00123,28-10-2024,Store,Express,Pending
+O002461,C00457,09-09-2024,Partner,Standard,Shipped
+O002462,C00116,12-02-2023,Partner,Standard,Shipped
+O002463,C00205,16-02-2025,Store,Same Day,Shipped
+O002464,C00608,17-04-2025,Store,Express,Cancelled
+O002465,C00056,25-10-2024,Mobile App,Same Day,Delivered
+O002466,C00223,07-06-2024,Web,Express,Pending
+O002467,C00222,29-04-2025,Mobile App,Express,Shipped
+O002468,C00512,27-08-2025,Partner,Same Day,Delivered
+O002469,C00469,05-02-2024,Mobile App,Express,Cancelled
+O002470,C00575,03-09-2024,Store,Same Day,Shipped
+O002471,C00080,23-09-2024,Web,Standard,Pending
+O002472,C00635,21-02-2023,Web,Express,Pending
+O002473,C00311,31-03-2024,Partner,Same Day,Shipped
+O002474,C00100,24-02-2023,Store,Standard,Shipped
+O002475,C00434,29-01-2025,Store,Standard,Delivered
+O002476,C00428,31-10-2024,Web,Express,Pending
+O002477,C00123,06-11-2023,Mobile App,Express,Cancelled
+O002478,C00210,04-05-2023,Web,Express,Shipped
+O002479,C00015,26-04-2023,Web,Same Day,Shipped
+O002480,C00467,09-06-2025,Store,Express,Pending
+O002481,C00577,06-05-2024,Web,Same Day,Shipped
+O002482,C00221,08-03-2023,Partner,Same Day,Cancelled
+O002483,C00031,08-02-2023,Partner,Express,Cancelled
+O002484,C00423,29-06-2023,Web,Same Day,Pending
+O002485,C00673,06-03-2023,Store,Same Day,Delivered
+O002486,C00491,27-07-2023,Store,Standard,Delivered
+O002487,C00193,29-08-2023,Partner,Standard,Pending
+O002488,C00577,05-05-2025,Partner,Same Day,Cancelled
+O002489,C00238,02-01-2025,Web,Express,Delivered
+O002490,C00091,04-09-2024,Store,Express,Cancelled
+O002491,C00558,17-06-2023,Store,Same Day,Delivered
+O002492,C00565,07-07-2024,Mobile App,Express,Delivered
+O002493,C00417,28-06-2023,Partner,Express,Cancelled
+O002494,C00356,24-02-2025,Store,Standard,Cancelled
+O002495,C00692,09-07-2024,Partner,Express,Cancelled
+O002496,C00089,08-09-2024,Store,Standard,Delivered
+O002497,C00368,22-10-2024,Partner,Express,Shipped
+O002498,C00044,18-12-2023,Mobile App,Same Day,Delivered
+O002499,C00554,09-10-2024,Mobile App,Same Day,Shipped
+O002500,C00211,24-04-2025,Partner,Standard,Cancelled
+O002501,C00115,28-05-2024,Web,Same Day,Pending
+O002502,C00590,05-01-2023,Store,Same Day,Shipped
+O002503,C00233,01-12-2024,Store,Express,Pending
+O002504,C00334,19-01-2025,Store,Same Day,Cancelled
+O002505,C00536,03-11-2024,Partner,Standard,Delivered
+O002506,C00418,05-12-2024,Web,Standard,Cancelled
+O002507,C00160,04-05-2025,Mobile App,Same Day,Pending
+O002508,C00517,30-03-2025,Web,Express,Shipped
+O002509,C00074,12-12-2024,Store,Standard,Cancelled
+O002510,C00311,25-04-2025,Mobile App,Same Day,Pending
+O002511,C00196,25-01-2023,Web,Standard,Delivered
+O002512,C00124,01-08-2023,Mobile App,Same Day,Pending
+O002513,C00069,17-09-2023,Partner,Standard,Cancelled
+O002514,C00367,08-11-2024,Partner,Standard,Delivered
+O002515,C00352,02-02-2024,Store,Standard,Delivered
+O002516,C00439,26-09-2024,Partner,Same Day,Pending
+O002517,C00696,18-05-2024,Web,Express,Delivered
+O002518,C00360,01-02-2023,Store,Same Day,Cancelled
+O002519,C00393,09-02-2025,Web,Express,Delivered
+O002520,C00503,28-01-2023,Partner,Standard,Cancelled
+O002521,C00089,01-05-2024,Store,Same Day,Pending
+O002522,C00085,09-09-2023,Web,Express,Cancelled
+O002523,C00346,05-09-2023,Partner,Standard,Delivered
+O002524,C00318,19-07-2024,Partner,Standard,Cancelled
+O002525,C00098,11-01-2023,Mobile App,Same Day,Pending
+O002526,C00519,31-03-2024,Web,Same Day,Shipped
+O002527,C00475,09-10-2023,Partner,Same Day,Pending
+O002528,C00260,22-08-2024,Web,Same Day,Cancelled
+O002529,C00179,12-07-2025,Partner,Express,Shipped
+O002530,C00041,25-10-2023,Store,Express,Pending
+O002531,C00159,18-09-2025,Web,Standard,Cancelled
+O002532,C00498,13-09-2023,Web,Express,Shipped
+O002533,C00386,14-02-2023,Store,Standard,Shipped
+O002534,C00349,05-06-2025,Partner,Standard,Cancelled
+O002535,C00119,14-04-2023,Mobile App,Standard,Shipped
+O002536,C00620,30-07-2024,Web,Express,Cancelled
+O002537,C00376,24-03-2025,Partner,Standard,Delivered
+O002538,C00651,10-07-2024,Web,Express,Cancelled
+O002539,C00035,13-10-2023,Partner,Same Day,Cancelled
+O002540,C00069,08-03-2023,Web,Express,Delivered
+O002541,C00487,15-02-2024,Mobile App,Standard,Pending
+O002542,C00025,15-06-2023,Web,Same Day,Shipped
+O002543,C00681,21-07-2023,Partner,Same Day,Delivered
+O002544,C00571,27-09-2023,Partner,Standard,Shipped
+O002545,C00597,28-02-2024,Web,Same Day,Pending
+O002546,C00238,27-07-2023,Mobile App,Express,Shipped
+O002547,C00401,12-01-2023,Store,Standard,Pending
+O002548,C00116,21-06-2024,Store,Same Day,Pending
+O002549,C00311,20-06-2025,Mobile App,Express,Shipped
+O002550,C00492,31-03-2025,Mobile App,Standard,Cancelled
+O002551,C00490,05-05-2024,Mobile App,Standard,Shipped
+O002552,C00398,20-07-2024,Web,Standard,Shipped
+O002553,C00523,29-05-2023,Web,Express,Pending
+O002554,C00580,18-06-2023,Mobile App,Same Day,Cancelled
+O002555,C00641,06-01-2024,Mobile App,Express,Cancelled
+O002556,C00062,09-02-2025,Partner,Standard,Delivered
+O002557,C00405,29-01-2023,Mobile App,Same Day,Delivered
+O002558,C00401,05-04-2024,Mobile App,Same Day,Shipped
+O002559,C00491,21-09-2024,Partner,Same Day,Shipped
+O002560,C00248,05-09-2024,Store,Express,Pending
+O002561,C00444,06-09-2024,Web,Express,Pending
+O002562,C00576,28-03-2023,Mobile App,Same Day,Pending
+O002563,C00379,12-10-2023,Partner,Express,Cancelled
+O002564,C00666,06-04-2025,Store,Express,Delivered
+O002565,C00316,25-05-2025,Partner,Same Day,Cancelled
+O002566,C00396,14-02-2025,Mobile App,Express,Delivered
+O002567,C00094,09-12-2024,Partner,Express,Pending
+O002568,C00258,06-10-2024,Store,Express,Delivered
+O002569,C00609,09-06-2024,Mobile App,Express,Delivered
+O002570,C00246,02-08-2024,Mobile App,Express,Delivered
+O002571,C00197,25-04-2025,Store,Same Day,Cancelled
+O002572,C00286,28-09-2023,Partner,Same Day,Shipped
+O002573,C00628,30-06-2025,Mobile App,Same Day,Delivered
+O002574,C00195,04-12-2024,Store,Same Day,Delivered
+O002575,C00210,28-03-2025,Partner,Same Day,Shipped
+O002576,C00121,11-01-2025,Store,Same Day,Shipped
+O002577,C00211,04-09-2024,Store,Standard,Cancelled
+O002578,C00384,09-09-2023,Partner,Express,Delivered
+O002579,C00582,15-04-2024,Store,Standard,Delivered
+O002580,C00621,15-03-2023,Store,Standard,Cancelled
+O002581,C00564,07-02-2024,Web,Standard,Shipped
+O002582,C00261,08-08-2025,Partner,Express,Delivered
+O002583,C00524,04-08-2024,Partner,Standard,Delivered
+O002584,C00053,13-03-2024,Partner,Same Day,Pending
+O002585,C00488,23-03-2024,Partner,Express,Pending
+O002586,C00144,05-07-2023,Web,Express,Pending
+O002587,C00043,17-05-2025,Web,Express,Pending
+O002588,C00562,02-07-2024,Store,Standard,Pending
+O002589,C00434,29-07-2023,Web,Same Day,Pending
+O002590,C00011,25-04-2023,Store,Same Day,Delivered
+O002591,C00292,16-03-2024,Mobile App,Standard,Shipped
+O002592,C00634,10-09-2024,Store,Same Day,Delivered
+O002593,C00243,05-06-2023,Web,Same Day,Delivered
+O002594,C00226,25-06-2023,Partner,Standard,Pending
+O002595,C00165,04-04-2023,Store,Express,Pending
+O002596,C00098,10-09-2023,Partner,Standard,Shipped
+O002597,C00471,16-09-2024,Mobile App,Standard,Shipped
+O002598,C00287,20-04-2023,Web,Standard,Delivered
+O002599,C00446,16-08-2024,Partner,Express,Shipped
+O002600,C00238,13-04-2023,Web,Express,Cancelled

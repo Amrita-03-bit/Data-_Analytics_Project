@@ -1,0 +1,701 @@
+CustomerID,CustomerName,City,State,CustomerSegment,SignupDate,PreferredChannel,LoyaltyTier
+C00001,Customer_0001,Delhi,Bihar,Small Business,02-08-2024,Website,Low
+C00002,Customer_0002,Mumbai,Madhya Pradesh,Consumer,03-04-2022,Email,High
+C00003,Customer_0003,Patna,Bihar,Consumer,15-05-2023,Mobile App,Low
+C00004,Customer_0004,Lucknow,Bihar,Small Business,01-11-2023,Mobile App,High
+C00005,Customer_0005,Bhopal,Rajasthan,Corporate,23-08-2024,Mobile App,Medium
+C00006,Customer_0006,Kolkata,Bihar,Consumer,21-04-2024,Store,Medium
+C00007,Customer_0007,Mumbai,Karnataka,Corporate,24-07-2022,Email,Low
+C00008,Customer_0008,Delhi,Telangana,Corporate,18-02-2023,Website,Low
+C00009,Customer_0009,Pune,Rajasthan,Consumer,03-02-2025,Store,Low
+C00010,Customer_0010,Kolkata,Gujarat,Small Business,05-02-2024,Website,High
+C00011,Customer_0011,Bhopal,Delhi,Consumer,29-01-2022,Mobile App,Medium
+C00012,Customer_0012,Kolkata,Delhi,Corporate,13-06-2021,Website,Medium
+C00013,Customer_0013,Hyderabad,Maharashtra,Corporate,25-07-2024,Website,Low
+C00014,Customer_0014,Kolkata,Madhya Pradesh,Small Business,04-10-2024,Email,High
+C00015,Customer_0015,Mumbai,Rajasthan,Small Business,24-07-2024,Mobile App,Low
+C00016,Customer_0016,Chennai,West Bengal,Small Business,05-08-2023,Mobile App,High
+C00017,Customer_0017,Patna,Karnataka,Consumer,27-10-2022,Website,Medium
+C00018,Customer_0018,Delhi,Karnataka,InvalidSegment,03-07-2022,Website,Low
+C00019,Customer_0019,Pune,Tamil Nadu,Small Business,04-09-2024,Store,Low
+C00020,Customer_0020,Mumbai,Karnataka,Small Business,27-06-2022,Website,High
+C00021,Customer_0021,Chennai,Uttar Pradesh,Corporate,12-04-2024,Website,Low
+C00022,Customer_0022,Jaipur,Maharashtra,Consumer,11-10-2021,Email,Low
+C00023,Customer_0023,Ahmedabad,Maharashtra,Small Business,10-11-2021,Store,High
+C00024,Customer_0024,Chennai,Tamil Nadu,Small Business,11-05-2021,Store,High
+C00025,Customer_0025,Jaipur,Bihar,Small Business,30-05-2022,Email,High
+C00026,Customer_0026,Kolkata,Gujarat,Corporate,05-01-2024,Email,Medium
+C00027,Customer_0027,Mumbai,Maharashtra,Consumer,10-06-2023,Website,High
+C00028,Customer_0028,Mumbai,Rajasthan,Consumer,10-04-2025,Website,High
+C00029,Customer_0029,Lucknow,Karnataka,Consumer,06-11-2023,Website,Low
+C00030,Customer_0030,Jaipur,Bihar,Small Business,10-01-2024,Website,Medium
+C00031,Customer_0031,Delhi,Telangana,Corporate,09-02-2021,Mobile App,Low
+C00032,Customer_0032,Lucknow,Delhi,Consumer,09-05-2022,Store,Low
+C00033,Customer_0033,Jaipur,Maharashtra,Consumer,07-04-2025,Store,High
+C00034,Customer_0034,Delhi,Rajasthan,Small Business,05-12-2021,Store,Low
+C00035,Customer_0035,Bhopal,Madhya Pradesh,Consumer,10-01-2024,Website,Medium
+C00036,Customer_0036,Ahmedabad,Telangana,Corporate,07-10-2024,Store,Low
+C00037,Customer_0037,Bengaluru,Delhi,Corporate,23-05-2022,Email,High
+C00038,Customer_0038,Bengaluru,Uttar Pradesh,Consumer,09-02-2024,Email,Low
+C00039,Customer_0039,Ahmedabad,Bihar,Consumer,20-12-2024,Email,Low
+C00040,Customer_0040,Delhi,Rajasthan,Consumer,08-11-2022,Website,High
+C00041,Customer_0041,Bengaluru,Rajasthan,Consumer,22-09-2023,Store,Low
+C00042,Customer_0042,Pune,Tamil Nadu,Consumer,26-05-2025,Email,Low
+C00043,Customer_0043,Chennai,Telangana,Corporate,11-09-2024,Store,Medium
+C00044,Customer_0044,Patna,Gujarat,Small Business,02-02-2025,Email,Low
+C00045,Customer_0045,Bhopal,Telangana,Consumer,05-04-2023,Mobile App,Low
+C00046,Customer_0046,Jaipur,Maharashtra,Consumer,25-01-2022,Store,Low
+C00047,Customer_0047,Pune,Karnataka,Consumer,25-07-2022,Store,High
+C00048,Customer_0048,Patna,Gujarat,Small Business,20-07-2021,Email,Low
+C00049,Customer_0049,Bengaluru,Maharashtra,Corporate,24-03-2025,Store,Medium
+C00050,Customer_0050,Chennai,Bihar,Consumer,14-03-2022,Store,Low
+C00051,Customer_0051,Kolkata,Maharashtra,Corporate,11-03-2023,Store,High
+C00052,Customer_0052,Jaipur,Gujarat,Small Business,05-02-2025,Store,Low
+C00053,Customer_0053,Kolkata,Karnataka,Consumer,24-01-2022,Email,High
+C00054,Customer_0054,Patna,Bihar,Small Business,05-10-2022,Store,High
+C00055,Customer_0055,Mumbai,Bihar,Small Business,24-12-2023,Email,Low
+C00056,Customer_0056,Lucknow,Delhi,Small Business,21-05-2021,Mobile App,Medium
+C00057,Customer_0057,Lucknow,Karnataka,Small Business,03-09-2021,Email,High
+C00058,Customer_0058,Chennai,Gujarat,Small Business,17-06-2021,Website,Medium
+C00059,Customer_0059,Ahmedabad,Madhya Pradesh,Corporate,23-02-2022,Mobile App,Medium
+C00060,Customer_0060,Mumbai,Gujarat,Small Business,22-03-2023,Website,Medium
+C00061,Customer_0061,Delhi,Bihar,Corporate,10-10-2022,Email,Low
+C00062,Customer_0062,Bengaluru,Rajasthan,Corporate,07-01-2024,Mobile App,Medium
+C00063,Customer_0063,Bengaluru,Telangana,Corporate,21-05-2021,Mobile App,Medium
+C00064,Customer_0064,Bhopal,West Bengal,Small Business,18-01-2024,Email,High
+C00065,Customer_0065,Jaipur,West Bengal,Small Business,01-08-2025,Email,Low
+C00066,Customer_0066,Delhi,Delhi,Small Business,26-06-2022,Mobile App,Medium
+C00067,Customer_0067,Lucknow,Karnataka,Small Business,01-08-2022,Website,Low
+C00068,Customer_0068,Ahmedabad,West Bengal,Small Business,08-11-2024,Store,Medium
+C00069,Customer_0069,Delhi,Gujarat,Corporate,15-04-2021,Website,Low
+C00070,Customer_0070,Hyderabad,Maharashtra,Small Business,08-01-2021,Website,Low
+C00071,Customer_0071,Pune,Rajasthan,Small Business,27-02-2025,Store,High
+C00072,Customer_0072,Delhi,Delhi,Small Business,20-01-2021,Mobile App,High
+C00073,Customer_0073,Hyderabad,Uttar Pradesh,Small Business,15-03-2021,Mobile App,Medium
+C00074,Customer_0074,Patna,West Bengal,Corporate,19-09-2021,Email,Medium
+C00075,Customer_0075,Ahmedabad,Karnataka,Small Business,07-03-2022,Email,Medium
+C00076,Customer_0076,Jaipur,Tamil Nadu,Small Business,17-05-2025,Mobile App,Low
+C00077,Customer_0077,Mumbai,Tamil Nadu,Consumer,29-11-2021,Mobile App,High
+C00078,Customer_0078,Chennai,Gujarat,Small Business,12-11-2022,Mobile App,Medium
+C00079,Customer_0079,Bhopal,Delhi,Corporate,23-11-2021,Email,Medium
+C00080,Customer_0080,Bengaluru,Maharashtra,Corporate,01-04-2022,Website,Low
+C00081,Customer_0081,Patna,Gujarat,Consumer,02-04-2022,Store,Medium
+C00082,Customer_0082,Delhi,West Bengal,Corporate,25-07-2022,Store,High
+C00083,Customer_0083,Hyderabad,Bihar,Consumer,04-01-2024,Website,Low
+C00084,Customer_0084,Kolkata,Bihar,Consumer,04-04-2024,Store,Medium
+C00085,Customer_0085,Hyderabad,Tamil Nadu,Small Business,01-02-2025,Email,Medium
+C00086,Customer_0086,Bengaluru,West Bengal,Consumer,26-03-2024,Store,Low
+C00087,Customer_0087,Jaipur,Gujarat,Small Business,01-12-2023,Mobile App,Medium
+C00088,Customer_0088,Delhi,Gujarat,Corporate,03-06-2023,Website,High
+C00089,Customer_0089,Bhopal,West Bengal,Small Business,13-09-2021,Website,High
+C00090,Customer_0090,Hyderabad,Tamil Nadu,Small Business,17-04-2023,Website,High
+C00091,Customer_0091,Bengaluru,Tamil Nadu,Small Business,18-09-2021,Store,High
+C00092,Customer_0092,Mumbai,Uttar Pradesh,Small Business,13-03-2025,Website,Medium
+C00093,Customer_0093,Patna,West Bengal,Corporate,28-01-2024,Mobile App,Medium
+C00094,Customer_0094,Lucknow,Uttar Pradesh,Small Business,29-05-2025,Website,Medium
+C00095,Customer_0095,Pune,Gujarat,Consumer,24-06-2023,Store,High
+C00096,Customer_0096,Ahmedabad,Delhi,Corporate,14-12-2021,Website,Low
+C00097,Customer_0097,Bengaluru,Gujarat,Corporate,04-08-2025,Mobile App,Low
+C00098,Customer_0098,Patna,Bihar,Consumer,29-10-2021,Store,High
+C00099,Customer_0099,Delhi,Maharashtra,Corporate,23-04-2025,Mobile App,High
+C00100,Customer_0100,Chennai,Maharashtra,Corporate,27-11-2024,Mobile App,Low
+C00101,Customer_0101,Bhopal,Bihar,Consumer,05-09-2024,Store,Low
+C00102,Customer_0102,Bhopal,Rajasthan,Corporate,27-12-2021,Email,High
+C00103,Customer_0103,Delhi,Maharashtra,Consumer,26-05-2022,Store,High
+C00104,Customer_0104,Jaipur,Uttar Pradesh,Corporate,24-12-2023,Store,High
+C00105,Customer_0105,Bhopal,Rajasthan,Corporate,28-07-2025,Store,Low
+C00106,Customer_0106,Pune,Maharashtra,Corporate,04-03-2025,Mobile App,High
+C00107,Customer_0107,Jaipur,Maharashtra,Small Business,22-07-2022,Mobile App,Medium
+C00108,Customer_0108,Delhi,Madhya Pradesh,Corporate,20-06-2023,Mobile App,Medium
+C00109,Customer_0109,Hyderabad,Rajasthan,Consumer,19-11-2022,Mobile App,Low
+C00110,Customer_0110,Chennai,Madhya Pradesh,Consumer,19-04-2022,Mobile App,Low
+C00111,Customer_0111,Chennai,Telangana,Small Business,30-04-2023,Store,Medium
+C00112,Customer_0112,Bengaluru,Tamil Nadu,Corporate,08-05-2021,Email,High
+C00113,Customer_0113,Pune,Bihar,Corporate,19-02-2023,Website,Medium
+C00114,Customer_0114,Jaipur,Madhya Pradesh,Small Business,09-05-2023,Mobile App,Medium
+C00115,Customer_0115,Kolkata,Tamil Nadu,Corporate,26-03-2022,Email,Medium
+C00116,Customer_0116,Ahmedabad,Gujarat,Corporate,20-11-2022,Mobile App,Medium
+C00117,Customer_0117,Lucknow,Rajasthan,Consumer,19-09-2021,Store,High
+C00118,Customer_0118,Ahmedabad,Bihar,Consumer,01-03-2024,Store,Low
+C00119,Customer_0119,Mumbai,Bihar,Corporate,04-08-2023,Store,Medium
+C00120,Customer_0120,Pune,Telangana,Corporate,10-03-2022,Store,Medium
+C00121,Customer_0121,Chennai,West Bengal,Consumer,21-03-2025,Store,Low
+C00122,Customer_0122,Jaipur,Bihar,Corporate,15-03-2025,Mobile App,High
+C00123,Customer_0123,Ahmedabad,Bihar,Consumer,21-05-2021,Mobile App,Low
+C00124,Customer_0124,Lucknow,Maharashtra,Consumer,11-02-2021,Mobile App,Medium
+C00125,Customer_0125,Delhi,Uttar Pradesh,Consumer,03-10-2024,Store,High
+C00126,Customer_0126,Hyderabad,Maharashtra,Small Business,09-06-2022,Email,Low
+C00127,Customer_0127,Delhi,Uttar Pradesh,Consumer,30-09-2022,Website,High
+C00128,Customer_0128,Chennai,Tamil Nadu,Small Business,19-10-2024,Mobile App,Low
+C00129,Customer_0129,Bhopal,Gujarat,Consumer,27-04-2024,Email,High
+C00130,Customer_0130,Kolkata,Gujarat,Small Business,02-05-2025,Email,High
+C00131,Customer_0131,Patna,Telangana,Small Business,22-05-2025,Store,High
+C00132,Customer_0132,Delhi,Rajasthan,Small Business,29-01-2023,Website,Low
+C00133,Customer_0133,Pune,Delhi,Corporate,11-05-2023,Website,High
+C00134,Customer_0134,Pune,Madhya Pradesh,Consumer,25-08-2025,Store,Low
+C00135,Customer_0135,Jaipur,Gujarat,Corporate,11-02-2025,Store,Medium
+C00136,Customer_0136,Bhopal,Uttar Pradesh,Corporate,12-06-2023,Website,Low
+C00137,Customer_0137,Kolkata,Maharashtra,Consumer,27-06-2021,Store,High
+C00138,Customer_0138,Ahmedabad,Tamil Nadu,Corporate,03-06-2024,Email,Medium
+C00139,Customer_0139,Mumbai,Maharashtra,Consumer,28-10-2022,Website,Medium
+C00140,Customer_0140,Kolkata,Uttar Pradesh,Small Business,29-11-2022,Website,High
+C00141,Customer_0141,Jaipur,Karnataka,Consumer,21-01-2021,Mobile App,High
+C00142,Customer_0142,Pune,Rajasthan,Consumer,13-04-2023,Store,High
+C00143,Customer_0143,Pune,Maharashtra,Consumer,28-12-2024,Email,Medium
+C00144,Customer_0144,Chennai,Madhya Pradesh,Consumer,30-03-2022,Website,High
+C00145,Customer_0145,Hyderabad,Maharashtra,Small Business,06-04-2024,Website,Medium
+C00146,Customer_0146,Jaipur,Telangana,Corporate,08-03-2025,Store,Medium
+C00147,Customer_0147,Kolkata,Karnataka,Consumer,20-09-2022,Mobile App,Medium
+C00148,Customer_0148,Bhopal,Rajasthan,Small Business,02-09-2021,Mobile App,Low
+C00149,Customer_0149,Bhopal,Maharashtra,Corporate,20-03-2022,Website,Low
+C00150,Customer_0150,Kolkata,Karnataka,Corporate,02-02-2022,Mobile App,Medium
+C00151,Customer_0151,Bhopal,Rajasthan,Consumer,29-01-2021,Website,Low
+C00152,Customer_0152,Jaipur,West Bengal,Small Business,22-04-2021,Mobile App,High
+C00153,Customer_0153,Pune,Delhi,Consumer,22-03-2025,Website,Medium
+C00154,Customer_0154,Pune,Telangana,Consumer,08-09-2023,Email,Medium
+C00155,Customer_0155,Delhi,Delhi,Corporate,06-09-2023,Store,Low
+C00156,Customer_0156,Ahmedabad,Gujarat,Consumer,27-03-2024,Mobile App,Low
+C00157,Customer_0157,Lucknow,West Bengal,Consumer,20-07-2025,Mobile App,Low
+C00158,Customer_0158,Chennai,Uttar Pradesh,Small Business,17-02-2024,Mobile App,High
+C00159,Customer_0159,Pune,Maharashtra,Corporate,19-02-2023,Store,Medium
+C00160,Customer_0160,Lucknow,Bihar,Small Business,10-03-2024,Email,Low
+C00161,Customer_0161,Bengaluru,West Bengal,Small Business,05-07-2024,Email,Low
+C00162,Customer_0162,Mumbai,Rajasthan,Consumer,07-05-2022,Mobile App,Low
+C00163,Customer_0163,Pune,Madhya Pradesh,Small Business,17-04-2023,Store,Medium
+C00164,Customer_0164,Bengaluru,West Bengal,Small Business,08-03-2021,Website,High
+C00165,Customer_0165,Delhi,Gujarat,Consumer,19-07-2023,Website,High
+C00166,Customer_0166,Ahmedabad,Karnataka,Corporate,22-04-2024,Email,High
+C00167,Customer_0167,Ahmedabad,Maharashtra,Corporate,06-04-2022,Mobile App,Low
+C00168,Customer_0168,Mumbai,West Bengal,Small Business,03-05-2021,Website,Medium
+C00169,Customer_0169,Pune,Madhya Pradesh,Corporate,12-09-2021,Store,Medium
+C00170,Customer_0170,Jaipur,Maharashtra,Corporate,22-10-2023,Email,High
+C00171,Customer_0171,Chennai,Madhya Pradesh,Corporate,23-03-2021,Website,Low
+C00172,Customer_0172,Bengaluru,Gujarat,Small Business,07-07-2021,Email,High
+C00173,Customer_0173,Kolkata,Uttar Pradesh,Consumer,10-08-2025,Mobile App,Medium
+C00174,Customer_0174,Ahmedabad,Maharashtra,Corporate,29-11-2023,Mobile App,High
+C00175,Customer_0175,Ahmedabad,Maharashtra,Consumer,12-06-2023,Store,Medium
+C00176,Customer_0176,Hyderabad,Telangana,Small Business,17-04-2023,Email,Low
+C00177,Customer_0177,Chennai,Madhya Pradesh,Corporate,07-11-2022,Website,High
+C00178,Customer_0178,Jaipur,Bihar,Corporate,01-04-2023,Email,Medium
+C00179,Customer_0179,Hyderabad,Delhi,Corporate,01-06-2022,Email,High
+C00180,Customer_0180,Pune,Tamil Nadu,Consumer,17-01-2024,Mobile App,High
+C00181,Customer_0181,Lucknow,Maharashtra,Small Business,11-01-2023,Store,Low
+C00182,Customer_0182,Kolkata,Rajasthan,Consumer,21-02-2022,Website,Medium
+C00183,Customer_0183,Pune,Delhi,Consumer,01-12-2024,Mobile App,High
+C00184,Customer_0184,Kolkata,Rajasthan,Consumer,21-11-2021,Store,Low
+C00185,Customer_0185,Delhi,Maharashtra,Consumer,06-04-2022,Mobile App,Medium
+C00186,Customer_0186,Kolkata,Rajasthan,Small Business,07-01-2025,Website,Medium
+C00187,Customer_0187,Pune,Karnataka,Corporate,16-09-2023,Mobile App,Medium
+C00188,Customer_0188,Lucknow,Rajasthan,Small Business,26-01-2022,Mobile App,Low
+C00189,Customer_0189,Chennai,Telangana,Small Business,20-07-2022,Website,Low
+C00190,Customer_0190,Bhopal,West Bengal,Small Business,03-08-2022,Store,Low
+C00191,Customer_0191,Jaipur,Maharashtra,Corporate,04-07-2023,Website,High
+C00192,Customer_0192,Jaipur,Tamil Nadu,Corporate,12-04-2025,Website,Low
+C00193,Customer_0193,Bengaluru,Uttar Pradesh,Corporate,29-11-2024,Mobile App,Medium
+C00194,Customer_0194,Hyderabad,Madhya Pradesh,Corporate,31-03-2021,Store,Medium
+C00195,Customer_0195,Ahmedabad,Maharashtra,Corporate,21-09-2024,Email,Low
+C00196,Customer_0196,Lucknow,Telangana,Consumer,26-10-2023,Store,Low
+C00197,Customer_0197,Pune,Bihar,Small Business,14-12-2023,Mobile App,Medium
+C00198,Customer_0198,Mumbai,Delhi,Corporate,02-09-2024,Website,Medium
+C00199,Customer_0199,Bhopal,Tamil Nadu,Small Business,30-06-2024,Email,Medium
+C00200,Customer_0200,Jaipur,Tamil Nadu,Corporate,13-10-2024,Store,High
+C00201,Customer_0201,Lucknow,Delhi,Consumer,15-03-2021,Website,Low
+C00202,Customer_0202,Delhi,Tamil Nadu,Consumer,10-03-2025,Email,Medium
+C00203,Customer_0203,Bhopal,West Bengal,Consumer,07-12-2021,Email,Medium
+C00204,Customer_0204,Patna,West Bengal,Corporate,19-06-2025,Website,Medium
+C00205,Customer_0205,Bengaluru,Rajasthan,Corporate,26-10-2021,Mobile App,Low
+C00206,Customer_0206,Delhi,Uttar Pradesh,Corporate,25-12-2021,Mobile App,Medium
+C00207,Customer_0207,Mumbai,Karnataka,Corporate,09-04-2024,Website,Medium
+C00208,Customer_0208,Ahmedabad,Bihar,Corporate,07-06-2022,Website,High
+C00209,Customer_0209,Mumbai,Delhi,Corporate,25-01-2024,Website,High
+C00210,Customer_0210,Ahmedabad,Tamil Nadu,Small Business,05-09-2022,Website,Medium
+C00211,Customer_0211,Bengaluru,Tamil Nadu,Corporate,11-09-2022,Email,Low
+C00212,Customer_0212,Lucknow,Telangana,Small Business,21-02-2023,Website,High
+C00213,Customer_0213,Patna,Gujarat,Corporate,28-08-2022,Website,Low
+C00214,Customer_0214,Ahmedabad,Madhya Pradesh,Consumer,05-03-2024,Store,Medium
+C00215,Customer_0215,Bengaluru,Uttar Pradesh,Corporate,08-05-2025,Mobile App,High
+C00216,Customer_0216,Lucknow,West Bengal,Small Business,25-01-2022,Mobile App,High
+C00217,Customer_0217,Ahmedabad,Gujarat,Consumer,18-07-2021,Website,Medium
+C00218,Customer_0218,Lucknow,Telangana,Small Business,10-03-2021,Mobile App,Low
+C00219,Customer_0219,Hyderabad,Madhya Pradesh,Corporate,28-08-2022,Mobile App,Low
+C00220,Customer_0220,Jaipur,Telangana,Small Business,28-09-2021,Website,Low
+C00221,Customer_0221,Pune,West Bengal,Small Business,11-06-2022,Website,Low
+C00222,Customer_0222,Delhi,Maharashtra,Consumer,18-08-2023,Store,High
+C00223,Customer_0223,Delhi,Tamil Nadu,Consumer,20-01-2023,Website,High
+C00224,Customer_0224,Pune,Telangana,Small Business,11-09-2021,Website,High
+C00225,Customer_0225,Ahmedabad,Telangana,Consumer,20-02-2023,Mobile App,Medium
+C00226,Customer_0226,Lucknow,Rajasthan,Corporate,21-02-2021,Mobile App,High
+C00227,Customer_0227,Ahmedabad,Maharashtra,Small Business,10-05-2021,Website,High
+C00228,Customer_0228,Delhi,Maharashtra,Consumer,17-04-2023,Email,Medium
+C00229,Customer_0229,Delhi,Delhi,Consumer,06-10-2023,Mobile App,Medium
+C00230,Customer_0230,Hyderabad,Gujarat,Small Business,19-07-2023,Store,High
+C00231,Customer_0231,Bhopal,Maharashtra,Corporate,01-03-2025,Email,Medium
+C00232,Customer_0232,Chennai,West Bengal,Consumer,14-06-2024,Website,Low
+C00233,Customer_0233,Pune,Karnataka,Corporate,28-06-2023,Email,High
+C00234,Customer_0234,Jaipur,Gujarat,Corporate,23-01-2023,Email,Medium
+C00235,Customer_0235,Bengaluru,Delhi,Corporate,20-07-2022,Email,High
+C00236,Customer_0236,Ahmedabad,Gujarat,Small Business,11-03-2022,Email,Low
+C00237,Customer_0237,Hyderabad,Karnataka,Consumer,31-05-2025,Mobile App,Low
+C00238,Customer_0238,Jaipur,Karnataka,Small Business,27-08-2025,Mobile App,Low
+C00239,Customer_0239,Mumbai,Uttar Pradesh,Consumer,04-11-2022,Website,Low
+C00240,Customer_0240,Jaipur,West Bengal,Consumer,24-09-2021,Email,High
+C00241,Customer_0241,Mumbai,Bihar,Corporate,22-02-2021,Mobile App,High
+C00242,Customer_0242,Patna,Maharashtra,Corporate,26-10-2022,Email,Low
+C00243,Customer_0243,Chennai,Rajasthan,Consumer,28-02-2025,Email,Medium
+C00244,Customer_0244,Hyderabad,Rajasthan,Small Business,08-07-2023,Email,Medium
+C00245,Customer_0245,Bengaluru,Uttar Pradesh,Consumer,29-10-2023,Website,Medium
+C00246,Customer_0246,Patna,Bihar,Corporate,10-08-2024,Store,Medium
+C00247,Customer_0247,Delhi,Maharashtra,Small Business,06-11-2024,Store,Low
+C00248,Customer_0248,Hyderabad,Uttar Pradesh,Consumer,15-06-2021,Email,Low
+C00249,Customer_0249,Lucknow,Gujarat,Small Business,18-07-2022,Website,Medium
+C00250,Customer_0250,Jaipur,West Bengal,Corporate,08-05-2024,Store,Low
+C00251,Customer_0251,Bhopal,Delhi,Small Business,13-06-2025,Mobile App,Medium
+C00252,Customer_0252,Bengaluru,Tamil Nadu,Corporate,14-07-2023,Store,Medium
+C00253,Customer_0253,Bhopal,Delhi,Corporate,02-05-2023,Store,Medium
+C00254,Customer_0254,Kolkata,Telangana,Consumer,24-09-2024,Store,Low
+C00255,Customer_0255,Delhi,Delhi,Corporate,06-07-2021,Email,High
+C00256,Customer_0256,Hyderabad,Maharashtra,Small Business,22-02-2025,Email,High
+C00257,Customer_0257,Jaipur,Telangana,Small Business,25-02-2024,Email,Medium
+C00258,Customer_0258,Ahmedabad,Tamil Nadu,Small Business,26-12-2022,Email,Medium
+C00259,Customer_0259,Kolkata,Telangana,Consumer,14-05-2024,Mobile App,Low
+C00260,Customer_0260,Pune,Karnataka,Consumer,06-09-2024,Website,High
+C00261,Customer_0261,Delhi,West Bengal,Small Business,23-01-2023,Mobile App,Medium
+C00262,Customer_0262,Lucknow,Uttar Pradesh,Small Business,23-02-2024,Email,High
+C00263,Customer_0263,Bhopal,West Bengal,Consumer,09-09-2024,Mobile App,Medium
+C00264,Customer_0264,Kolkata,Telangana,Corporate,10-12-2024,Email,Low
+C00265,Customer_0265,Lucknow,Gujarat,Corporate,21-10-2021,Email,Low
+C00266,Customer_0266,Ahmedabad,Bihar,Consumer,26-02-2025,Mobile App,Medium
+C00267,Customer_0267,Pune,Telangana,Consumer,10-05-2023,Website,Medium
+C00268,Customer_0268,Hyderabad,Uttar Pradesh,Small Business,17-01-2025,Email,Low
+C00269,Customer_0269,Mumbai,Uttar Pradesh,Consumer,15-11-2021,Email,Medium
+C00270,Customer_0270,Ahmedabad,Tamil Nadu,Corporate,27-06-2023,Store,Medium
+C00271,Customer_0271,Bengaluru,Rajasthan,Consumer,14-07-2022,Website,Medium
+C00272,Customer_0272,Kolkata,Gujarat,Small Business,16-08-2021,Store,High
+C00273,Customer_0273,Kolkata,Bihar,Consumer,28-09-2024,Store,High
+C00274,Customer_0274,Patna,Karnataka,Corporate,23-04-2021,Mobile App,Low
+C00275,Customer_0275,Kolkata,West Bengal,Corporate,15-04-2025,Email,Low
+C00276,Customer_0276,Bhopal,Tamil Nadu,Consumer,16-10-2023,Mobile App,Medium
+C00277,Customer_0277,Bhopal,Karnataka,Small Business,27-12-2023,Website,Low
+C00278,Customer_0278,Bhopal,Bihar,Corporate,25-03-2023,Email,Medium
+C00279,Customer_0279,Hyderabad,Uttar Pradesh,Corporate,09-06-2021,Store,High
+C00280,Customer_0280,Chennai,West Bengal,Consumer,04-08-2024,Store,Low
+C00281,Customer_0281,Mumbai,Uttar Pradesh,Corporate,28-10-2022,Website,Low
+C00282,Customer_0282,Delhi,Karnataka,Corporate,14-06-2023,Store,High
+C00283,Customer_0283,Chennai,West Bengal,Small Business,11-06-2021,Website,Low
+C00284,Customer_0284,Mumbai,Delhi,Small Business,14-11-2022,Email,High
+C00285,Customer_0285,Bengaluru,Telangana,Corporate,11-11-2023,Mobile App,Low
+C00286,Customer_0286,Mumbai,West Bengal,Consumer,30-07-2021,Mobile App,High
+C00287,Customer_0287,Ahmedabad,Delhi,Consumer,10-11-2021,Store,Medium
+C00288,Customer_0288,Lucknow,Uttar Pradesh,Corporate,26-03-2025,Website,High
+C00289,Customer_0289,Mumbai,Maharashtra,Consumer,10-10-2022,Store,Medium
+C00290,Customer_0290,Kolkata,West Bengal,Small Business,17-07-2024,Email,Medium
+C00291,Customer_0291,Delhi,West Bengal,Corporate,06-11-2023,Store,Low
+C00292,Customer_0292,Hyderabad,West Bengal,Consumer,27-04-2021,Email,High
+C00293,Customer_0293,Jaipur,Tamil Nadu,Corporate,01-05-2024,Email,Medium
+C00294,Customer_0294,Lucknow,Gujarat,Consumer,17-07-2025,Website,High
+C00295,Customer_0295,Jaipur,Maharashtra,Consumer,02-09-2023,Store,Low
+C00296,Customer_0296,Hyderabad,Madhya Pradesh,Consumer,19-07-2025,Mobile App,Low
+C00297,Customer_0297,Bhopal,Maharashtra,Corporate,23-05-2022,Mobile App,Medium
+C00298,Customer_0298,Kolkata,Tamil Nadu,Corporate,03-02-2023,Website,High
+C00299,Customer_0299,Patna,Gujarat,Small Business,09-05-2024,Website,Low
+C00300,Customer_0300,Delhi,Rajasthan,Small Business,07-11-2022,Store,Medium
+C00301,Customer_0301,Bhopal,Gujarat,Small Business,01-06-2022,Mobile App,Medium
+C00302,Customer_0302,Lucknow,Gujarat,Consumer,16-06-2021,Website,Medium
+C00303,Customer_0303,Bhopal,Gujarat,Corporate,05-09-2024,Mobile App,High
+C00304,Customer_0304,Delhi,West Bengal,Small Business,22-12-2024,Store,High
+C00305,Customer_0305,Hyderabad,Maharashtra,Small Business,10-06-2025,Email,High
+C00306,Customer_0306,Chennai,Rajasthan,Corporate,05-10-2024,Email,Medium
+C00307,Customer_0307,Mumbai,Karnataka,Corporate,25-09-2022,Store,Low
+C00308,Customer_0308,Mumbai,Maharashtra,Consumer,09-04-2022,Website,Low
+C00309,Customer_0309,Jaipur,Madhya Pradesh,Small Business,06-11-2023,Email,High
+C00310,Customer_0310,Lucknow,Maharashtra,Small Business,21-11-2022,Store,Low
+C00311,Customer_0311,Mumbai,Madhya Pradesh,Small Business,29-11-2021,Mobile App,High
+C00312,Customer_0312,Patna,Tamil Nadu,Corporate,16-06-2023,Mobile App,Medium
+C00313,Customer_0313,Kolkata,Madhya Pradesh,Corporate,04-06-2024,Mobile App,High
+C00314,Customer_0314,Kolkata,Maharashtra,Consumer,05-05-2022,Website,High
+C00315,Customer_0315,Pune,Maharashtra,Corporate,14-03-2024,Store,High
+C00316,Customer_0316,Chennai,Maharashtra,Consumer,17-12-2023,Mobile App,Medium
+C00317,Customer_0317,Ahmedabad,Maharashtra,Corporate,17-04-2021,Email,High
+C00318,Customer_0318,Delhi,West Bengal,Consumer,23-11-2023,Mobile App,Medium
+C00319,Customer_0319,Jaipur,Maharashtra,Corporate,10-07-2023,Email,Low
+C00320,Customer_0320,Pune,Telangana,Consumer,31-07-2025,Store,Low
+C00321,Customer_0321,Jaipur,Telangana,Consumer,23-03-2023,Store,Low
+C00322,Customer_0322,Bengaluru,Bihar,Corporate,07-02-2023,Email,High
+C00323,Customer_0323,Hyderabad,Maharashtra,Consumer,24-08-2024,Email,Medium
+C00324,Customer_0324,Pune,Madhya Pradesh,Consumer,27-08-2025,Store,Medium
+C00325,Customer_0325,Patna,Delhi,Consumer,14-06-2024,Website,Low
+C00326,Customer_0326,Jaipur,Madhya Pradesh,Small Business,03-11-2021,Store,Low
+C00327,Customer_0327,Kolkata,Karnataka,Corporate,09-05-2025,Email,Low
+C00328,Customer_0328,Chennai,Gujarat,Small Business,04-05-2022,Store,Low
+C00329,Customer_0329,Pune,Uttar Pradesh,Small Business,16-08-2021,Email,High
+C00330,Customer_0330,Lucknow,Karnataka,Small Business,22-11-2023,Mobile App,Medium
+C00331,Customer_0331,Patna,Uttar Pradesh,Corporate,30-05-2023,Mobile App,High
+C00332,Customer_0332,Mumbai,Gujarat,Small Business,04-05-2023,Email,High
+C00333,Customer_0333,Delhi,Rajasthan,Small Business,09-01-2023,Email,Medium
+C00334,Customer_0334,Patna,Gujarat,Corporate,21-08-2023,Website,Medium
+C00335,Customer_0335,Patna,Telangana,Consumer,11-03-2025,Website,Low
+C00336,Customer_0336,Ahmedabad,Gujarat,Consumer,10-02-2025,Website,Low
+C00337,Customer_0337,Hyderabad,Rajasthan,Corporate,01-04-2021,Mobile App,High
+C00338,Customer_0338,Bhopal,Maharashtra,Small Business,10-08-2023,Mobile App,Low
+C00339,Customer_0339,Bhopal,Maharashtra,Consumer,10-05-2021,Website,Low
+C00340,Customer_0340,Bengaluru,Bihar,Corporate,31-03-2021,Website,High
+C00341,Customer_0341,Jaipur,Maharashtra,Corporate,27-03-2023,Email,High
+C00342,Customer_0342,Kolkata,Telangana,Consumer,27-01-2022,Website,Medium
+C00343,Customer_0343,Hyderabad,Tamil Nadu,Corporate,12-09-2021,Store,Medium
+C00344,Customer_0344,Mumbai,Maharashtra,Small Business,26-11-2022,Store,Medium
+C00345,Customer_0345,Jaipur,West Bengal,Consumer,21-06-2025,Store,Low
+C00346,Customer_0346,Lucknow,Maharashtra,Small Business,01-06-2023,Website,Medium
+C00347,Customer_0347,Delhi,Telangana,Small Business,30-07-2021,Website,Medium
+C00348,Customer_0348,Lucknow,Madhya Pradesh,Corporate,03-07-2023,Mobile App,High
+C00349,Customer_0349,Hyderabad,Maharashtra,Consumer,29-06-2023,Website,High
+C00350,Customer_0350,Kolkata,Gujarat,Consumer,10-06-2023,Email,High
+C00351,Customer_0351,Chennai,Telangana,Small Business,29-07-2024,Mobile App,Low
+C00352,Customer_0352,Lucknow,Gujarat,Corporate,20-10-2021,Email,Low
+C00353,Customer_0353,Bengaluru,Gujarat,Corporate,18-05-2021,Website,Medium
+C00354,Customer_0354,Patna,Uttar Pradesh,Consumer,07-03-2024,Store,Medium
+C00355,Customer_0355,Pune,Delhi,Small Business,01-02-2023,Mobile App,High
+C00356,Customer_0356,Chennai,Telangana,Small Business,22-01-2023,Website,Low
+C00357,Customer_0357,Patna,Madhya Pradesh,Consumer,21-08-2021,Store,High
+C00358,Customer_0358,Jaipur,Delhi,Corporate,04-03-2023,Website,High
+C00359,Customer_0359,Bengaluru,Uttar Pradesh,Corporate,03-07-2023,Store,Low
+C00360,Customer_0360,Mumbai,Delhi,Corporate,09-09-2021,Mobile App,High
+C00361,Customer_0361,Delhi,Gujarat,Corporate,01-07-2023,Website,High
+C00362,Customer_0362,Jaipur,Rajasthan,Corporate,13-05-2021,Website,Low
+C00363,Customer_0363,Bhopal,Madhya Pradesh,Small Business,28-12-2024,Mobile App,Medium
+C00364,Customer_0364,Bengaluru,Delhi,Consumer,08-11-2023,Mobile App,Low
+C00365,Customer_0365,Pune,Bihar,Corporate,07-06-2025,Website,Medium
+C00366,Customer_0366,Jaipur,Maharashtra,Small Business,04-07-2025,Email,Low
+C00367,Customer_0367,Chennai,Madhya Pradesh,Small Business,26-09-2022,Store,High
+C00368,Customer_0368,Chennai,Uttar Pradesh,Consumer,22-04-2023,Mobile App,Medium
+C00369,Customer_0369,Delhi,Maharashtra,Corporate,08-08-2024,Website,Low
+C00370,Customer_0370,Jaipur,Gujarat,Small Business,25-08-2025,Mobile App,Low
+C00371,Customer_0371,Jaipur,Bihar,Consumer,06-06-2023,Mobile App,Medium
+C00372,Customer_0372,Mumbai,Telangana,Small Business,04-12-2021,Mobile App,Medium
+C00373,Customer_0373,Kolkata,Delhi,Corporate,29-11-2023,Mobile App,High
+C00374,Customer_0374,Kolkata,Maharashtra,Small Business,03-02-2024,Website,High
+C00375,Customer_0375,Delhi,Rajasthan,Small Business,29-12-2023,Mobile App,High
+C00376,Customer_0376,Mumbai,Maharashtra,Small Business,04-04-2024,Website,High
+C00377,Customer_0377,Patna,Delhi,Consumer,26-03-2021,Website,High
+C00378,Customer_0378,Lucknow,Tamil Nadu,Small Business,08-03-2022,Email,Medium
+C00379,Customer_0379,Jaipur,West Bengal,Small Business,08-07-2024,Website,Medium
+C00380,Customer_0380,Ahmedabad,Tamil Nadu,Corporate,17-05-2022,Store,Low
+C00381,Customer_0381,Patna,Maharashtra,Corporate,11-11-2024,Store,Medium
+C00382,Customer_0382,Bengaluru,Telangana,Small Business,10-08-2023,Mobile App,Medium
+C00383,Customer_0383,Hyderabad,Madhya Pradesh,Corporate,11-01-2025,Store,Low
+C00384,Customer_0384,Hyderabad,Rajasthan,Small Business,07-04-2025,Email,Medium
+C00385,Customer_0385,Pune,Delhi,Corporate,11-05-2022,Store,Low
+C00386,Customer_0386,Delhi,Bihar,Corporate,16-10-2021,Store,High
+C00387,Customer_0387,Bengaluru,Maharashtra,Corporate,07-05-2023,Website,Low
+C00388,Customer_0388,Mumbai,Maharashtra,Small Business,12-04-2025,Store,Medium
+C00389,Customer_0389,Pune,Bihar,Consumer,24-09-2022,Store,High
+C00390,Customer_0390,Bengaluru,Karnataka,Small Business,26-07-2023,Website,Low
+C00391,Customer_0391,Kolkata,Maharashtra,Small Business,14-04-2021,Store,Medium
+C00392,Customer_0392,Patna,Delhi,Corporate,05-01-2024,Mobile App,Medium
+C00393,Customer_0393,Hyderabad,Tamil Nadu,Corporate,29-01-2025,Email,Medium
+C00394,Customer_0394,Lucknow,Rajasthan,Consumer,15-04-2021,Website,High
+C00395,Customer_0395,Delhi,Tamil Nadu,Small Business,15-08-2022,Store,High
+C00396,Customer_0396,Lucknow,Gujarat,Small Business,27-07-2022,Email,Low
+C00397,Customer_0397,Chennai,Telangana,Corporate,18-07-2021,Website,Low
+C00398,Customer_0398,Lucknow,Rajasthan,Corporate,12-02-2022,Email,Low
+C00399,Customer_0399,Mumbai,Madhya Pradesh,Corporate,21-03-2021,Store,High
+C00400,Customer_0400,Mumbai,Uttar Pradesh,Small Business,25-07-2023,Mobile App,Medium
+C00401,Customer_0401,Hyderabad,Maharashtra,Corporate,09-06-2024,Website,High
+C00402,Customer_0402,Jaipur,Rajasthan,Small Business,20-11-2022,Store,High
+C00403,Customer_0403,Kolkata,Maharashtra,Consumer,27-02-2024,Website,Medium
+C00404,Customer_0404,Delhi,Tamil Nadu,Small Business,11-10-2024,Website,High
+C00405,Customer_0405,Ahmedabad,Bihar,Small Business,10-11-2024,Store,Medium
+C00406,Customer_0406,Lucknow,Uttar Pradesh,Consumer,04-09-2024,Email,High
+C00407,Customer_0407,Mumbai,Rajasthan,Small Business,11-09-2023,Store,Low
+C00408,Customer_0408,Ahmedabad,Karnataka,Consumer,10-08-2025,Email,Low
+C00409,Customer_0409,Pune,Telangana,Corporate,08-02-2021,Mobile App,Medium
+C00410,Customer_0410,Bengaluru,Tamil Nadu,Small Business,15-11-2024,Store,High
+C00411,Customer_0411,Patna,Madhya Pradesh,Consumer,29-01-2025,Mobile App,High
+C00412,Customer_0412,Ahmedabad,Maharashtra,Small Business,28-10-2022,Store,Medium
+C00413,Customer_0413,Pune,Rajasthan,Corporate,21-12-2021,Website,High
+C00414,Customer_0414,Bhopal,Gujarat,Small Business,01-05-2025,Website,High
+C00415,Customer_0415,Bengaluru,Karnataka,Corporate,19-09-2023,Website,Low
+C00416,Customer_0416,Kolkata,Madhya Pradesh,Consumer,02-09-2022,Store,Medium
+C00417,Customer_0417,Hyderabad,Rajasthan,Small Business,10-09-2023,Website,Medium
+C00418,Customer_0418,Lucknow,Gujarat,Small Business,07-09-2021,Store,Medium
+C00419,Customer_0419,Hyderabad,Maharashtra,Corporate,04-08-2025,Email,Medium
+C00420,Customer_0420,Delhi,Telangana,Corporate,02-01-2025,Website,High
+C00421,Customer_0421,Bengaluru,Karnataka,Small Business,09-09-2023,Website,High
+C00422,Customer_0422,Kolkata,Maharashtra,Consumer,26-11-2024,Mobile App,Low
+C00423,Customer_0423,Ahmedabad,Rajasthan,Consumer,14-04-2021,Mobile App,Low
+C00424,Customer_0424,Chennai,Telangana,Small Business,25-07-2021,Store,Low
+C00425,Customer_0425,Mumbai,Bihar,Small Business,27-10-2024,Mobile App,Medium
+C00426,Customer_0426,Pune,Maharashtra,Small Business,30-08-2024,Mobile App,Medium
+C00427,Customer_0427,Kolkata,Gujarat,Consumer,20-10-2022,Email,High
+C00428,Customer_0428,Bengaluru,Rajasthan,Small Business,21-03-2024,Email,Low
+C00429,Customer_0429,Mumbai,Bihar,Corporate,06-05-2023,Store,Low
+C00430,Customer_0430,Kolkata,Bihar,Consumer,14-03-2025,Website,High
+C00431,Customer_0431,Delhi,Telangana,Corporate,19-05-2024,Store,High
+C00432,Customer_0432,Jaipur,Maharashtra,Consumer,18-01-2024,Store,Medium
+C00433,Customer_0433,Delhi,Telangana,Consumer,30-01-2022,Store,High
+C00434,Customer_0434,Bhopal,Maharashtra,Consumer,11-06-2022,Website,Medium
+C00435,Customer_0435,Ahmedabad,Karnataka,Consumer,08-03-2024,Store,Medium
+C00436,Customer_0436,Hyderabad,Delhi,Corporate,22-11-2023,Email,Low
+C00437,Customer_0437,Pune,Telangana,Consumer,15-10-2021,Email,Medium
+C00438,Customer_0438,Bengaluru,Maharashtra,Corporate,25-02-2023,Website,Medium
+C00439,Customer_0439,Bhopal,Uttar Pradesh,Consumer,07-04-2024,Website,High
+C00440,Customer_0440,Bhopal,Karnataka,Consumer,07-01-2023,Email,Medium
+C00441,Customer_0441,Mumbai,Tamil Nadu,Small Business,21-09-2022,Website,High
+C00442,Customer_0442,Ahmedabad,West Bengal,Corporate,29-08-2021,Mobile App,Low
+C00443,Customer_0443,Pune,Maharashtra,Corporate,01-10-2021,Website,Medium
+C00444,Customer_0444,Jaipur,Maharashtra,Small Business,08-12-2024,Mobile App,Low
+C00445,Customer_0445,Lucknow,Delhi,Small Business,25-10-2024,Store,High
+C00446,Customer_0446,Hyderabad,Delhi,Small Business,12-12-2024,Email,Low
+C00447,Customer_0447,Jaipur,Rajasthan,Consumer,25-08-2025,Mobile App,Low
+C00448,Customer_0448,Jaipur,Maharashtra,Consumer,03-11-2022,Mobile App,High
+C00449,Customer_0449,Pune,Delhi,Small Business,09-04-2024,Store,Low
+C00450,Customer_0450,Mumbai,Rajasthan,Corporate,18-07-2023,Store,High
+C00451,Customer_0451,Jaipur,Maharashtra,Small Business,29-04-2021,Website,High
+C00452,Customer_0452,Chennai,West Bengal,Consumer,14-02-2021,Mobile App,High
+C00453,Customer_0453,Patna,Tamil Nadu,Corporate,30-05-2021,Email,High
+C00454,Customer_0454,Delhi,Maharashtra,Consumer,04-05-2021,Website,Medium
+C00455,Customer_0455,Mumbai,Gujarat,Small Business,04-01-2022,Store,Medium
+C00456,Customer_0456,Pune,Tamil Nadu,Corporate,23-02-2023,Email,High
+C00457,Customer_0457,Jaipur,Maharashtra,Small Business,17-09-2024,Website,Low
+C00458,Customer_0458,Jaipur,Tamil Nadu,Small Business,01-01-2022,Mobile App,High
+C00459,Customer_0459,Patna,Bihar,Corporate,02-04-2022,Store,High
+C00460,Customer_0460,Jaipur,Tamil Nadu,Small Business,12-01-2025,Store,Low
+C00461,Customer_0461,Pune,Telangana,Consumer,22-05-2022,Website,Low
+C00462,Customer_0462,Delhi,Bihar,Small Business,24-01-2025,Store,High
+C00463,Customer_0463,Patna,Karnataka,Consumer,18-04-2025,Email,Low
+C00464,Customer_0464,Patna,Maharashtra,Small Business,01-05-2024,Email,Low
+C00465,Customer_0465,Patna,Tamil Nadu,Corporate,25-02-2025,Mobile App,High
+C00466,Customer_0466,Patna,Maharashtra,Small Business,21-03-2022,Website,Low
+C00467,Customer_0467,Bhopal,Uttar Pradesh,Corporate,29-07-2025,Website,Low
+C00468,Customer_0468,Mumbai,Gujarat,Small Business,11-09-2022,Mobile App,Medium
+C00469,Customer_0469,Kolkata,Bihar,Small Business,08-09-2022,Mobile App,High
+C00470,Customer_0470,Chennai,Rajasthan,Corporate,22-10-2024,Email,Medium
+C00471,Customer_0471,Ahmedabad,Tamil Nadu,Small Business,10-08-2024,Website,High
+C00472,Customer_0472,Chennai,Maharashtra,Corporate,03-05-2023,Store,Low
+C00473,Customer_0473,Jaipur,Maharashtra,Consumer,26-03-2025,Mobile App,Medium
+C00474,Customer_0474,Mumbai,Maharashtra,Consumer,20-12-2024,Store,Medium
+C00475,Customer_0475,Jaipur,Maharashtra,Corporate,16-02-2024,Mobile App,Medium
+C00476,Customer_0476,Hyderabad,Gujarat,Consumer,21-02-2022,Store,Medium
+C00477,Customer_0477,Jaipur,Madhya Pradesh,Consumer,09-07-2021,Email,Medium
+C00478,Customer_0478,Ahmedabad,Uttar Pradesh,Small Business,12-02-2023,Email,Low
+C00479,Customer_0479,Lucknow,Madhya Pradesh,Small Business,21-01-2022,Mobile App,Medium
+C00480,Customer_0480,Hyderabad,West Bengal,Consumer,04-03-2022,Mobile App,Low
+C00481,Customer_0481,Delhi,Madhya Pradesh,Corporate,27-02-2025,Mobile App,High
+C00482,Customer_0482,Bhopal,Karnataka,Corporate,22-05-2024,Mobile App,High
+C00483,Customer_0483,Kolkata,Tamil Nadu,Corporate,21-10-2022,Website,Medium
+C00484,Customer_0484,Hyderabad,Rajasthan,Corporate,20-06-2022,Store,Low
+C00485,Customer_0485,Bhopal,Maharashtra,Corporate,03-07-2025,Mobile App,Medium
+C00486,Customer_0486,Chennai,Bihar,Small Business,03-10-2022,Mobile App,High
+C00487,Customer_0487,Patna,West Bengal,Small Business,26-10-2021,Store,Medium
+C00488,Customer_0488,Bengaluru,Telangana,Consumer,09-11-2021,Store,High
+C00489,Customer_0489,Pune,Rajasthan,Small Business,19-05-2022,Website,Medium
+C00490,Customer_0490,Pune,Madhya Pradesh,Small Business,13-04-2025,Store,Medium
+C00491,Customer_0491,Bhopal,Telangana,Consumer,11-12-2021,Mobile App,High
+C00492,Customer_0492,Pune,Maharashtra,Small Business,25-01-2024,Email,High
+C00493,Customer_0493,Delhi,Gujarat,Consumer,11-03-2021,Email,Medium
+C00494,Customer_0494,Ahmedabad,Karnataka,Consumer,09-10-2021,Mobile App,Low
+C00495,Customer_0495,Jaipur,Maharashtra,Corporate,24-03-2022,Email,High
+C00496,Customer_0496,Ahmedabad,Uttar Pradesh,Corporate,30-07-2024,Store,Low
+C00497,Customer_0497,Jaipur,Rajasthan,Corporate,14-01-2021,Email,Low
+C00498,Customer_0498,Bhopal,West Bengal,Small Business,21-12-2023,Website,Low
+C00499,Customer_0499,Bhopal,Gujarat,Corporate,26-10-2023,Mobile App,Low
+C00500,Customer_0500,Jaipur,Maharashtra,Consumer,17-07-2021,Mobile App,High
+C00501,Customer_0501,Kolkata,Telangana,Corporate,15-12-2023,Store,Low
+C00502,Customer_0502,Chennai,Maharashtra,Small Business,04-02-2023,Mobile App,High
+C00503,Customer_0503,Kolkata,Gujarat,Consumer,08-04-2022,Email,Low
+C00504,Customer_0504,Chennai,Tamil Nadu,Small Business,11-04-2023,Store,Low
+C00505,Customer_0505,Patna,Madhya Pradesh,Consumer,28-07-2024,Email,Medium
+C00506,Customer_0506,Ahmedabad,Telangana,Small Business,08-06-2023,Email,High
+C00507,Customer_0507,Bengaluru,Karnataka,Small Business,29-03-2021,Store,Medium
+C00508,Customer_0508,Delhi,Gujarat,Corporate,06-04-2021,Email,Low
+C00509,Customer_0509,Patna,Karnataka,Small Business,07-10-2022,Mobile App,High
+C00510,Customer_0510,Chennai,Delhi,Corporate,09-08-2025,Mobile App,High
+C00511,Customer_0511,Lucknow,Tamil Nadu,Small Business,08-05-2022,Website,Medium
+C00512,Customer_0512,Bhopal,Maharashtra,Small Business,28-03-2025,Email,High
+C00513,Customer_0513,Hyderabad,Bihar,Consumer,07-03-2025,Store,Low
+C00514,Customer_0514,Hyderabad,Uttar Pradesh,Small Business,05-06-2021,Store,Medium
+C00515,Customer_0515,Ahmedabad,West Bengal,Corporate,02-03-2021,Store,Low
+C00516,Customer_0516,Jaipur,Tamil Nadu,Corporate,30-12-2022,Mobile App,High
+C00517,Customer_0517,Ahmedabad,Tamil Nadu,Consumer,14-04-2024,Website,Low
+C00518,Customer_0518,Delhi,Delhi,Corporate,31-12-2024,Mobile App,Medium
+C00519,Customer_0519,Ahmedabad,Maharashtra,Small Business,28-12-2024,Store,Medium
+C00520,Customer_0520,Delhi,Delhi,Consumer,09-01-2023,Website,Medium
+C00521,Customer_0521,Kolkata,Delhi,Consumer,08-01-2023,Email,Low
+C00522,Customer_0522,Pune,Rajasthan,Small Business,02-06-2023,Store,Low
+C00523,Customer_0523,Delhi,Telangana,Small Business,23-02-2021,Email,High
+C00524,Customer_0524,Hyderabad,Tamil Nadu,Consumer,09-05-2024,Website,Medium
+C00525,Customer_0525,Delhi,Madhya Pradesh,Small Business,06-03-2023,Mobile App,High
+C00526,Customer_0526,Mumbai,Gujarat,Corporate,04-12-2023,Mobile App,Low
+C00527,Customer_0527,Kolkata,West Bengal,Corporate,05-07-2022,Mobile App,Low
+C00528,Customer_0528,Chennai,West Bengal,Corporate,09-12-2021,Website,Medium
+C00529,Customer_0529,Delhi,Telangana,Corporate,22-05-2025,Mobile App,High
+C00530,Customer_0530,Pune,Uttar Pradesh,Small Business,04-07-2024,Mobile App,Medium
+C00531,Customer_0531,Mumbai,West Bengal,Consumer,08-08-2021,Store,Medium
+C00532,Customer_0532,Chennai,Telangana,Corporate,24-06-2024,Website,Medium
+C00533,Customer_0533,Ahmedabad,Uttar Pradesh,Consumer,29-07-2025,Website,Medium
+C00534,Customer_0534,Bhopal,Karnataka,Corporate,20-05-2024,Website,Low
+C00535,Customer_0535,Hyderabad,West Bengal,Small Business,27-03-2023,Store,High
+C00536,Customer_0536,Bengaluru,Telangana,Corporate,21-05-2025,Website,Medium
+C00537,Customer_0537,Delhi,Uttar Pradesh,Consumer,18-01-2023,Mobile App,High
+C00538,Customer_0538,Jaipur,Bihar,Small Business,22-04-2025,Store,High
+C00539,Customer_0539,Pune,West Bengal,Small Business,06-03-2022,Email,Medium
+C00540,Customer_0540,Pune,Maharashtra,Small Business,10-10-2024,Website,Low
+C00541,Customer_0541,Ahmedabad,Maharashtra,Small Business,02-06-2022,Store,Medium
+C00542,Customer_0542,Pune,Uttar Pradesh,Corporate,01-06-2021,Store,High
+C00543,Customer_0543,Bhopal,Tamil Nadu,Small Business,04-11-2023,Email,Medium
+C00544,Customer_0544,Jaipur,Uttar Pradesh,Small Business,07-12-2024,Email,Low
+C00545,Customer_0545,Bengaluru,Gujarat,Small Business,24-04-2025,Website,Low
+C00546,Customer_0546,Lucknow,Bihar,Small Business,18-08-2024,Store,Medium
+C00547,Customer_0547,Chennai,Delhi,Consumer,19-06-2025,Email,Medium
+C00548,Customer_0548,Jaipur,Madhya Pradesh,Small Business,31-03-2022,Mobile App,Medium
+C00549,Customer_0549,Chennai,Maharashtra,Small Business,06-02-2023,Mobile App,Medium
+C00550,Customer_0550,Pune,Delhi,Corporate,20-02-2021,Store,Low
+C00551,Customer_0551,Bhopal,Maharashtra,Corporate,26-08-2021,Website,Medium
+C00552,Customer_0552,Bengaluru,Rajasthan,Corporate,22-07-2023,Website,Medium
+C00553,Customer_0553,Pune,Madhya Pradesh,Small Business,19-07-2021,Store,Medium
+C00554,Customer_0554,Kolkata,Bihar,Small Business,18-05-2021,Email,Low
+C00555,Customer_0555,Ahmedabad,Delhi,Small Business,04-12-2022,Mobile App,High
+C00556,Customer_0556,Jaipur,Maharashtra,Small Business,15-05-2022,Mobile App,Medium
+C00557,Customer_0557,Chennai,Maharashtra,Consumer,21-02-2024,Store,High
+C00558,Customer_0558,Mumbai,Gujarat,Small Business,13-01-2022,Store,Medium
+C00559,Customer_0559,Bhopal,Uttar Pradesh,Consumer,01-03-2021,Store,High
+C00560,Customer_0560,Chennai,Bihar,Small Business,30-05-2023,Mobile App,Low
+C00561,Customer_0561,Bhopal,Delhi,Small Business,25-07-2022,Email,High
+C00562,Customer_0562,Hyderabad,Telangana,Consumer,18-01-2022,Store,Low
+C00563,Customer_0563,Ahmedabad,Maharashtra,Small Business,22-06-2022,Website,High
+C00564,Customer_0564,Lucknow,Tamil Nadu,Small Business,07-03-2023,Email,Medium
+C00565,Customer_0565,Pune,Uttar Pradesh,Consumer,22-12-2022,Website,High
+C00566,Customer_0566,Delhi,Gujarat,Consumer,23-04-2024,Website,Low
+C00567,Customer_0567,Kolkata,Delhi,Consumer,04-05-2022,Website,High
+C00568,Customer_0568,Jaipur,Tamil Nadu,Corporate,17-10-2021,Mobile App,High
+C00569,Customer_0569,Chennai,Maharashtra,Corporate,25-02-2023,Mobile App,High
+C00570,Customer_0570,Pune,West Bengal,Consumer,08-12-2021,Mobile App,Medium
+C00571,Customer_0571,Lucknow,Bihar,Corporate,13-07-2023,Email,Medium
+C00572,Customer_0572,Bengaluru,Tamil Nadu,Small Business,07-10-2021,Store,Medium
+C00573,Customer_0573,Pune,Tamil Nadu,Small Business,03-11-2024,Store,Medium
+C00574,Customer_0574,Delhi,Uttar Pradesh,Consumer,09-12-2021,Mobile App,Medium
+C00575,Customer_0575,Kolkata,Karnataka,Small Business,08-03-2021,Website,Low
+C00576,Customer_0576,Pune,Uttar Pradesh,Small Business,18-05-2025,Store,High
+C00577,Customer_0577,Delhi,Uttar Pradesh,Consumer,13-11-2023,Website,High
+C00578,Customer_0578,Hyderabad,Rajasthan,Consumer,14-08-2025,Store,High
+C00579,Customer_0579,Chennai,Delhi,Small Business,24-03-2022,Mobile App,Medium
+C00580,Customer_0580,Pune,West Bengal,Corporate,08-03-2021,Email,Medium
+C00581,Customer_0581,Bengaluru,Karnataka,Small Business,29-08-2021,Website,High
+C00582,Customer_0582,Ahmedabad,Tamil Nadu,Consumer,03-06-2024,Mobile App,Low
+C00583,Customer_0583,Bengaluru,Bihar,Small Business,25-07-2025,Website,High
+C00584,Customer_0584,Lucknow,Rajasthan,Consumer,30-07-2022,Website,High
+C00585,Customer_0585,Kolkata,Uttar Pradesh,Corporate,23-08-2022,Email,Low
+C00586,Customer_0586,Chennai,Bihar,Corporate,17-03-2025,Mobile App,High
+C00587,Customer_0587,Bengaluru,Maharashtra,Small Business,29-09-2021,Website,Low
+C00588,Customer_0588,Ahmedabad,Tamil Nadu,Corporate,09-04-2025,Mobile App,High
+C00589,Customer_0589,Kolkata,Gujarat,Corporate,19-07-2024,Store,Medium
+C00590,Customer_0590,Ahmedabad,Delhi,Corporate,04-06-2021,Website,High
+C00591,Customer_0591,Pune,Maharashtra,Corporate,26-01-2023,Email,High
+C00592,Customer_0592,Bhopal,Maharashtra,Small Business,10-07-2021,Website,Low
+C00593,Customer_0593,Jaipur,Tamil Nadu,Consumer,18-06-2025,Store,Low
+C00594,Customer_0594,Kolkata,Telangana,Corporate,11-10-2023,Website,High
+C00595,Customer_0595,Mumbai,Uttar Pradesh,Corporate,29-03-2024,Website,High
+C00596,Customer_0596,Patna,Bihar,Consumer,11-04-2025,Store,Low
+C00597,Customer_0597,Mumbai,Maharashtra,Corporate,12-09-2021,Email,Medium
+C00598,Customer_0598,Bhopal,Maharashtra,Small Business,19-02-2022,Website,Low
+C00599,Customer_0599,Delhi,Gujarat,Corporate,16-07-2022,Website,Low
+C00600,Customer_0600,Ahmedabad,Gujarat,Consumer,01-02-2023,Email,Medium
+C00601,Customer_0601,Kolkata,Madhya Pradesh,Small Business,05-07-2024,Mobile App,Medium
+C00602,Customer_0602,Delhi,Madhya Pradesh,Consumer,04-09-2024,Email,Low
+C00603,Customer_0603,Delhi,Maharashtra,Small Business,04-09-2023,Mobile App,High
+C00604,Customer_0604,Pune,Bihar,Consumer,24-10-2024,Website,Low
+C00605,Customer_0605,Bhopal,Maharashtra,Corporate,15-05-2023,Email,Low
+C00606,Customer_0606,Delhi,Madhya Pradesh,Consumer,24-02-2023,Email,Medium
+C00607,Customer_0607,Kolkata,Maharashtra,Corporate,23-01-2023,Mobile App,High
+C00608,Customer_0608,Mumbai,Delhi,Small Business,18-10-2024,Email,High
+C00609,Customer_0609,Mumbai,Maharashtra,Corporate,24-08-2024,Mobile App,High
+C00610,Customer_0610,Mumbai,Tamil Nadu,Small Business,13-03-2025,Store,Low
+C00611,Customer_0611,Delhi,Maharashtra,Consumer,27-06-2021,Store,Medium
+C00612,Customer_0612,Hyderabad,Maharashtra,Consumer,30-05-2023,Website,High
+C00613,Customer_0613,Bengaluru,Rajasthan,Small Business,22-06-2021,Website,High
+C00614,Customer_0614,Ahmedabad,West Bengal,Consumer,24-02-2021,Mobile App,High
+C00615,Customer_0615,Kolkata,Gujarat,Consumer,14-03-2023,Mobile App,Medium
+C00616,Customer_0616,Delhi,Karnataka,Corporate,02-03-2023,Email,High
+C00617,Customer_0617,Hyderabad,Telangana,Consumer,25-01-2021,Store,High
+C00618,Customer_0618,Hyderabad,Rajasthan,Small Business,12-05-2023,Mobile App,Medium
+C00619,Customer_0619,Delhi,Bihar,Small Business,27-04-2025,Email,Low
+C00620,Customer_0620,Bengaluru,Bihar,Consumer,21-06-2022,Store,High
+C00621,Customer_0621,Ahmedabad,Madhya Pradesh,Small Business,10-08-2022,Store,Medium
+C00622,Customer_0622,Chennai,Delhi,Small Business,08-12-2024,Mobile App,Medium
+C00623,Customer_0623,Kolkata,Delhi,Small Business,21-06-2021,Mobile App,Low
+C00624,Customer_0624,Hyderabad,Tamil Nadu,Small Business,04-01-2024,Email,Medium
+C00625,Customer_0625,Chennai,Madhya Pradesh,Consumer,01-12-2024,Email,Low
+C00626,Customer_0626,Chennai,Delhi,Corporate,26-06-2021,Email,Medium
+C00627,Customer_0627,Bhopal,Gujarat,Small Business,26-09-2024,Mobile App,Low
+C00628,Customer_0628,Bhopal,Maharashtra,Small Business,26-01-2021,Email,Low
+C00629,Customer_0629,Hyderabad,Rajasthan,Small Business,14-10-2023,Website,Low
+C00630,Customer_0630,Mumbai,Madhya Pradesh,Corporate,01-02-2023,Email,Low
+C00631,Customer_0631,Chennai,West Bengal,Small Business,18-11-2022,Email,Medium
+C00632,Customer_0632,Lucknow,Gujarat,Consumer,29-12-2024,Store,Medium
+C00633,Customer_0633,Hyderabad,Bihar,Corporate,13-11-2023,Mobile App,Medium
+C00634,Customer_0634,Kolkata,Delhi,Small Business,19-11-2021,Email,Low
+C00635,Customer_0635,Jaipur,Bihar,Consumer,26-02-2025,Email,Low
+C00636,Customer_0636,Pune,Telangana,Corporate,05-04-2021,Mobile App,Low
+C00637,Customer_0637,Jaipur,Madhya Pradesh,Small Business,14-03-2021,Store,Low
+C00638,Customer_0638,Bengaluru,Tamil Nadu,Small Business,22-10-2022,Website,Medium
+C00639,Customer_0639,Delhi,Uttar Pradesh,Corporate,19-08-2025,Email,High
+C00640,Customer_0640,Patna,Maharashtra,Consumer,10-10-2024,Email,Medium
+C00641,Customer_0641,Pune,West Bengal,Corporate,22-05-2021,Website,Low
+C00642,Customer_0642,Pune,Bihar,Corporate,07-02-2024,Mobile App,Medium
+C00643,Customer_0643,Kolkata,Madhya Pradesh,Small Business,29-02-2024,Mobile App,Medium
+C00644,Customer_0644,Lucknow,Maharashtra,Consumer,25-01-2023,Mobile App,Low
+C00645,Customer_0645,Chennai,Bihar,Consumer,14-01-2021,Website,High
+C00646,Customer_0646,Patna,Telangana,Consumer,21-11-2024,Store,High
+C00647,Customer_0647,Kolkata,Delhi,Consumer,29-01-2025,Mobile App,Medium
+C00648,Customer_0648,Patna,Maharashtra,Small Business,05-10-2023,Website,Low
+C00649,Customer_0649,Bengaluru,Rajasthan,Corporate,31-03-2021,Website,Medium
+C00650,Customer_0650,Delhi,Uttar Pradesh,Consumer,12-03-2025,Mobile App,High
+C00651,Customer_0651,Chennai,Delhi,Small Business,07-08-2025,Email,Medium
+C00652,Customer_0652,Mumbai,Karnataka,Corporate,18-09-2024,Website,Medium
+C00653,Customer_0653,Chennai,Madhya Pradesh,Small Business,29-06-2025,Website,Medium
+C00654,Customer_0654,Kolkata,Karnataka,Consumer,17-07-2023,Mobile App,Low
+C00655,Customer_0655,Lucknow,Delhi,Consumer,17-05-2025,Email,Low
+C00656,Customer_0656,Pune,Telangana,Corporate,10-07-2023,Email,High
+C00657,Customer_0657,Bengaluru,Maharashtra,Corporate,04-01-2023,Store,Medium
+C00658,Customer_0658,Delhi,Maharashtra,Small Business,03-09-2021,Website,High
+C00659,Customer_0659,Lucknow,Bihar,Consumer,28-11-2024,Website,Low
+C00660,Customer_0660,Bhopal,Karnataka,Corporate,06-07-2021,Store,High
+C00661,Customer_0661,Ahmedabad,West Bengal,Corporate,11-04-2021,Mobile App,Low
+C00662,Customer_0662,Pune,Rajasthan,Small Business,09-04-2023,Mobile App,Low
+C00663,Customer_0663,Delhi,Maharashtra,Consumer,05-08-2023,Email,Low
+C00664,Customer_0664,Bengaluru,Maharashtra,Consumer,28-08-2025,Store,Medium
+C00665,Customer_0665,Ahmedabad,Gujarat,Consumer,06-11-2024,Website,Low
+C00666,Customer_0666,Delhi,Karnataka,Small Business,14-02-2021,Store,Low
+C00667,Customer_0667,Hyderabad,Delhi,Consumer,08-07-2021,Store,Low
+C00668,Customer_0668,Lucknow,Tamil Nadu,Small Business,11-12-2021,Store,Medium
+C00669,Customer_0669,Chennai,Gujarat,Corporate,02-03-2021,Mobile App,Medium
+C00670,Customer_0670,Mumbai,West Bengal,Corporate,16-03-2022,Store,Low
+C00671,Customer_0671,Lucknow,Uttar Pradesh,Small Business,12-03-2021,Mobile App,High
+C00672,Customer_0672,Pune,Tamil Nadu,Small Business,28-08-2022,Store,Low
+C00673,Customer_0673,Kolkata,Tamil Nadu,Consumer,29-06-2021,Store,Low
+C00674,Customer_0674,Jaipur,Karnataka,Small Business,09-08-2024,Email,Medium
+C00675,Customer_0675,Bhopal,Telangana,Corporate,21-05-2025,Store,Medium
+C00676,Customer_0676,Jaipur,Telangana,Corporate,04-03-2024,Website,Low
+C00677,Customer_0677,Hyderabad,Uttar Pradesh,Consumer,23-02-2021,Email,Medium
+C00678,Customer_0678,Pune,Rajasthan,Corporate,30-04-2021,Mobile App,Low
+C00679,Customer_0679,Bengaluru,Gujarat,Consumer,25-07-2021,Website,High
+C00680,Customer_0680,Bhopal,Bihar,Consumer,30-07-2025,Store,Medium
+C00681,Customer_0681,Mumbai,Karnataka,Small Business,22-12-2021,Website,High
+C00682,Customer_0682,Hyderabad,Uttar Pradesh,Consumer,29-11-2024,Website,High
+C00683,Customer_0683,Mumbai,Uttar Pradesh,Consumer,29-02-2024,Store,High
+C00684,Customer_0684,Mumbai,Maharashtra,Consumer,25-09-2022,Email,Low
+C00685,Customer_0685,Lucknow,Karnataka,Consumer,22-04-2022,Store,Low
+C00686,Customer_0686,Lucknow,Karnataka,Consumer,11-11-2022,Website,High
+C00687,Customer_0687,Hyderabad,Bihar,Consumer,30-12-2021,Mobile App,High
+C00688,Customer_0688,Mumbai,Delhi,Small Business,14-12-2024,Website,Low
+C00689,Customer_0689,Bhopal,Gujarat,Corporate,05-02-2023,Email,Medium
+C00690,Customer_0690,Hyderabad,Maharashtra,Consumer,11-09-2022,Store,High
+C00691,Customer_0691,Ahmedabad,Telangana,Consumer,25-09-2023,Website,Low
+C00692,Customer_0692,Lucknow,Maharashtra,Corporate,25-09-2024,Website,High
+C00693,Customer_0693,Kolkata,Maharashtra,Consumer,11-11-2024,Email,High
+C00694,Customer_0694,Chennai,Uttar Pradesh,Consumer,19-03-2024,Mobile App,High
+C00695,Customer_0695,Lucknow,Karnataka,Small Business,14-10-2022,Email,Medium
+C00696,Customer_0696,Hyderabad,Madhya Pradesh,Consumer,16-10-2021,Mobile App,Medium
+C00697,Customer_0697,Mumbai,Gujarat,Consumer,17-10-2022,Website,Medium
+C00698,Customer_0698,Kolkata,Karnataka,Consumer,24-01-2021,Email,Medium
+C00699,Customer_0699,Delhi,Madhya Pradesh,Consumer,10-06-2022,Email,Medium
+C00700,Customer_0700,Bhopal,Tamil Nadu,Consumer,17-06-2023,Store,Medium

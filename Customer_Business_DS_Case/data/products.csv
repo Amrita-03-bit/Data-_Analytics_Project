@@ -1,0 +1,91 @@
+ProductID,ProductName,Category,SubCategory,UnitPrice,UnitCost,ProductStatus
+P0001,Fitness Band Model 1,Sports,Fitness Band,12051.22,9882.91,Discontinued
+P0002,Desk Model 2,Home,Desk,15585.43,8189.02,Active
+P0003,Notebook Model 3,Office,Notebook,11943.55,5818.66,Active
+P0004,Pen Model 4,Office,Pen,20438.14,15996.21,Active
+P0005,Headphones Model 5,Electronics,Headphones,18489.72,10741.27,Discontinued
+P0006,Tablet Model 6,Electronics,Tablet,21751.52,16970.87,Discontinued
+P0007,Chair Model 7,Home,Chair,2551.03,1930.49,Active
+P0008,Accessories Model 8,Sports,Accessories,23915.0,13030.04,Active
+P0009,Printer Model 9,Office,Printer,5103.88,4367.36,Discontinued
+P0010,Chair Model 10,Home,Chair,10114.08,6571.62,Active
+P0011,Yoga Mat Model 11,Sports,Yoga Mat,2452.67,1854.13,Active
+P0012,Tablet Model 12,Electronics,Tablet,21626.6,15206.59,Discontinued
+P0013,Bag Model 13,Sports,Bag,22241.4,16120.41,Discontinued
+P0014,Lamp Model 14,Home,Lamp,23641.99,15952.61,Discontinued
+P0015,Headphones Model 15,Electronics,Headphones,11001.03,7982.56,Active
+P0016,Phone Model 16,Electronics,Phone,24074.73,13569.96,Active
+P0017,Organizer Model 17,Office,Organizer,14001.06,7522.08,Active
+P0018,Tablet Model 18,Electronics,Tablet,22576.06,14753.09,Discontinued
+P0019,Storage Model 19,Home,Storage,8232.96,5463.48,Active
+P0020,Chair Model 20,Home,Chair,26665.59,17092.68,Active
+P0021,Desk Model 21,Home,Desk,3647.26,2376.21,Discontinued
+P0022,Desk Model 22,Home,Desk,20637.4,15033.85,Active
+P0023,Tablet Model 23,Electronics,Tablet,16722.73,10067.79,Active
+P0024,Bottle Model 24,Sports,Bottle,24545.97,14183.53,Discontinued
+P0025,Tablet Model 25,Electronics,Tablet,4683.36,2795.6,Active
+P0026,Monitor Model 26,Electronics,Monitor,26570.54,14058.26,Active
+P0027,Fitness Band Model 27,Sports,Fitness Band,11121.35,6968.82,Discontinued
+P0028,Phone Model 28,Electronics,Phone,6360.87,5044.4,Discontinued
+P0029,Tablet Model 29,Electronics,Tablet,23154.8,16025.59,Active
+P0030,Tablet Model 30,Electronics,Tablet,33153.98,16584.53,Active
+P0031,Printer Model 31,Office,Printer,11052.77,5679.77,Active
+P0032,Desk Model 32,Home,Desk,10154.97,5492.59,Active
+P0033,Paper Model 33,Office,Paper,13206.48,10937.03,Discontinued
+P0034,Storage Model 34,Home,Storage,24922.18,13368.09,Active
+P0035,Monitor Model 35,Electronics,Monitor,16902.22,14271.85,Discontinued
+P0036,Kitchen Model 36,Home,Kitchen,18193.0,15842.47,Active
+P0037,Chair Model 37,Home,Chair,7179.72,4580.89,Active
+P0038,Lamp Model 38,Home,Lamp,10561.71,6706.13,Discontinued
+P0039,Laptop Model 39,Electronics,Laptop,7108.96,4445.85,Discontinued
+P0040,Storage Model 40,Home,Storage,15524.94,10613.42,Active
+P0041,Notebook Model 41,Office,Notebook,7819.48,5217.04,Active
+P0042,Desk Model 42,Home,Desk,20865.8,11695.15,Active
+P0043,Accessories Model 43,Sports,Accessories,901.9,478.54,Active
+P0044,Yoga Mat Model 44,Sports,Yoga Mat,19988.15,11695.0,Active
+P0045,Lamp Model 45,Home,Lamp,22479.85,10997.19,Active
+P0046,Bag Model 46,Sports,Bag,24090.99,15346.36,Active
+P0047,Fitness Band Model 47,Sports,Fitness Band,23573.96,12228.27,Discontinued
+P0048,Laptop Model 48,Electronics,Laptop,16392.33,9265.87,Active
+P0049,Printer Model 49,Office,Printer,19674.12,12357.31,Active
+P0050,Printer Model 50,Office,Printer,21359.11,15523.47,Active
+P0051,Desk Model 51,Home,Desk,12699.93,9369.21,Active
+P0052,Fitness Band Model 52,Sports,Fitness Band,22455.57,12291.91,Discontinued
+P0053,Printer Model 53,Office,Printer,24773.02,16335.58,Active
+P0054,Lamp Model 54,Home,Lamp,17541.03,13110.71,Discontinued
+P0055,Organizer Model 55,Office,Organizer,7060.12,5487.48,Active
+P0056,Notebook Model 56,Office,Notebook,15761.19,8537.56,Active
+P0057,Notebook Model 57,Office,Notebook,5481.15,4093.89,Active
+P0058,Fitness Band Model 58,Sports,Fitness Band,11460.11,6765.68,Discontinued
+P0059,Tablet Model 59,Electronics,Tablet,1880.59,1079.74,Active
+P0060,Yoga Mat Model 60,Sports,Yoga Mat,17866.36,9068.54,Discontinued
+P0061,Paper Model 61,Office,Paper,2126.7,1086.63,Active
+P0062,Lamp Model 62,Home,Lamp,12478.31,7436.35,Discontinued
+P0063,Lamp Model 63,Home,Lamp,20150.97,15539.6,Active
+P0064,Fitness Band Model 64,Sports,Fitness Band,14747.19,11402.87,Active
+P0065,Tablet Model 65,Electronics,Tablet,9349.78,5010.68,Active
+P0066,Storage Model 66,Home,Storage,26678.86,14159.57,Active
+P0067,Bag Model 67,Sports,Bag,15149.47,7332.68,Discontinued
+P0068,Laptop Model 68,Electronics,Laptop,17743.6,9664.03,Active
+P0069,Organizer Model 69,Office,Organizer,6290.3,3527.51,Active
+P0070,Lamp Model 70,Home,Lamp,6957.98,5700.21,Active
+P0071,Chair Model 71,Home,Chair,20972.2,14850.33,Active
+P0072,Accessories Model 72,Sports,Accessories,15647.11,10783.09,Active
+P0073,Paper Model 73,Office,Paper,8536.91,6543.41,Discontinued
+P0074,Phone Model 74,Electronics,Phone,8613.62,4130.87,Active
+P0075,Monitor Model 75,Electronics,Monitor,11343.52,9142.85,Active
+P0076,Fitness Band Model 76,Sports,Fitness Band,24073.54,13909.94,Active
+P0077,Laptop Model 77,Electronics,Laptop,1211.81,982.44,Discontinued
+P0078,Bottle Model 78,Sports,Bottle,15699.17,9905.41,Active
+P0079,Chair Model 79,Home,Chair,9733.38,5503.96,Active
+P0080,Storage Model 80,Home,Storage,18308.09,14972.07,Active
+P0081,Notebook Model 81,Office,Notebook,22752.58,14151.51,Active
+P0082,Organizer Model 82,Office,Organizer,25766.86,17519.38,Discontinued
+P0083,Pen Model 83,Office,Pen,1324.61,824.57,Active
+P0084,Fitness Band Model 84,Sports,Fitness Band,4884.39,4312.95,Active
+P0085,Monitor Model 85,Electronics,Monitor,15297.9,12082.11,Active
+P0086,Laptop Model 86,Electronics,Laptop,28544.19,16297.46,Discontinued
+P0087,Printer Model 87,Office,Printer,10255.54,8421.28,Active
+P0088,Headphones Model 88,Electronics,Headphones,11699.14,6560.64,Discontinued
+P0089,Laptop Model 89,Electronics,Laptop,30565.3,15340.28,Active
+P0090,Desk Model 90,Home,Desk,11972.75,5996.46,Active

@@ -1,0 +1,900 @@
+TicketID,CustomerID,TicketDate,IssueType,Priority,TicketStatus,ResolutionHours
+T000001,C00288,2023-03-04,Payment,High,Open,69
+T000002,C00008,2023-11-05,Refund,High,Escalated,50
+T000003,C00643,2024-09-26,Account,High,Escalated,6
+T000004,C00553,2024-12-30,Refund,Medium,Resolved,33
+T000005,C00673,2023-06-28,Refund,Low,Open,-3
+T000006,C00477,2023-04-17,Delivery,Medium,Open,71
+T000007,C00468,2023-07-18,Refund,High,Resolved,44
+T000008,C00417,2023-05-06,Refund,Low,Resolved,63
+T000009,C00217,2024-01-23,Refund,Low,Resolved,68
+T000010,C00508,2023-07-22,Delivery,Medium,Resolved,28
+T000011,C00078,2024-08-05,Delivery,Medium,Open,54
+T000012,C00124,2024-03-10,Payment,Medium,Escalated,51
+T000013,C00633,2025-01-11,Account,High,Escalated,56
+T000014,C00492,2025-06-20,Refund,Low,Escalated,10
+T000015,C00515,2023-05-22,Payment,Medium,Open,24
+T000016,C00129,2023-09-21,Refund,Medium,Escalated,71
+T000017,C00434,2024-03-26,Delivery,High,Open,14
+T000018,C00402,2025-05-12,Refund,Low,Escalated,35
+T000019,C00532,2024-11-12,Account,Medium,Open,19
+T000020,C00342,2024-04-12,Account,Medium,Escalated,-3
+T000021,C00197,2025-09-06,Product Issue,Low,Escalated,65
+T000022,C00057,2023-01-27,Account,Low,Open,9
+T000023,C00229,2025-03-06,Refund,Low,Open,44
+T000024,C00276,2023-05-12,Product Issue,Medium,Resolved,9
+T000025,C00355,2025-06-15,Product Issue,High,Resolved,24
+T000026,C00068,2024-07-24,Delivery,High,Open,11
+T000027,C00456,2023-04-05,Account,Low,Open,4
+T000028,C00446,2024-04-12,Refund,High,Open,26
+T000029,C00120,2023-08-03,Delivery,Medium,Open,41
+T000030,C00250,2024-07-20,Payment,Low,Open,38
+T000031,C00166,2023-12-24,Product Issue,Low,Resolved,47
+T000032,C00251,2023-09-06,Payment,High,Resolved,5
+T000033,C00103,2023-06-14,Product Issue,Medium,Escalated,52
+T000034,C00462,2023-12-02,Account,Low,Open,46
+T000035,C00585,2025-02-20,Refund,Medium,Resolved,30
+T000036,C00098,2024-12-20,Refund,Low,Open,55
+T000037,C00546,2024-11-04,Payment,Medium,Escalated,26
+T000038,C00192,2023-02-12,Delivery,Medium,Resolved,43
+T000039,C00314,2024-01-15,Refund,Low,Open,61
+T000040,C00631,2024-06-06,Account,High,Resolved,56
+T000041,C00513,2024-03-19,Payment,Medium,Escalated,39
+T000042,C00686,2023-11-16,Product Issue,High,Escalated,15
+T000043,C00032,2024-11-08,Refund,Low,Resolved,53
+T000044,C00460,2025-02-18,Payment,High,Resolved,4
+T000045,C00387,2025-04-20,Delivery,Medium,Resolved,38
+T000046,C00151,2024-09-22,Account,Low,Resolved,12
+T000047,C00629,2025-04-29,Payment,Medium,Open,34
+T000048,C00218,2024-10-19,Product Issue,Low,Open,62
+T000049,C00555,2025-07-10,Payment,Low,Escalated,27
+T000050,C00515,2024-05-06,Payment,Low,Resolved,18
+T000051,C00019,2023-08-09,Account,Low,Escalated,65
+T000052,C00197,2024-08-24,Account,Low,Resolved,48
+T000053,C00003,2025-03-10,Product Issue,High,Open,39
+T000054,C00502,2024-03-12,Delivery,Medium,Escalated,8
+T000055,C00644,2025-09-27,Refund,High,Resolved,31
+T000056,C00040,2023-11-14,Delivery,Low,Open,35
+T000057,C00431,2024-06-17,Delivery,Low,Escalated,26
+T000058,C00122,2025-04-19,Product Issue,Low,Resolved,54
+T000059,C00001,2025-07-26,Product Issue,Medium,Open,26
+T000060,C00191,2023-04-15,Delivery,Low,Open,35
+T000061,C00589,2023-12-07,Account,High,Escalated,17
+T000062,C00592,2023-03-25,Refund,High,Escalated,14
+T000063,C00611,2024-01-24,Account,High,Resolved,9
+T000064,C00241,2024-01-24,Product Issue,Low,Open,54
+T000065,C00325,2025-09-04,Account,Low,Resolved,48
+T000066,C00588,2023-11-06,Account,High,Resolved,51
+T000067,C00026,2025-07-11,Account,Low,Resolved,54
+T000068,C00533,2023-01-14,Delivery,Low,Open,28
+T000069,C00427,2023-01-19,Account,Medium,Open,27
+T000070,C00624,2023-11-03,Product Issue,High,Resolved,35
+T000071,C00623,2024-05-19,Payment,Low,Resolved,1
+T000072,C00598,2024-02-28,Delivery,Low,Open,26
+T000073,C00343,2023-07-26,Delivery,Medium,Resolved,23
+T000074,C00353,2025-09-15,Refund,High,Resolved,40
+T000075,C00694,2024-07-28,Account,High,Escalated,70
+T000076,C00018,2025-06-03,Product Issue,High,Open,6
+T000077,C00272,2024-02-26,Product Issue,High,Escalated,43
+T000078,C00331,2023-12-31,Delivery,High,Open,27
+T000079,C00167,2025-01-04,Product Issue,Low,Open,58
+T000080,C00689,2025-09-03,Product Issue,Low,Resolved,27
+T000081,C00379,2023-07-23,Account,Low,Escalated,1
+T000082,C00241,2024-06-09,Account,Low,Escalated,51
+T000083,C00410,2024-05-24,Refund,High,Resolved,47
+T000084,C00159,2023-03-16,Account,Medium,Escalated,65
+T000085,C00388,2024-06-27,Delivery,Medium,Escalated,25
+T000086,C00621,2023-09-24,Payment,High,Resolved,5
+T000087,C00528,2024-11-24,Account,High,Resolved,42
+T000088,C00553,2025-04-28,Product Issue,Medium,Escalated,26
+T000089,C00624,2025-01-02,Account,Low,Resolved,62
+T000090,C00025,2023-08-08,Refund,Medium,Resolved,11
+T000091,C00158,2023-02-22,Product Issue,High,Escalated,53
+T000092,C00581,2024-10-19,Product Issue,High,Open,27
+T000093,C00064,2024-04-12,Product Issue,High,Open,71
+T000094,C00080,2025-04-03,Payment,Medium,Resolved,45
+T000095,C00670,2023-05-01,Product Issue,Low,Open,8
+T000096,C00074,2024-07-20,Delivery,Low,Escalated,50
+T000097,C00077,2024-05-21,Delivery,Low,Resolved,36
+T000098,C00528,2025-04-19,Product Issue,Medium,Escalated,14
+T000099,C00139,2024-11-29,Payment,High,Open,65
+T000100,C00107,2023-01-09,Account,Medium,Escalated,42
+T000101,C00170,2023-11-22,Product Issue,Low,Escalated,50
+T000102,C00150,2023-11-27,Product Issue,Medium,Resolved,35
+T000103,C00276,2023-04-14,Payment,High,Escalated,70
+T000104,C00457,2023-03-04,Delivery,Low,Escalated,25
+T000105,C00678,2023-05-13,Delivery,Medium,Resolved,33
+T000106,C00111,2024-05-23,Refund,Low,Resolved,13
+T000107,C00316,2024-06-11,Payment,Low,Open,5
+T000108,C00614,2024-02-20,Product Issue,Low,Escalated,53
+T000109,C00079,2023-05-15,Delivery,Medium,Open,39
+T000110,C00529,2023-04-01,Delivery,Low,Resolved,9
+T000111,C00169,2024-12-27,Payment,Low,Escalated,3
+T000112,C00126,2024-03-05,Refund,High,Open,44
+T000113,C00378,2024-10-02,Refund,High,Open,32
+T000114,C00192,2023-08-15,Account,High,Escalated,25
+T000115,C00398,2024-06-01,Product Issue,Low,Open,31
+T000116,C00315,2023-10-16,Refund,Low,Resolved,65
+T000117,C00024,2025-02-06,Refund,Medium,Escalated,8
+T000118,C00322,2023-07-24,Account,High,Escalated,2
+T000119,C00351,2025-01-17,Account,Medium,Resolved,35
+T000120,C00166,2024-06-21,Delivery,Medium,Escalated,30
+T000121,C00407,2023-06-06,Product Issue,Medium,Open,23
+T000122,C00088,2023-01-27,Account,Medium,Resolved,60
+T000123,C00294,2025-09-03,Delivery,Low,Open,11
+T000124,C00359,2025-01-28,Refund,High,Escalated,11
+T000125,C00383,2023-12-14,Product Issue,Low,Escalated,40
+T000126,C00608,2024-01-01,Product Issue,Low,Escalated,55
+T000127,C00263,2023-09-10,Product Issue,Low,Resolved,13
+T000128,C00496,2023-07-23,Payment,High,Open,19
+T000129,C00271,2025-03-06,Account,Medium,Escalated,22
+T000130,C00581,2024-07-01,Delivery,High,Resolved,3
+T000131,C00159,2024-09-24,Delivery,High,Open,23
+T000132,C00394,2023-11-18,Delivery,High,Escalated,32
+T000133,C00270,2023-05-30,Delivery,Medium,Escalated,43
+T000134,C00503,2024-06-12,Delivery,Low,Resolved,38
+T000135,C00372,2025-09-08,Refund,Low,Escalated,48
+T000136,C00233,2023-03-04,Payment,Low,Resolved,36
+T000137,C00067,2023-08-13,Delivery,Low,Resolved,15
+T000138,C00216,2023-03-09,Product Issue,Medium,Open,40
+T000139,C00190,2023-03-27,Product Issue,Low,Open,62
+T000140,C00515,2024-11-25,Delivery,Medium,Open,18
+T000141,C00137,2025-07-01,Refund,Medium,Resolved,17
+T000142,C00438,2023-02-24,Product Issue,High,Open,52
+T000143,C00638,2025-08-15,Refund,High,Escalated,67
+T000144,C00461,2024-12-13,Payment,Medium,Open,56
+T000145,C00664,2025-03-09,Product Issue,Low,Resolved,28
+T000146,C00357,2023-01-16,Refund,High,Open,38
+T000147,C00633,2024-09-29,Refund,Medium,Resolved,58
+T000148,C00413,2023-07-14,Payment,High,Open,65
+T000149,C00027,2025-08-26,Delivery,Medium,Resolved,14
+T000150,C00631,2025-06-03,Product Issue,Medium,Open,7
+T000151,C00674,2025-08-29,Product Issue,High,Resolved,17
+T000152,C00047,2023-04-08,Delivery,Low,Open,2
+T000153,C00289,2023-05-26,Payment,High,Open,29
+T000154,C00242,2024-10-26,Payment,Low,Escalated,11
+T000155,C00312,2023-08-26,Payment,Low,Open,10
+T000156,C00442,2024-02-20,Account,High,Open,40
+T000157,C00695,2023-11-11,Refund,High,Open,6
+T000158,C00500,2023-04-28,Delivery,High,Escalated,43
+T000159,C00070,2025-03-21,Delivery,Low,Open,64
+T000160,C00559,2025-07-13,Refund,Low,Resolved,8
+T000161,C00202,2024-05-21,Delivery,Medium,Escalated,48
+T000162,C00529,2024-02-15,Delivery,Low,Open,39
+T000163,C00134,2023-08-04,Refund,Low,Escalated,39
+T000164,C00348,2025-03-27,Account,High,Escalated,37
+T000165,C00386,2025-01-28,Account,Low,Open,9
+T000166,C00288,2024-04-17,Account,Medium,Open,4
+T000167,C00532,2024-11-17,Delivery,Medium,Escalated,59
+T000168,C00643,2023-03-09,Delivery,Medium,Escalated,34
+T000169,C00648,2023-11-11,Product Issue,Low,Resolved,20
+T000170,C00500,2025-04-25,Product Issue,High,Escalated,33
+T000171,C00175,2023-10-10,Product Issue,Low,Open,27
+T000172,C00416,2024-02-04,Refund,Low,Open,40
+T000173,C00552,2025-02-12,Refund,High,Open,15
+T000174,C00123,2024-07-05,Account,Low,Open,9
+T000175,C00539,2023-06-22,Refund,High,Open,29
+T000176,C00303,2025-04-23,Refund,Medium,Open,54
+T000177,C00449,2025-09-22,Account,High,Open,48
+T000178,C00129,2024-04-18,Payment,High,Resolved,14
+T000179,C00656,2024-06-12,Account,Low,Open,54
+T000180,C00508,2023-12-01,Product Issue,Low,Resolved,43
+T000181,C00284,2024-10-04,Product Issue,Medium,Escalated,57
+T000182,C00612,2024-04-12,Delivery,High,Open,8
+T000183,C00488,2025-07-03,Refund,High,Resolved,40
+T000184,C00647,2024-10-17,Product Issue,Medium,Resolved,4
+T000185,C00021,2023-03-14,Refund,Low,Resolved,34
+T000186,C00107,2023-06-04,Refund,Low,Open,23
+T000187,C00112,2024-10-15,Payment,High,Escalated,71
+T000188,C00366,2024-01-27,Refund,High,Resolved,34
+T000189,C00054,2024-01-11,Product Issue,Medium,Escalated,21
+T000190,C00335,2025-05-21,Delivery,Medium,Open,37
+T000191,C00650,2024-06-28,Product Issue,Medium,Open,20
+T000192,C00666,2024-02-18,Product Issue,Low,Escalated,35
+T000193,C00222,2024-03-24,Product Issue,Low,Escalated,18
+T000194,C00158,2023-01-25,Payment,Low,Resolved,36
+T000195,C00075,2023-01-04,Refund,Medium,Escalated,52
+T000196,C00043,2024-04-13,Payment,Medium,Open,21
+T000197,C00064,2025-09-03,Delivery,High,Open,66
+T000198,C00473,2024-03-05,Delivery,High,Open,58
+T000199,C00238,2024-03-25,Payment,Medium,Resolved,8
+T000200,C00588,2023-09-02,Payment,Low,Escalated,44
+T000201,C00400,2025-01-07,Account,Low,Resolved,8
+T000202,C00384,2025-01-20,Delivery,Medium,Escalated,45
+T000203,C00043,2024-02-11,Account,Medium,Escalated,15
+T000204,C00690,2025-01-08,Product Issue,High,Escalated,33
+T000205,C00280,2024-11-16,Product Issue,Low,Resolved,51
+T000206,C00257,2024-08-17,Product Issue,Low,Resolved,4
+T000207,C00035,2025-03-24,Payment,Low,Escalated,49
+T000208,C00504,2024-02-18,Delivery,Medium,Resolved,53
+T000209,C00148,2023-09-08,Payment,Low,Open,16
+T000210,C00478,2023-11-19,Delivery,High,Open,61
+T000211,C00605,2025-03-22,Payment,High,Open,4
+T000212,C00346,2024-06-19,Refund,Medium,Resolved,11
+T000213,C00278,2024-11-26,Payment,Medium,Resolved,23
+T000214,C00034,2024-05-22,Delivery,Medium,Resolved,11
+T000215,C00047,2025-08-12,Refund,Medium,Resolved,22
+T000216,C00147,2024-07-28,Refund,Medium,Escalated,43
+T000217,C00519,2024-08-03,Payment,High,Open,63
+T000218,C00301,2023-06-18,Account,High,Open,5
+T000219,C00085,2024-05-12,Refund,High,Escalated,61
+T000220,C00684,2025-06-06,Account,Medium,Resolved,65
+T000221,C00529,2023-02-28,Delivery,Low,Resolved,27
+T000222,C00034,2024-10-30,Product Issue,Low,Escalated,20
+T000223,C00213,2024-06-26,Payment,Medium,Resolved,19
+T000224,C00216,2024-04-21,Refund,Medium,Resolved,35
+T000225,C00294,2025-03-25,Account,Low,Open,31
+T000226,C00645,2023-07-11,Product Issue,Medium,Escalated,52
+T000227,C00563,2023-09-14,Refund,Low,Open,15
+T000228,C00174,2024-03-04,Delivery,Medium,Escalated,47
+T000229,C00333,2024-10-08,Product Issue,Low,Open,32
+T000230,C00202,2024-11-05,Account,High,Open,8
+T000231,C00136,2023-05-04,Product Issue,High,Open,10
+T000232,C00395,2024-09-19,Delivery,Medium,Open,49
+T000233,C00075,2023-02-21,Payment,High,Open,47
+T000234,C00270,2023-10-28,Delivery,High,Escalated,6
+T000235,C00272,2023-07-23,Refund,Medium,Resolved,22
+T000236,C00633,2024-11-07,Refund,Medium,Resolved,43
+T000237,C00011,2023-07-30,Product Issue,Medium,Resolved,31
+T000238,C00462,2025-04-17,Payment,Medium,Open,35
+T000239,C00334,2025-04-07,Refund,Low,Open,69
+T000240,C00366,2025-06-12,Delivery,Low,Escalated,5
+T000241,C00415,2023-11-24,Refund,High,Resolved,23
+T000242,C00191,2024-11-20,Refund,Medium,Escalated,10
+T000243,C00119,2023-03-20,Refund,High,Open,15
+T000244,C00185,2023-12-22,Account,High,Resolved,59
+T000245,C00183,2025-03-26,Account,Low,Open,38
+T000246,C00143,2025-02-20,Payment,Low,Escalated,19
+T000247,C00357,2023-09-10,Account,Medium,Resolved,71
+T000248,C00454,2023-12-05,Refund,Medium,Resolved,63
+T000249,C00415,2024-01-19,Refund,Low,Resolved,34
+T000250,C00373,2025-05-10,Account,High,Resolved,56
+T000251,C00444,2023-01-15,Refund,High,Escalated,28
+T000252,C00241,2024-11-09,Product Issue,Low,Escalated,26
+T000253,C00200,2024-04-28,Account,Low,Open,15
+T000254,C00361,2025-05-03,Account,Low,Open,54
+T000255,C00535,2024-02-20,Refund,High,Escalated,4
+T000256,C00556,2025-08-25,Delivery,Medium,Escalated,48
+T000257,C00428,2023-12-10,Payment,Low,Resolved,7
+T000258,C00191,2025-04-11,Payment,Medium,Open,2
+T000259,C00631,2023-07-26,Refund,High,Resolved,36
+T000260,C00482,2025-06-13,Delivery,High,Resolved,72
+T000261,C00037,2023-08-29,Payment,Medium,Resolved,34
+T000262,C00146,2024-11-29,Delivery,Low,Open,37
+T000263,C00461,2025-04-23,Payment,Medium,Escalated,30
+T000264,C00593,2023-06-29,Payment,High,Open,65
+T000265,C00638,2023-10-13,Account,Medium,Open,21
+T000266,C00511,2025-04-22,Refund,High,Resolved,32
+T000267,C00253,2025-08-20,Refund,High,Escalated,66
+T000268,C00220,2023-05-25,Product Issue,Low,Escalated,61
+T000269,C00179,2025-03-28,Account,Low,Escalated,45
+T000270,C00627,2024-05-29,Delivery,High,Escalated,54
+T000271,C00078,2024-11-11,Account,Low,Escalated,65
+T000272,C00032,2024-09-06,Account,High,Escalated,8
+T000273,C00270,2023-01-20,Account,Low,Resolved,51
+T000274,C00182,2024-03-24,Payment,Medium,Open,43
+T000275,C00131,2023-07-10,Refund,Medium,Escalated,34
+T000276,C00140,2024-02-04,Refund,Low,Resolved,62
+T000277,C00184,2023-07-09,Payment,Low,Open,45
+T000278,C00244,2023-05-30,Product Issue,Low,Resolved,51
+T000279,C00634,2025-06-04,Account,Low,Resolved,57
+T000280,C00260,2024-01-06,Delivery,Low,Escalated,51
+T000281,C00347,2025-04-14,Delivery,Medium,Resolved,70
+T000282,C00409,2023-06-27,Product Issue,High,Open,14
+T000283,C00231,2023-07-24,Account,Medium,Open,1
+T000284,C00350,2025-04-27,Refund,Medium,Resolved,52
+T000285,C00405,2025-01-31,Product Issue,Medium,Resolved,12
+T000286,C00525,2023-03-29,Payment,Low,Escalated,1
+T000287,C00465,2023-06-08,Payment,High,Escalated,16
+T000288,C00597,2024-12-27,Delivery,High,Open,52
+T000289,C00338,2025-08-06,Product Issue,Low,Open,28
+T000290,C00444,2024-08-17,Account,Medium,Resolved,49
+T000291,C00470,2025-06-22,Refund,High,Open,46
+T000292,C00635,2024-09-25,Account,Low,Escalated,49
+T000293,C00423,2024-08-22,Refund,Medium,Resolved,24
+T000294,C00142,2023-07-22,Refund,Medium,Open,45
+T000295,C00107,2025-05-17,Product Issue,Low,Open,1
+T000296,C00276,2023-07-21,Product Issue,Low,Open,14
+T000297,C00429,2023-06-09,Refund,Low,Resolved,64
+T000298,C00480,2024-04-25,Product Issue,High,Open,19
+T000299,C00186,2023-05-29,Delivery,Low,Escalated,39
+T000300,C00135,2025-09-17,Delivery,High,Escalated,62
+T000301,C00197,2025-09-23,Account,Low,Escalated,4
+T000302,C00239,2023-09-21,Refund,Low,Resolved,59
+T000303,C00335,2023-04-14,Delivery,High,Resolved,47
+T000304,C00554,2023-08-31,Account,Medium,Resolved,65
+T000305,C00211,2023-08-29,Payment,Medium,Resolved,4
+T000306,C00306,2023-11-18,Payment,High,Open,12
+T000307,C00223,2023-11-22,Refund,High,Resolved,38
+T000308,C00231,2023-03-09,Refund,Low,Escalated,9
+T000309,C00390,2023-08-24,Payment,Medium,Open,58
+T000310,C00644,2023-03-29,Product Issue,Medium,Resolved,32
+T000311,C00655,2024-10-10,Account,Low,Open,39
+T000312,C00111,2024-05-11,Refund,High,Escalated,19
+T000313,C00691,2023-05-31,Delivery,Medium,Escalated,18
+T000314,C00584,2025-08-27,Account,High,Open,44
+T000315,C00565,2024-12-05,Delivery,Low,Escalated,39
+T000316,C00355,2024-04-16,Delivery,High,Escalated,54
+T000317,C00587,2025-09-04,Delivery,High,Escalated,66
+T000318,C00088,2024-03-13,Payment,Medium,Open,26
+T000319,C00110,2025-07-31,Product Issue,Medium,Resolved,54
+T000320,C00347,2023-04-13,Payment,Low,Escalated,56
+T000321,C00114,2025-03-16,Payment,Medium,Open,38
+T000322,C00396,2023-03-25,Refund,Low,Open,2
+T000323,C00327,2023-10-07,Payment,Low,Open,3
+T000324,C00496,2025-02-09,Payment,Medium,Open,11
+T000325,C00131,2024-05-25,Product Issue,Medium,Resolved,54
+T000326,C00621,2025-02-09,Product Issue,Low,Resolved,23
+T000327,C00111,2024-04-09,Account,High,Open,1
+T000328,C00679,2024-12-04,Refund,High,Open,18
+T000329,C00609,2024-03-12,Refund,Low,Resolved,35
+T000330,C00092,2024-07-21,Refund,Low,Escalated,26
+T000331,C00067,2024-09-22,Delivery,High,Open,57
+T000332,C00566,2025-08-05,Refund,Medium,Escalated,72
+T000333,C00395,2024-12-07,Product Issue,Medium,Open,2
+T000334,C00120,2024-09-14,Payment,High,Open,45
+T000335,C00253,2025-06-17,Delivery,Medium,Open,42
+T000336,C00002,2023-09-24,Refund,Low,Open,15
+T000337,C00303,2024-12-23,Payment,High,Escalated,35
+T000338,C00051,2023-08-21,Account,Medium,Resolved,49
+T000339,C00489,2023-12-11,Product Issue,Medium,Open,54
+T000340,C00604,2024-10-09,Delivery,High,Open,12
+T000341,C00265,2023-05-13,Product Issue,High,Resolved,46
+T000342,C00402,2023-07-21,Refund,High,Escalated,8
+T000343,C00224,2024-06-05,Product Issue,High,Open,21
+T000344,C00520,2025-02-12,Account,Low,Resolved,15
+T000345,C00216,2023-06-02,Account,High,Open,63
+T000346,C00525,2023-08-10,Product Issue,Low,Open,69
+T000347,C00700,2024-11-18,Product Issue,High,Escalated,14
+T000348,C00622,2024-04-19,Refund,Medium,Resolved,66
+T000349,C00371,2024-06-08,Refund,High,Escalated,19
+T000350,C00146,2023-12-09,Product Issue,Low,Open,53
+T000351,C00201,2024-03-07,Refund,Low,Escalated,64
+T000352,C00100,2023-03-20,Refund,Low,Open,48
+T000353,C00218,2025-09-15,Product Issue,High,Open,45
+T000354,C00200,2024-09-12,Product Issue,Medium,Resolved,55
+T000355,C00682,2024-08-04,Account,High,Open,65
+T000356,C00674,2023-05-12,Account,Medium,Escalated,53
+T000357,C00242,2025-03-11,Delivery,High,Escalated,60
+T000358,C00155,2024-06-17,Product Issue,Medium,Escalated,36
+T000359,C00125,2024-04-02,Account,Low,Escalated,39
+T000360,C00225,2023-03-29,Product Issue,High,Escalated,16
+T000361,C00270,2023-06-12,Delivery,Medium,Open,40
+T000362,C00034,2024-08-16,Refund,Medium,Open,19
+T000363,C00319,2025-07-20,Payment,High,Open,64
+T000364,C00268,2023-02-03,Product Issue,Low,Open,21
+T000365,C00686,2024-12-09,Refund,High,Escalated,60
+T000366,C00021,2023-07-25,Product Issue,Medium,Open,56
+T000367,C00390,2025-08-14,Payment,Low,Open,57
+T000368,C00585,2025-04-11,Account,Medium,Open,10
+T000369,C00684,2024-10-22,Delivery,High,Resolved,51
+T000370,C00672,2023-12-29,Delivery,High,Open,3
+T000371,C00500,2023-06-23,Payment,Medium,Open,14
+T000372,C00372,2025-01-13,Delivery,Medium,Resolved,9
+T000373,C00512,2023-02-21,Account,Low,Escalated,20
+T000374,C00143,2023-02-23,Account,Low,Open,12
+T000375,C00216,2024-09-25,Delivery,Low,Resolved,46
+T000376,C00046,2023-03-07,Delivery,Medium,Open,33
+T000377,C00691,2025-04-28,Refund,Low,Escalated,8
+T000378,C00356,2024-01-15,Product Issue,Low,Resolved,62
+T000379,C00517,2023-07-12,Account,Low,Open,64
+T000380,C00354,2024-05-06,Product Issue,Medium,Open,70
+T000381,C00290,2023-10-18,Payment,Medium,Resolved,26
+T000382,C00216,2025-04-23,Payment,High,Escalated,70
+T000383,C00315,2025-06-24,Refund,Medium,Resolved,6
+T000384,C00213,2024-12-31,Product Issue,High,Resolved,7
+T000385,C00573,2023-05-22,Product Issue,Low,Resolved,6
+T000386,C00121,2024-03-08,Delivery,Medium,Escalated,33
+T000387,C00678,2025-05-28,Product Issue,High,Resolved,26
+T000388,C00375,2024-10-16,Account,Low,Open,16
+T000389,C00497,2024-11-30,Refund,High,Escalated,25
+T000390,C00209,2023-10-19,Payment,High,Escalated,6
+T000391,C00465,2023-04-24,Account,High,Resolved,13
+T000392,C00641,2025-05-21,Account,Low,Resolved,50
+T000393,C00687,2023-01-18,Refund,High,Resolved,22
+T000394,C00226,2023-03-10,Account,Medium,Open,67
+T000395,C00117,2024-11-22,Delivery,High,Resolved,70
+T000396,C00063,2023-06-07,Payment,High,Escalated,31
+T000397,C00409,2024-08-14,Refund,Low,Escalated,18
+T000398,C00687,2025-03-23,Product Issue,Medium,Escalated,41
+T000399,C00246,2025-03-12,Product Issue,Medium,Open,35
+T000400,C00676,2023-03-07,Delivery,High,Escalated,25
+T000401,C00358,2023-10-26,Refund,High,Resolved,67
+T000402,C00401,2023-09-12,Account,High,Escalated,51
+T000403,C00167,2023-11-10,Delivery,High,Resolved,30
+T000404,C00515,2024-12-20,Product Issue,High,Resolved,8
+T000405,C00231,2023-03-14,Refund,High,Open,10
+T000406,C00268,2023-11-25,Delivery,High,Resolved,4
+T000407,C00671,2023-07-15,Account,High,Open,62
+T000408,C00142,2024-06-17,Refund,High,Resolved,44
+T000409,C00242,2024-08-13,Delivery,Low,Open,62
+T000410,C00232,2023-08-14,Payment,High,Resolved,57
+T000411,C00394,2025-09-20,Product Issue,Low,Open,70
+T000412,C00686,2023-02-23,Payment,High,Open,50
+T000413,C00401,2024-06-17,Account,High,Escalated,22
+T000414,C00242,2025-09-12,Account,Medium,Escalated,45
+T000415,C00340,2025-01-26,Payment,Low,Resolved,1
+T000416,C00697,2025-08-02,Delivery,High,Escalated,47
+T000417,C00695,2023-11-14,Product Issue,Medium,Escalated,40
+T000418,C00504,2024-08-31,Payment,Low,Open,35
+T000419,C00059,2024-01-11,Delivery,High,Escalated,71
+T000420,C00478,2023-01-15,Payment,High,Resolved,22
+T000421,C00106,2025-01-09,Refund,Medium,Open,7
+T000422,C00138,2023-12-19,Product Issue,High,Escalated,68
+T000423,C00247,2024-08-10,Delivery,Low,Resolved,23
+T000424,C00007,2024-12-08,Product Issue,Low,Escalated,7
+T000425,C00236,2024-10-17,Refund,Low,Escalated,9
+T000426,C00057,2023-06-03,Account,Medium,Resolved,44
+T000427,C00459,2023-12-01,Product Issue,Low,Resolved,56
+T000428,C00220,2024-04-19,Delivery,High,Resolved,64
+T000429,C00622,2024-03-12,Payment,Low,Escalated,3
+T000430,C00186,2023-06-12,Product Issue,Low,Open,50
+T000431,C00440,2024-03-23,Account,High,Escalated,23
+T000432,C00121,2025-07-16,Payment,Medium,Open,54
+T000433,C00165,2023-04-12,Payment,Low,Open,47
+T000434,C00591,2025-06-30,Product Issue,High,Resolved,48
+T000435,C00408,2025-08-17,Product Issue,Medium,Resolved,9
+T000436,C00594,2025-09-04,Payment,High,Escalated,42
+T000437,C00613,2023-02-03,Account,High,Escalated,39
+T000438,C00305,2023-03-18,Product Issue,Medium,Open,27
+T000439,C00450,2024-03-13,Payment,Medium,Escalated,23
+T000440,C00358,2025-09-11,Refund,Medium,Escalated,46
+T000441,C00557,2024-03-14,Product Issue,Medium,Open,54
+T000442,C00598,2024-01-02,Product Issue,High,Open,63
+T000443,C00005,2023-11-26,Delivery,High,Open,47
+T000444,C00054,2024-02-10,Refund,High,Escalated,53
+T000445,C00287,2025-06-04,Product Issue,Low,Resolved,48
+T000446,C00600,2024-10-18,Delivery,Medium,Escalated,18
+T000447,C00340,2024-02-27,Account,Medium,Resolved,40
+T000448,C00170,2024-03-10,Product Issue,Medium,Escalated,64
+T000449,C00633,2024-01-01,Delivery,High,Escalated,7
+T000450,C00307,2024-12-06,Refund,Medium,Resolved,50
+T000451,C00226,2024-06-03,Payment,High,Open,5
+T000452,C00303,2023-04-15,Refund,Low,Open,43
+T000453,C00001,2025-05-29,Payment,Low,Escalated,21
+T000454,C00185,2023-12-09,Payment,Low,Resolved,29
+T000455,C00575,2023-01-13,Payment,High,Escalated,37
+T000456,C00272,2024-12-17,Refund,Low,Open,49
+T000457,C00250,2023-11-28,Delivery,Medium,Escalated,60
+T000458,C00270,2024-08-27,Refund,High,Resolved,41
+T000459,C00687,2023-04-10,Payment,High,Escalated,43
+T000460,C00283,2024-01-14,Account,High,Resolved,70
+T000461,C00321,2023-08-17,Payment,Medium,Escalated,38
+T000462,C00585,2024-09-15,Account,High,Escalated,9
+T000463,C00444,2024-08-27,Product Issue,Low,Open,44
+T000464,C00147,2023-05-17,Account,High,Open,42
+T000465,C00082,2023-05-13,Delivery,High,Escalated,6
+T000466,C00068,2024-07-15,Delivery,Medium,Escalated,39
+T000467,C00589,2024-04-13,Payment,Low,Resolved,11
+T000468,C00295,2025-07-04,Account,Medium,Resolved,27
+T000469,C00434,2025-05-21,Delivery,High,Escalated,13
+T000470,C00056,2023-11-19,Delivery,Medium,Escalated,42
+T000471,C00620,2025-02-08,Refund,High,Resolved,58
+T000472,C00665,2025-09-12,Product Issue,Low,Resolved,47
+T000473,C00632,2024-05-17,Product Issue,High,Resolved,34
+T000474,C00689,2023-10-25,Product Issue,High,Escalated,35
+T000475,C00173,2023-04-02,Delivery,High,Open,21
+T000476,C00018,2024-11-23,Account,Medium,Resolved,66
+T000477,C00192,2024-07-12,Refund,Medium,Open,5
+T000478,C00477,2024-07-14,Refund,Low,Open,43
+T000479,C00036,2024-12-24,Product Issue,Medium,Resolved,43
+T000480,C00124,2024-09-12,Delivery,High,Resolved,59
+T000481,C00379,2025-05-04,Refund,Medium,Resolved,57
+T000482,C00594,2024-01-24,Delivery,High,Open,12
+T000483,C00687,2024-03-09,Account,Medium,Resolved,28
+T000484,C00374,2025-04-15,Delivery,Low,Escalated,34
+T000485,C00570,2023-07-29,Refund,High,Open,47
+T000486,C00603,2025-04-29,Product Issue,High,Resolved,63
+T000487,C00475,2025-01-24,Delivery,High,Open,17
+T000488,C00140,2024-03-01,Account,High,Resolved,48
+T000489,C00398,2024-07-30,Product Issue,High,Resolved,56
+T000490,C00022,2025-05-21,Account,High,Resolved,64
+T000491,C00435,2023-05-08,Delivery,Low,Resolved,29
+T000492,C00363,2025-04-13,Delivery,High,Resolved,4
+T000493,C00639,2025-02-20,Product Issue,Medium,Escalated,50
+T000494,C00598,2023-04-23,Product Issue,Medium,Resolved,34
+T000495,C00616,2023-09-25,Payment,High,Open,55
+T000496,C00206,2023-07-29,Refund,Medium,Escalated,66
+T000497,C00276,2024-08-29,Delivery,Low,Escalated,70
+T000498,C00485,2025-06-30,Account,Medium,Resolved,15
+T000499,C00575,2024-06-12,Delivery,High,Escalated,12
+T000500,C00123,2025-01-08,Payment,Low,Open,42
+T000501,C00685,2025-08-16,Payment,Low,Resolved,13
+T000502,C00273,2023-08-29,Payment,Medium,Resolved,57
+T000503,C00013,2024-11-16,Refund,Low,Resolved,63
+T000504,C00516,2024-05-11,Account,Medium,Resolved,32
+T000505,C00523,2024-05-11,Account,High,Resolved,66
+T000506,C00071,2023-07-16,Payment,Low,Escalated,7
+T000507,C00520,2025-08-18,Payment,Low,Resolved,40
+T000508,C00289,2024-06-15,Product Issue,High,Escalated,31
+T000509,C00326,2023-04-25,Account,Medium,Escalated,72
+T000510,C00101,2024-03-01,Product Issue,High,Open,61
+T000511,C00115,2025-04-02,Delivery,Medium,Resolved,44
+T000512,C00638,2024-08-28,Delivery,Low,Escalated,24
+T000513,C00524,2023-10-29,Payment,Low,Open,13
+T000514,C00511,2023-02-14,Delivery,High,Escalated,29
+T000515,C00642,2025-03-15,Delivery,Low,Open,64
+T000516,C00693,2023-10-10,Payment,Medium,Resolved,29
+T000517,C00061,2025-05-09,Product Issue,High,Escalated,61
+T000518,C00588,2023-06-24,Product Issue,High,Escalated,12
+T000519,C00510,2023-08-17,Payment,Low,Open,67
+T000520,C00118,2023-08-27,Refund,High,Resolved,21
+T000521,C00049,2023-03-25,Product Issue,Low,Escalated,63
+T000522,C00632,2024-03-04,Account,Medium,Open,52
+T000523,C00180,2023-03-25,Delivery,Medium,Open,2
+T000524,C00650,2023-02-24,Refund,Low,Resolved,66
+T000525,C00141,2025-08-25,Delivery,Low,Open,2
+T000526,C00469,2025-05-09,Refund,Medium,Open,44
+T000527,C00684,2025-04-16,Payment,Medium,Resolved,17
+T000528,C00120,2025-02-13,Payment,High,Open,6
+T000529,C00649,2025-05-24,Delivery,Low,Resolved,35
+T000530,C00263,2025-08-04,Account,Medium,Escalated,42
+T000531,C00028,2024-08-27,Payment,High,Resolved,68
+T000532,C00293,2024-06-04,Account,High,Open,46
+T000533,C00279,2024-11-15,Account,Medium,Escalated,57
+T000534,C00145,2023-12-27,Product Issue,Medium,Resolved,8
+T000535,C00296,2024-05-16,Product Issue,Medium,Resolved,14
+T000536,C00459,2025-05-06,Product Issue,Medium,Resolved,33
+T000537,C00601,2023-01-02,Product Issue,Medium,Open,13
+T000538,C00291,2023-11-05,Product Issue,Medium,Open,47
+T000539,C00497,2023-11-13,Account,Low,Open,41
+T000540,C00164,2023-11-21,Payment,High,Escalated,66
+T000541,C00547,2024-11-13,Refund,Medium,Open,41
+T000542,C00018,2025-06-25,Account,High,Resolved,4
+T000543,C00257,2023-09-01,Delivery,Medium,Escalated,38
+T000544,C00159,2023-03-20,Payment,High,Resolved,29
+T000545,C00448,2024-12-20,Account,High,Open,44
+T000546,C00267,2024-06-23,Payment,High,Resolved,63
+T000547,C00497,2024-05-10,Payment,High,Open,16
+T000548,C00371,2023-09-15,Payment,Low,Open,15
+T000549,C00169,2023-11-21,Delivery,High,Resolved,68
+T000550,C00694,2023-08-04,Product Issue,Low,Resolved,37
+T000551,C00487,2023-05-21,Payment,Low,Open,19
+T000552,C00045,2024-03-31,Product Issue,Low,Escalated,62
+T000553,C00354,2023-08-10,Refund,Low,Escalated,7
+T000554,C00440,2023-08-30,Payment,Low,Escalated,72
+T000555,C00680,2024-10-04,Account,Medium,Open,27
+T000556,C00232,2025-09-05,Product Issue,Low,Resolved,1
+T000557,C00544,2023-12-16,Account,Low,Escalated,59
+T000558,C00375,2023-12-31,Account,Low,Open,29
+T000559,C00163,2025-08-28,Delivery,High,Escalated,36
+T000560,C00379,2025-06-19,Delivery,High,Resolved,72
+T000561,C00536,2023-12-21,Account,High,Escalated,67
+T000562,C00685,2023-04-06,Account,Low,Resolved,35
+T000563,C00186,2024-07-28,Delivery,Medium,Escalated,72
+T000564,C00241,2023-10-20,Payment,High,Resolved,53
+T000565,C00262,2023-07-14,Payment,High,Escalated,41
+T000566,C00348,2023-07-12,Product Issue,Low,Resolved,37
+T000567,C00578,2024-11-24,Refund,High,Resolved,57
+T000568,C00131,2024-10-02,Delivery,Medium,Resolved,28
+T000569,C00190,2023-10-26,Payment,Medium,Resolved,5
+T000570,C00026,2024-09-19,Delivery,High,Escalated,59
+T000571,C00231,2023-04-25,Refund,Low,Resolved,18
+T000572,C00301,2024-10-25,Payment,Low,Escalated,67
+T000573,C00672,2025-03-26,Refund,Low,Open,33
+T000574,C00492,2024-05-29,Payment,High,Escalated,4
+T000575,C00498,2023-05-02,Payment,Low,Resolved,47
+T000576,C00508,2024-09-26,Account,High,Open,10
+T000577,C00052,2023-05-31,Product Issue,Low,Escalated,65
+T000578,C00675,2023-07-03,Refund,Low,Open,38
+T000579,C00668,2024-09-30,Product Issue,Low,Resolved,57
+T000580,C00394,2024-08-07,Account,High,Resolved,46
+T000581,C00147,2025-04-15,Account,Low,Resolved,12
+T000582,C00580,2024-04-19,Refund,High,Escalated,46
+T000583,C00110,2024-03-12,Refund,Medium,Resolved,14
+T000584,C00548,2023-02-19,Delivery,Medium,Open,38
+T000585,C00022,2025-02-08,Payment,Medium,Open,50
+T000586,C00061,2023-04-30,Payment,Low,Resolved,50
+T000587,C00141,2023-12-14,Refund,Medium,Resolved,4
+T000588,C00035,2023-01-20,Payment,Medium,Open,69
+T000589,C00358,2024-04-27,Product Issue,Low,Escalated,61
+T000590,C00659,2023-08-31,Account,Medium,Open,12
+T000591,C00560,2023-10-03,Product Issue,High,Resolved,50
+T000592,C00233,2025-05-31,Delivery,Low,Resolved,23
+T000593,C00607,2025-04-04,Delivery,High,Resolved,25
+T000594,C00417,2023-07-18,Refund,Low,Open,15
+T000595,C00096,2023-05-23,Account,High,Escalated,5
+T000596,C00211,2025-09-04,Delivery,Low,Resolved,49
+T000597,C00157,2023-08-27,Refund,Low,Open,5
+T000598,C00393,2025-03-12,Refund,High,Open,72
+T000599,C00179,2024-11-23,Product Issue,Low,Resolved,21
+T000600,C00334,2023-10-16,Refund,Medium,Escalated,36
+T000601,C00507,2024-01-21,Payment,Low,Open,12
+T000602,C00305,2024-01-15,Product Issue,High,Resolved,27
+T000603,C00395,2023-12-13,Payment,Medium,Escalated,37
+T000604,C00163,2025-05-03,Payment,Medium,Resolved,33
+T000605,C00448,2024-03-10,Refund,Medium,Escalated,17
+T000606,C00172,2024-02-24,Refund,Medium,Resolved,64
+T000607,C00312,2024-10-21,Refund,High,Resolved,36
+T000608,C00365,2025-02-08,Product Issue,Low,Resolved,38
+T000609,C00175,2024-12-09,Delivery,Medium,Escalated,55
+T000610,C00267,2025-09-20,Payment,Medium,Open,58
+T000611,C00546,2023-02-23,Refund,Medium,Resolved,62
+T000612,C00086,2024-09-24,Refund,Low,Escalated,25
+T000613,C00298,2025-05-20,Account,High,Open,29
+T000614,C00071,2023-04-22,Refund,Low,Resolved,45
+T000615,C00390,2025-05-16,Product Issue,Low,Escalated,48
+T000616,C00190,2025-08-07,Delivery,Low,Escalated,41
+T000617,C00287,2025-04-11,Payment,Medium,Resolved,12
+T000618,C00356,2023-01-24,Product Issue,Low,Escalated,60
+T000619,C00626,2025-09-26,Delivery,High,Escalated,54
+T000620,C00562,2023-01-28,Account,High,Resolved,44
+T000621,C00540,2025-01-05,Product Issue,Medium,Escalated,29
+T000622,C00438,2023-09-25,Product Issue,Medium,Escalated,72
+T000623,C00460,2024-01-18,Account,Medium,Escalated,62
+T000624,C00267,2023-05-17,Product Issue,High,Open,21
+T000625,C00648,2024-08-17,Delivery,High,Open,28
+T000626,C00394,2024-06-26,Payment,Medium,Open,52
+T000627,C00528,2023-09-19,Account,Medium,Escalated,68
+T000628,C00336,2023-03-05,Refund,High,Escalated,56
+T000629,C00493,2025-08-06,Payment,Medium,Resolved,8
+T000630,C00524,2023-04-20,Product Issue,High,Resolved,70
+T000631,C00414,2025-09-13,Refund,High,Escalated,34
+T000632,C00383,2023-04-21,Delivery,High,Resolved,21
+T000633,C00291,2024-02-27,Refund,Low,Escalated,20
+T000634,C00476,2023-12-11,Payment,Low,Open,14
+T000635,C00021,2025-06-17,Delivery,High,Resolved,48
+T000636,C00628,2024-10-18,Refund,Low,Open,10
+T000637,C00573,2025-05-17,Refund,Medium,Open,8
+T000638,C00376,2023-07-28,Payment,Low,Escalated,32
+T000639,C00386,2023-03-20,Payment,High,Escalated,3
+T000640,C00067,2023-10-23,Product Issue,Medium,Open,14
+T000641,C00637,2025-09-07,Refund,Low,Escalated,37
+T000642,C00073,2024-11-04,Delivery,Low,Open,64
+T000643,C00336,2024-06-27,Delivery,Medium,Escalated,29
+T000644,C00158,2024-12-27,Account,High,Open,6
+T000645,C00073,2025-09-10,Delivery,Medium,Resolved,25
+T000646,C00035,2025-02-07,Payment,High,Open,4
+T000647,C00634,2024-04-15,Delivery,High,Open,53
+T000648,C00470,2024-08-28,Delivery,High,Open,61
+T000649,C00240,2024-05-02,Payment,High,Resolved,54
+T000650,C00585,2025-03-24,Payment,Medium,Open,22
+T000651,C00503,2023-11-13,Refund,Low,Resolved,6
+T000652,C00017,2025-09-19,Refund,High,Escalated,57
+T000653,C00482,2023-10-27,Delivery,Low,Escalated,60
+T000654,C00057,2023-03-06,Account,Low,Resolved,48
+T000655,C00645,2024-11-22,Refund,Medium,Escalated,10
+T000656,C00558,2023-01-09,Refund,Low,Resolved,68
+T000657,C00347,2025-03-16,Payment,Medium,Resolved,1
+T000658,C00512,2023-03-05,Delivery,Low,Resolved,20
+T000659,C00144,2023-05-16,Delivery,Low,Escalated,51
+T000660,C00574,2025-04-28,Payment,High,Resolved,41
+T000661,C00099,2025-05-15,Delivery,Low,Resolved,70
+T000662,C00070,2025-01-21,Refund,High,Resolved,35
+T000663,C00603,2023-04-25,Delivery,Medium,Open,56
+T000664,C00631,2024-06-14,Refund,Low,Resolved,15
+T000665,C00289,2024-09-20,Product Issue,Low,Resolved,55
+T000666,C00235,2025-05-06,Payment,High,Resolved,20
+T000667,C00372,2023-04-25,Account,Medium,Open,18
+T000668,C00605,2025-08-17,Product Issue,High,Escalated,50
+T000669,C00125,2024-03-19,Refund,Low,Resolved,9
+T000670,C00497,2023-01-21,Payment,Medium,Open,39
+T000671,C00610,2024-02-04,Product Issue,Medium,Resolved,21
+T000672,C00283,2025-08-03,Payment,High,Resolved,67
+T000673,C00680,2025-09-14,Payment,Medium,Open,68
+T000674,C00052,2023-12-06,Refund,Medium,Escalated,43
+T000675,C00003,2025-06-20,Payment,Medium,Resolved,33
+T000676,C00667,2025-02-24,Payment,Medium,Resolved,32
+T000677,C00384,2023-07-03,Payment,Low,Escalated,60
+T000678,C00645,2023-11-25,Product Issue,High,Open,64
+T000679,C00128,2025-05-14,Payment,Low,Resolved,20
+T000680,C00018,2024-02-15,Delivery,High,Resolved,17
+T000681,C00015,2023-08-29,Delivery,High,Open,58
+T000682,C00436,2025-05-01,Refund,Medium,Open,67
+T000683,C00172,2023-07-02,Account,High,Open,71
+T000684,C00012,2024-05-25,Payment,High,Resolved,6
+T000685,C00307,2024-09-18,Refund,Low,Resolved,50
+T000686,C00428,2024-02-05,Refund,Medium,Resolved,49
+T000687,C00033,2024-10-09,Payment,High,Escalated,56
+T000688,C00667,2023-11-16,Account,High,Resolved,6
+T000689,C00264,2025-03-22,Refund,Low,Open,39
+T000690,C00610,2023-12-02,Product Issue,Medium,Escalated,65
+T000691,C00272,2025-01-20,Product Issue,Medium,Open,60
+T000692,C00473,2025-01-04,Delivery,Low,Escalated,58
+T000693,C00114,2023-12-19,Payment,Medium,Resolved,60
+T000694,C00515,2025-02-03,Account,Low,Escalated,23
+T000695,C00534,2025-07-19,Refund,Low,Resolved,23
+T000696,C00480,2025-02-24,Refund,Medium,Open,33
+T000697,C00548,2024-10-08,Product Issue,Low,Open,40
+T000698,C00609,2025-02-27,Product Issue,Medium,Escalated,40
+T000699,C00351,2024-10-05,Product Issue,High,Resolved,25
+T000700,C00031,2025-01-07,Delivery,Low,Escalated,13
+T000701,C00308,2023-08-28,Refund,Medium,Open,38
+T000702,C00368,2025-07-09,Payment,High,Escalated,23
+T000703,C00221,2023-05-20,Payment,Medium,Open,32
+T000704,C00224,2023-12-24,Refund,Medium,Escalated,21
+T000705,C00136,2025-03-03,Account,High,Escalated,54
+T000706,C00374,2025-02-27,Refund,High,Open,39
+T000707,C00620,2025-07-12,Payment,High,Resolved,29
+T000708,C00630,2024-07-14,Delivery,Low,Resolved,30
+T000709,C00651,2024-04-22,Refund,Low,Escalated,10
+T000710,C00375,2024-11-19,Refund,Medium,Resolved,13
+T000711,C00319,2025-06-16,Delivery,Low,Resolved,46
+T000712,C00542,2023-04-21,Refund,Low,Resolved,9
+T000713,C00363,2023-09-07,Account,Medium,Resolved,71
+T000714,C00076,2023-04-26,Product Issue,High,Open,52
+T000715,C00346,2023-02-09,Account,Low,Open,26
+T000716,C00615,2024-04-04,Product Issue,Low,Open,57
+T000717,C00621,2025-02-10,Payment,Low,Open,9
+T000718,C00040,2024-11-02,Account,High,Resolved,8
+T000719,C00032,2024-10-21,Account,Medium,Open,29
+T000720,C00016,2023-02-06,Payment,Medium,Open,29
+T000721,C00142,2025-02-07,Delivery,High,Open,43
+T000722,C00407,2024-08-02,Product Issue,Low,Open,53
+T000723,C00644,2023-07-13,Account,Low,Escalated,68
+T000724,C00178,2024-01-27,Payment,Low,Open,57
+T000725,C00428,2025-01-24,Payment,High,Escalated,13
+T000726,C00090,2023-11-13,Payment,Low,Escalated,8
+T000727,C00470,2023-12-14,Payment,High,Escalated,61
+T000728,C00081,2023-10-10,Delivery,Medium,Resolved,56
+T000729,C00299,2023-05-18,Account,Low,Resolved,49
+T000730,C00687,2025-03-31,Product Issue,High,Open,15
+T000731,C00289,2025-08-21,Payment,High,Escalated,26
+T000732,C00519,2025-06-12,Delivery,Medium,Open,39
+T000733,C00138,2024-12-08,Account,High,Escalated,41
+T000734,C00319,2025-06-12,Delivery,Medium,Escalated,37
+T000735,C00673,2024-04-30,Product Issue,Low,Escalated,38
+T000736,C00501,2025-06-17,Product Issue,Low,Escalated,62
+T000737,C00166,2024-10-29,Product Issue,Medium,Escalated,59
+T000738,C00578,2024-07-23,Account,High,Resolved,24
+T000739,C00295,2023-12-15,Product Issue,High,Open,4
+T000740,C00667,2025-08-18,Product Issue,Low,Resolved,3
+T000741,C00010,2023-04-26,Product Issue,High,Escalated,52
+T000742,C00122,2023-04-23,Refund,Medium,Escalated,42
+T000743,C00287,2024-01-16,Payment,High,Escalated,5
+T000744,C00355,2024-03-26,Account,High,Open,50
+T000745,C00132,2025-09-26,Refund,High,Resolved,28
+T000746,C00243,2024-08-03,Product Issue,Low,Escalated,2
+T000747,C00034,2025-02-02,Payment,High,Open,45
+T000748,C00201,2024-09-01,Product Issue,High,Resolved,48
+T000749,C00410,2024-12-10,Payment,Medium,Open,28
+T000750,C00109,2023-06-29,Product Issue,Low,Open,47
+T000751,C00544,2025-01-06,Refund,Low,Resolved,29
+T000752,C00098,2025-01-25,Delivery,Low,Open,45
+T000753,C00125,2024-05-17,Payment,High,Resolved,47
+T000754,C00571,2023-07-20,Refund,Low,Open,23
+T000755,C00128,2023-12-11,Delivery,Medium,Open,40
+T000756,C00319,2023-08-14,Account,Medium,Escalated,61
+T000757,C00072,2024-04-13,Delivery,Low,Open,28
+T000758,C00357,2025-07-06,Account,High,Escalated,11
+T000759,C00058,2025-07-24,Product Issue,Medium,Escalated,23
+T000760,C00339,2024-03-19,Payment,High,Open,28
+T000761,C00626,2024-03-10,Product Issue,Low,Escalated,26
+T000762,C00128,2024-03-16,Delivery,Low,Resolved,19
+T000763,C00563,2024-03-06,Account,High,Escalated,61
+T000764,C00572,2023-10-28,Payment,High,Escalated,61
+T000765,C00493,2023-12-05,Delivery,Medium,Resolved,51
+T000766,C00674,2024-03-26,Payment,Low,Escalated,57
+T000767,C00363,2023-02-06,Refund,Medium,Escalated,14
+T000768,C00658,2023-05-12,Account,Medium,Escalated,51
+T000769,C00531,2023-12-04,Account,Medium,Open,11
+T000770,C00431,2023-10-20,Account,Low,Resolved,13
+T000771,C00086,2023-03-31,Product Issue,Medium,Escalated,70
+T000772,C00326,2023-11-16,Delivery,Low,Open,17
+T000773,C00102,2024-06-14,Delivery,Medium,Escalated,2
+T000774,C00252,2025-02-07,Refund,Low,Resolved,30
+T000775,C00379,2025-01-27,Delivery,High,Open,22
+T000776,C00149,2024-08-31,Delivery,Medium,Open,52
+T000777,C00096,2023-07-24,Delivery,Medium,Escalated,31
+T000778,C00636,2024-06-11,Refund,Low,Escalated,38
+T000779,C00524,2023-10-24,Product Issue,Medium,Open,26
+T000780,C00031,2023-01-05,Refund,High,Open,44
+T000781,C00692,2025-02-20,Refund,High,Open,61
+T000782,C00298,2023-05-05,Product Issue,Medium,Escalated,45
+T000783,C00103,2024-05-28,Payment,Low,Open,32
+T000784,C00206,2025-02-14,Payment,Medium,Resolved,32
+T000785,C00444,2023-07-21,Delivery,Medium,Open,46
+T000786,C00475,2024-12-05,Account,Medium,Open,8
+T000787,C00465,2023-03-01,Payment,Medium,Resolved,59
+T000788,C00391,2024-03-13,Refund,Low,Open,46
+T000789,C00020,2024-06-11,Product Issue,High,Resolved,55
+T000790,C00084,2025-08-29,Delivery,Medium,Escalated,53
+T000791,C00382,2023-12-21,Payment,Low,Open,33
+T000792,C00509,2023-10-05,Delivery,High,Escalated,34
+T000793,C00066,2023-07-04,Product Issue,Low,Escalated,34
+T000794,C00201,2024-08-05,Refund,High,Open,66
+T000795,C00216,2023-11-22,Account,Medium,Resolved,1
+T000796,C00006,2025-06-22,Delivery,High,Escalated,20
+T000797,C00008,2025-07-12,Account,Medium,Resolved,50
+T000798,C00648,2023-08-10,Account,High,Resolved,28
+T000799,C00694,2024-08-18,Payment,Medium,Resolved,13
+T000800,C00519,2024-08-29,Account,Low,Escalated,14
+T000801,C00626,2024-07-01,Refund,High,Resolved,13
+T000802,C00424,2023-12-07,Delivery,Low,Escalated,10
+T000803,C00477,2025-01-24,Product Issue,Medium,Open,2
+T000804,C00106,2024-06-07,Delivery,High,Open,57
+T000805,C00328,2025-02-06,Payment,Low,Open,17
+T000806,C00314,2024-09-03,Delivery,Medium,Resolved,67
+T000807,C00630,2023-08-19,Payment,High,Resolved,52
+T000808,C00447,2023-12-12,Delivery,Medium,Open,26
+T000809,C00080,2023-07-31,Delivery,High,Open,38
+T000810,C00584,2023-09-09,Delivery,Low,Open,18
+T000811,C00501,2024-11-23,Refund,Low,Open,44
+T000812,C00632,2023-09-10,Refund,Medium,Escalated,48
+T000813,C00065,2023-04-06,Account,Low,Open,56
+T000814,C00435,2024-10-03,Product Issue,Low,Open,28
+T000815,C00611,2023-04-23,Refund,Low,Open,13
+T000816,C00338,2023-09-15,Account,High,Resolved,53
+T000817,C00177,2024-07-01,Delivery,High,Resolved,37
+T000818,C00125,2023-08-28,Product Issue,Low,Resolved,26
+T000819,C00291,2024-02-16,Delivery,High,Open,40
+T000820,C00607,2024-03-01,Account,Medium,Open,58
+T000821,C00309,2024-10-23,Product Issue,Medium,Escalated,41
+T000822,C00312,2024-12-26,Product Issue,High,Resolved,15
+T000823,C00528,2025-05-17,Refund,Low,Escalated,72
+T000824,C00676,2023-07-01,Delivery,Low,Open,42
+T000825,C00523,2024-07-10,Refund,Medium,Open,6
+T000826,C00360,2023-03-01,Payment,Low,Open,9
+T000827,C00213,2023-11-14,Refund,Medium,Resolved,70
+T000828,C00679,2024-03-01,Product Issue,High,Open,55
+T000829,C00225,2024-07-12,Refund,Medium,Open,62
+T000830,C00504,2023-03-22,Payment,Medium,Resolved,22
+T000831,C00348,2025-02-01,Payment,High,Escalated,32
+T000832,C00270,2025-06-03,Delivery,Low,Open,48
+T000833,C00470,2025-04-26,Payment,High,Escalated,58
+T000834,C00432,2025-05-09,Refund,Medium,Open,21
+T000835,C00044,2025-06-16,Refund,Medium,Escalated,7
+T000836,C00242,2025-07-02,Account,Low,Resolved,49
+T000837,C00452,2025-05-25,Refund,Medium,Open,40
+T000838,C00098,2023-02-04,Account,Medium,Resolved,61
+T000839,C00125,2025-02-06,Delivery,High,Resolved,8
+T000840,C00013,2023-08-12,Product Issue,Low,Escalated,32
+T000841,C00344,2025-01-24,Account,Low,Open,15
+T000842,C00498,2023-07-22,Payment,Low,Resolved,11
+T000843,C00681,2023-01-12,Refund,Medium,Open,37
+T000844,C00447,2024-12-20,Product Issue,Low,Escalated,35
+T000845,C00487,2024-06-04,Account,Medium,Escalated,60
+T000846,C00539,2024-07-16,Account,Medium,Open,65
+T000847,C00641,2024-12-22,Refund,High,Escalated,46
+T000848,C00477,2024-12-18,Account,Medium,Resolved,13
+T000849,C00300,2025-06-13,Account,Low,Open,38
+T000850,C00427,2023-03-10,Account,Low,Open,23
+T000851,C00231,2024-10-15,Account,Medium,Resolved,3
+T000852,C00552,2025-05-30,Payment,Low,Open,67
+T000853,C00408,2024-02-06,Account,Medium,Escalated,68
+T000854,C00309,2023-05-30,Delivery,Low,Resolved,24
+T000855,C00395,2025-08-19,Product Issue,Low,Escalated,30
+T000856,C00051,2025-06-18,Product Issue,Low,Open,13
+T000857,C00099,2023-10-07,Payment,Low,Escalated,57
+T000858,C00417,2024-01-18,Delivery,Low,Resolved,44
+T000859,C00183,2025-05-09,Account,Medium,Escalated,48
+T000860,C00488,2024-03-23,Delivery,Low,Escalated,54
+T000861,C00073,2023-02-01,Account,Medium,Escalated,22
+T000862,C00605,2024-05-04,Delivery,Medium,Open,27
+T000863,C00535,2025-09-06,Refund,High,Open,51
+T000864,C00072,2023-05-27,Account,Medium,Open,63
+T000865,C00386,2023-06-05,Delivery,High,Resolved,43
+T000866,C00308,2024-10-08,Product Issue,Medium,Resolved,36
+T000867,C00233,2025-05-21,Delivery,Medium,Escalated,26
+T000868,C00682,2025-07-27,Account,High,Resolved,39
+T000869,C00572,2025-04-22,Account,High,Escalated,47
+T000870,C00251,2025-08-10,Delivery,Low,Resolved,5
+T000871,C00533,2025-02-23,Product Issue,High,Resolved,40
+T000872,C00049,2025-09-22,Delivery,Low,Open,14
+T000873,C00694,2024-04-06,Delivery,Low,Open,33
+T000874,C00188,2025-06-24,Payment,Medium,Escalated,32
+T000875,C00223,2023-03-21,Payment,Medium,Escalated,20
+T000876,C00319,2023-03-06,Product Issue,High,Open,16
+T000877,C00525,2024-08-09,Refund,Medium,Resolved,10
+T000878,C00492,2025-03-13,Refund,High,Escalated,38
+T000879,C00145,2025-09-11,Account,Low,Resolved,5
+T000880,C00107,2024-05-21,Payment,Medium,Open,70
+T000881,C00137,2023-03-24,Product Issue,Low,Open,44
+T000882,C00021,2025-01-19,Refund,High,Escalated,54
+T000883,C00242,2023-03-24,Payment,Low,Open,8
+T000884,C00679,2025-06-06,Product Issue,High,Open,11
+T000885,C00638,2025-07-10,Refund,High,Escalated,41
+T000886,C00095,2024-09-16,Refund,Medium,Resolved,62
+T000887,C00095,2023-10-10,Product Issue,Medium,Resolved,55
+T000888,C00325,2025-08-06,Account,High,Open,65
+T000889,C00447,2023-06-16,Payment,Medium,Escalated,48
+T000890,C00460,2024-04-18,Delivery,High,Open,16
+T000891,C00183,2023-03-09,Account,High,Escalated,25
+T000892,C00672,2025-06-11,Account,Low,Open,49
+T000893,C00490,2023-01-02,Refund,High,Resolved,1
+T000894,C00131,2023-06-25,Refund,High,Open,21
+T000895,C00284,2023-11-10,Product Issue,Low,Open,65
+T000896,C00298,2025-08-29,Payment,Low,Escalated,2
+T000897,C00225,2024-09-12,Account,Medium,Escalated,6
+T000898,C00431,2025-03-12,Product Issue,Medium,Open,40
+T000899,C00612,2023-03-31,Account,Medium,Escalated,39
